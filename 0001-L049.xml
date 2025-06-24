@@ -36,7 +36,7 @@ GUIDELINE -->
 			<t id="104">O</t>
 			
 			<t id="10">WIP</t>
-			<t id="11">Imperiale</t>
+			<t id="11">Imp.</t>
 			<t id="12">Sith</t>
 
 			<!-- Game system messages -->
@@ -586,15 +586,15 @@ GUIDELINE -->
 
 			<t id="110630">Das Lambda-Klasse T-4a Shuttle, auch bekannt als Imperial Lambda, Imperialer Transport oder Imperiales Shuttle, war ein Mehrzwecktransporter mit einem dreiflächigen Foliendesign, der vom Galaktischen Imperium während des Galaktischen Bürgerkriegs eingesetzt wurde und als elegante Abweichung von den Standards der brutalen imperialen Technik galt.</t>
 
-			<t id="110710">CR-70M Korvette</t>
+			<t id="110710">C-70M Korvette</t>
 
-			<t id="110720">CR-70M</t>
+			<t id="110720">C-70M</t>
 
 			<t id="110730">Die Consular-Klasse Raumkreuzer/Korvette war ein Raumschiff, das von der Corellian Engineering Corporation entworfen und hergestellt wurde und von der Galaktischen Republik benutzt wurde, um Jedi und Diplomaten zu unruhigen Orten in der Galaxis zu transportieren. Zivile Modelle des Consular-Klasse Raumkreuzers wurden für einfache Transporte verwendet und waren nicht zu unterscheiden.</t>
 
-			<t id="110810">CR-70 Consular-Klasse Korvette</t>
+			<t id="110810">C-70 Consular-Klasse Korvette</t>
 
-			<t id="110820">CR-70 Consular</t>
+			<t id="110820">C-70 Consular</t>
 
 			<t id="110830">Die Consular-Klasse Raum Kreuzer/Korvette war ein Raumschiff, das von der Corellian Engineering Corporation entworfen und hergestellt wurde und von der Galaktischen Republik benutzt wurde, um Jedi und Diplomaten zu unruhigen Orten in der Galaxis zu transportieren. Zivile Modelle des Consular-Klasse Raumkreuzers wurden für einfache Transporte verwendet und waren nicht zu unterscheiden.</t>
 
@@ -789,6 +789,10 @@ GUIDELINE -->
 			<t id="113520">Charubah Corvette</t>
 
 			<t id="113530">Die Charubah Korvette ist ein mittelgroßes Kampfschiff der Charubah Company. Sie dient dem Hapan-Konsortium als militärisches Hauptarbeitspferd sowohl zur Verteidigung als auch für Raubzüge.</t>
+
+			<t id="113610">Cumulus-class</t>
+			<t id="113620">Cumulus</t>
+			<t id="113630">Die Corsair der Cumulus-Klasse ist ein schnelles Kriegsschiff, das von Piratenangriffen eingesetzt wird.</t>
 
 			<!-- up to 99 M ships page IDs reserve -->
 
@@ -1129,9 +1133,9 @@ GUIDELINE -->
 			<t id="123731">Die GR-500 ist ein Unterstützungsschiff, welches von Gallofree Yards hergestellt wird. Sie ist von der GR-75 inspiriert, die der Rebellen Allianz und der neuen Republik gute Dienste geleistet hat. Dies ist die Bergbau Konfiguration.</t>
 			<t id="123732">Die GR-500 ist ein Unterstützungsschiff, welches von Gallofree Yards hergestellt wird. Sie ist von der GR-75 inspiriert, die der Rebellen Allianz und der neuen Republik gute Dienste geleistet hat. Dies ist die Gassammler Konfiguration.</t>
 
-			<t id="123810">Storm Kreuzer</t>
-			<t id="123820">Storm Kreuzer</t>
-			<t id="123830">Storm Kreuzer</t>
+			<t id="123810">Storm Kommandoträger</t>
+			<t id="123820">Storm Kommando</t>
+			<t id="123830">Der Storm Kommandoträger, auch bekannt als „Eskortträger der Spector-Klasse“ und „Imperialer Eskortträger“, ist ein Großkampfschifftyp, der von den Sturm-Kommandos des ehemaligen Galaktischen Imperiums häufig genutzt wurde. Nach ihrer offiziellen Auflösung nach der Schlacht von Yavin wurde dieses Schiff weiterhin von verschiedenen imperialen Kriegsherren eingesetzt.\n\nDie Sturm-Kommandos verlangten nach etwas anderem als dem Standard-Eskortträger der Imperialen Marine. Das Ergebnis ist ein wendiges Schiff mit schmalem Rumpf, einem ausgestellten, pfeilförmigen Bug, zwei Geschütztürmen auf der Mittellinie des Hecks, einer erstaunlichen Anzahl nach hinten gerichteter Raketenhalterungen und reichlich Hangarplatz für ein Schiff seiner Größe.\n\nDer Sturm-Kommandoträger verlässt sich auf seine Geschwindigkeit und sein hohes Alpha-Schlag-Potenzial, um bei Operationen schnelle, entscheidende Schläge auszuführen. Sobald seine Raketenvorräte aufgebraucht sind, ist er recht leicht bewaffnet. Das Schiff verfügt weder über die Munitionsvorräte noch über die Robustheit für längere Gefechte.</t>
 			
 			<t id="123910">Dekhara Cruiser</t>
 			<t id="123911">Sith Freighter</t>
@@ -1339,6 +1343,13 @@ GUIDELINE -->
 			<t id="132320">Allocator</t>
 			<t id="132330">Weit jenseits des Kerns, in den Weiten des äußeren Randes, endeten die Klonkriege nie. Im andauernden Konflikt zwischen der Corporate Sector Authority und der Independent Commerce Guild tauchen neue Schiffsdesigns auf, die als Weiterentwicklungen jahrzehntelanger Kriegsführung dienen. \nDer Allocator ist ein neueres Design in der Flotte der Commerce Guild, das sich auf direkte Feuerkraft von Schiff zu Schiff konzentriert und speziell zur Bekämpfung ähnlich neuer Bedrohungen aus dem Corporate Sector entwickelt wurde.</t>
 
+			<t id="132410">MC85 Star Cruiser</t>
+			<t id="132420">MC85</t>
+			<t id="132430">Der MC85-Sternenkreuzer ist ein Prototyp eines neuen schweren Sternenkreuzers, der von den Mon Calamari Shipyards und der Corellian Engineering Corporation hergestellt wird. Ausgestattet mit leistungsstarken Schilden, vergleichbar mit denen der Home One-Klasse, und zusätzlichen schweren Turbolasern wurde dieses Schiff für den direkten Kampf gegen die verbleibenden imperialen Streitkräfte konzipiert.</t>
+
+			<t id="132510">Subjugator Battle Cruiser</t>
+			<t id="132520">Subjugator</t>
+			<t id="132530">Der Schlachtkreuzer der Subjugator-Klasse ist ein schweres Schlachtschiff, das von Ruggle Schmong für die Flotte der Konföderation Unabhängiger Systeme auf Grundlage eines ausrangierten Raumschiffentwurfs der SoroSuub Corporation entwickelt wurde. Der Subjugator ist möglicherweise das größte Kriegsschiff, das zur Zeit der Klonkriege im Einsatz war. Er ist schwer bewaffnet mit Hunderten von Laserkanonen verschiedener Typen, mächtigen Ionenkanonen, Flakgeschützen und Protonentorpedos.</t>
 			<!-- WEAPONS -->
 
 			<!-- WEAPONS -->
@@ -1917,9 +1928,15 @@ GUIDELINE -->
 
 			<t id="208110">\033#97e19b23#D10 Long-range Turbolaser\033X</t>
 
+			<t id="208111">\033#97e19b23#D8 Single Turbolaser\033X</t>
+
 			<t id="208120">\033#97e19b23#D10 Long-range Turbolaser\033X</t>
 
+			<t id="208121">\033#97e19b23#D8 Single Turbolaser\033X</t>
+
 			<t id="208130">Der D10 ist ein einläufiger Turbolaser von Mittlerer mit großer Reichweite. Er hat die größte Reichweite für seine Waffenklasse auf dem Markt.</t>
+
+			<t id="208131">Der D8 ist ein mittelgroßer Turbolaser mit Einzellauf, der von einem der verstaatlichten Unternehmen des Imperiums hergestellt wird. Er verfügt über eine hohe Schadensleistung und eine für seine Größe große Reichweite.</t>
 
 			<t id="208210">\033#97e19b23#MoH-2 LR Turbolaser\033X</t>
 
@@ -2149,9 +2166,10 @@ GUIDELINE -->
 
 			<t id="221630">Die Hapan Ionenkanone ist normalerweise auf dem Hapan Nova Schlachtkreuzer verbaut.</t>
 
-			<t id="221710">\033#993d7bff#HV-3B Ionenkanone\033X</t>
-
-			<t id="221720">\033#993d7bff#HV-3B Ionenkanone\033X</t>
+			<t id="221710">\033#993d7bff#HV-1B Ion Cannon\033X</t>
+			<t id="221711">\033#993d7bff#HV-3B Triple Ion Cannon\033X</t>
+			<t id="221720">\033#993d7bff#HV-1B Ion Cannon\033X</t>
+			<t id="221721">\033#993d7bff#HV-3B Triple Ion Cannon\033X</t>
 
 			<t id="221730">Die Ionenkanone ist normalerweise auf größeren Kriegsschiffen verbaut.</t>
 
@@ -2188,6 +2206,22 @@ GUIDELINE -->
 			<t id="212310">\033#97e19b23#ST Dual Turbolaser\033X</t>
 			<t id="212320">\033#97e19b23#ST Dual Turbolaser\033X</t>
 			<t id="212330">Mittlere Turbolasertürme, die normalerweise auf Sith-Schiffen verwendet werden.</t>
+
+			<t id="212410">\033#993d7bff#Ion Pulse Cannon\033X</t>
+			<t id="212420">\033#993d7bff#Ion Pulse Cannon\033X</t>
+			<t id="212430">.</t>
+
+			<t id="212510">\033#95e03b29#HKD Dual Heavy Turbolaser\033X</t>
+			<t id="212520">\033#95e03b29#HKD Dual Heavy Turbolaser\033X</t>
+			<t id="212530">.</t>
+
+			<t id="212610">\033#95e03b29#HKD Quad Heavy Turbolaser\033X</t>
+			<t id="212620">\033#95e03b29#HKD Quad Heavy Turbolaser\033X</t>
+			<t id="212630">.</t>
+
+			<t id="212710">\033#95e03b29#HKD Super Heavy Turbolaser\033X</t>
+			<t id="212720">\033#95e03b29#HKD Super Heavy Turbolaser\033X</t>
+			<t id="212730">.</t>
 
 			<!-- Missile Turrets -->
 
@@ -2611,7 +2645,7 @@ GUIDELINE -->
 
 			<t id="301720">M Novaldex GA21-A1 Generator</t>
 
-			<t id="301730">Korvette-Maßstab Schildgenerator der Firma Novaldex. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \nNICH FÜR STATIONEN GEEIGNET.</t>
+			<t id="301730">Korvette-Maßstab Schildgenerator der Firma Novaldex. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \n\nNICH FÜR STATIONEN GEEIGNET.</t>
 
 			<t id="301810">M Novaldex GA21-A2 Schildgenerator</t>
 
@@ -2623,7 +2657,7 @@ GUIDELINE -->
 
 			<t id="301920">M Novaldex GA30-A1 Schildgenerator</t>
 
-			<t id="301930">Korvette-Maßstab Schildgenerator der Firma Novaldex. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \nNICH FÜR STATIONEN GEEIGNET.</t>
+			<t id="301930">Korvette-Maßstab Schildgenerator der Firma Novaldex. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \n\nNICH FÜR STATIONEN GEEIGNET.</t>
 
 			<t id="302010">M Novaldex GA30-A2 Schildgenerator</t>
 
@@ -2635,7 +2669,7 @@ GUIDELINE -->
 
 			<t id="302120">M CEC 500xa</t>
 
-			<t id="302130">Schildgenerator im Korvettenmaßstab, hergestellt von der Corellian Engineering Corporation. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \nNICH FÜR STATIONEN GEEIGNET.</t>
+			<t id="302130">Schildgenerator im Korvettenmaßstab, hergestellt von der Corellian Engineering Corporation. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \n\nNICH FÜR STATIONEN GEEIGNET.</t>
 
 			<t id="302210">M CEC 500xb</t>
 
@@ -2647,7 +2681,7 @@ GUIDELINE -->
 
 			<t id="302320">M CEC 600yta</t>
 
-			<t id="302330">Schildgenerator im Korvettenmaßstab, hergestellt von der Corellian Engineering Corporation. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \nNICH FÜR STATIONEN GEEIGNET.</t>
+			<t id="302330">Schildgenerator im Korvettenmaßstab, hergestellt von der Corellian Engineering Corporation. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \n\nNICH FÜR STATIONEN GEEIGNET.</t>
 
 			<t id="302410">M CEC 600ytb</t>
 
@@ -2659,7 +2693,7 @@ GUIDELINE -->
 
 			<t id="302520">M Kuat RC</t>
 
-			<t id="302530">Korvette-Maßstab Schildgenerator hergestellt von Kuat Drive Yards. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \nNICH FÜR STATIONEN GEEIGNET.</t>
+			<t id="302530">Korvette-Maßstab Schildgenerator hergestellt von Kuat Drive Yards. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \n\nNICH FÜR STATIONEN GEEIGNET.</t>
 
 			<t id="302610">M Kuat RC-r</t>
 
@@ -2671,7 +2705,7 @@ GUIDELINE -->
 
 			<t id="302720">M Quintad OS88a</t>
 
-			<t id="302730">Korvette-Maßstab Schildgenerator hergestellt von Quintad Orbital Manufacturing. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \nNICH FÜR STATIONEN GEEIGNET.</t>
+			<t id="302730">Korvette-Maßstab Schildgenerator hergestellt von Quintad Orbital Manufacturing. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \n\nNICH FÜR STATIONEN GEEIGNET.</t>
 
 			<t id="302810">M Quintad OS88b</t>
 
@@ -2683,7 +2717,7 @@ GUIDELINE -->
 
 			<t id="302920">M MandalMotors Sm11</t>
 
-			<t id="302930">Korvette-Maßstab Schildgenerator hergestellt von MandalMotors. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \nNICH FÜR STATIONEN GEEIGNET.</t>
+			<t id="302930">Korvette-Maßstab Schildgenerator hergestellt von MandalMotors. Redundanzsystem welches innerhalb des Schiffes angebracht und von aussen nicht sichtbar ist. \n\nNICH FÜR STATIONEN GEEIGNET.</t>
 
 			<t id="303010">M MandalMotors Sm12</t>
 
@@ -3423,9 +3457,15 @@ GUIDELINE -->
 
 			<t id="318110">Mon Calamari Unterlicht-Antrieb</t>
 
+			<t id="318111">MC85 Sublight Engine</t>
+
 			<t id="318120">Mon Calamari Unterlicht-Antrieb</t>
 
+			<t id="318121">MC85 Sublight Engine</t>
+
 			<t id="318130">Mon Calamari Unterlicht-Antrieb</t>
+
+			<t id="318131">MC85 Sublight Engine</t>
 
 			<t id="318210">Daedal Antrieb</t>
 
@@ -3641,10 +3681,13 @@ GUIDELINE -->
 			<t id="321820">GR-500 Antrieb</t>
 			<t id="321830">GR-500 Antrieb</t>
 
-			<t id="321910">Storm Antrieb</t>
-			<t id="321920">Storm Antrieb</t>
-			<t id="321930">Storm Antrieb</t>
+			<t id="321910">Storm Kommando Antrieb</t>
+			<t id="321920">Storm Kommando Antrieb</t>
+			<t id="321930">Antrieb für den Storm Kommandoträger, der auch bekannt ist als 'Spector-class Eskortträger' oder 'Imperialer Eskortträger</t>
 
+			<t id="322010">Subjugator Engine</t>
+			<t id="322020">Subjugator Engine</t>
+			<t id="322030">Subjugator Engine</t>
 			<!-- FACTIONS AND RACES -->
 
 			<t id="590010">Mensch</t>
@@ -4174,6 +4217,12 @@ GUIDELINE -->
 
 			<t id="512320">(Alliierte)Black Sun Mitglied</t>
 
+			<t id="512330">(Werft)Black Sun Sternenjäger Baulizenz</t>
+			<t id="512340">(Großschiffe)Black Sun Großschiffs Baulizenz</t>
+			<t id="512350">Black Sun Basismodul Lizenz</t>
+			<t id="512360">Black Sun Zwischenstufenmodul Lizenz</t>
+			<t id="512370">Black Sun Fortgeschrittenemodul Lizenz</t>
+
 			<!-- valarian pirates-->
 
 			<t id="513110">Valarian Syndikat</t>
@@ -4185,6 +4234,12 @@ GUIDELINE -->
 			<t id="513310">(Freund)Syndikat Informant</t>
 
 			<t id="513320">(Alliierte)Syndikat Mitglied</t>
+
+			<t id="513330">(Werft)Syndicate Sternenjäger Baulizenz</t>
+			<t id="513340">(Großschiffe)Syndicate Großschiffs Baulizenz</t>
+			<t id="513350">Syndicate Basismodul Lizenz</t>
+			<t id="513360">Syndicate Zwischenstufenmodul Lizenz</t>
+			<t id="513370">Syndicate Fortgeschrittenemodul Lizenz</t>
 
 			<!-- mando raiders pirates-->
 
@@ -4286,6 +4341,12 @@ GUIDELINE -->
 
 			<t id="517280">(Handel)Kamino Handels Abonement</t>
 
+			<t id="517330">(Werft)Kamino Sternenjäger Baulizenz</t>
+			<t id="517340">(Großschiffe)Kamino Großschiffs Baulizenz</t>
+			<t id="517350">Kamino Basismodul Lizenz</t>
+			<t id="517360">Kamino Zwischenstufenmodul Lizenz</t>
+			<t id="517370">Kamino Fortgeschrittenemodul Lizenz</t>
+
 			<!--kuat-->
 
 			<t id="518110">Kuat Drive Yards</t>
@@ -4296,9 +4357,9 @@ GUIDELINE -->
 
 			<!-- corellia-->
 
-			<t id="519110">Corellia Engeneering</t>
+			<t id="519110">Corellia Engineering Corporation</t>
 
-			<t id="519120">CRL</t>
+			<t id="519120">CEC</t>
 
 			<t id="519130">Die Corellian Engineering Corporation ist einer der größten Raumschiffhersteller der Galaxis und gilt allgemein als der produktivste. Ihren Erfolg verdankt sie vor allem einer ungewöhnlich hohen Anzahl an erfahrenen Designern, Ingenieuren und Schiffbauern, von denen viele im Corellia-System ausgebildet wurden. \n Als einer der ältesten Raumschiffhersteller der Galaxis behauptet die Corellian Engineering Corporation AUCH, das am längsten bestehende Unternehmen in der galaktischen Geschichte zu sein. \n Die Werften sind für eine Vielzahl von Schiffsmodellen bekannt, von den produktiven leichten Frachtern der YT-Serie bis hin zur Korvette CR-90 und mehr. Neben seinen Schiffen baut CEC auch verschiedene Raumschiffkomponenten.</t>
 
@@ -4762,7 +4823,7 @@ GUIDELINE -->
 			<t id="800121">Nach dem verlust ihres letzten Sektors ,$FACTION$ ist jetzt besiegt und unterworfen.\nEs ist ihnen verboten, Eigentum jeglicher Art zu besitzen oder neue Bauprojekte im Weltraum und auf Planeten zu beginnen. \nAlles, was von ihrer Art von Regierung noch übrig ist, ist inzwischen aufgelöst.</t>
 
 
-			<!-- HQ teleporation related text -->
+			<!-- HQ teleportation related text -->
 
 			<t id="800200">Samuel Vicious</t>
 
@@ -5573,11 +5634,11 @@ GUIDELINE -->
 			<t id="720262">Imp. S Habitat</t>
 
 			<t id="720270">Generic L Habitat</t>
-
+			<t id="7202701">Dormintory L</t>
 			<t id="720271">Generic M Habitat</t>
-
+			<t id="7202711">Dormintory M</t>
 			<t id="720272">Generic S Habitat</t>
-
+			<t id="7202721">Dormintory S</t>
 			<t id="720280">Vertikaler L Container</t>
 
 			<t id="720281">Vertikaler M Container</t>
@@ -5687,6 +5748,7 @@ GUIDELINE -->
 			<t id="720471">Generische 1-Dock Pier</t>
 
 			<t id="720472">Generische 3-Dock E Pier</t>
+			<t id="720473">Generische 1-Dock kurze Pier</t>
 
 			<t id="720480">Produktion von medizinischem Material</t>
 
@@ -8349,7 +8411,9 @@ GUIDELINE -->
 
 			<!-- mission maydays: Kurztitel für RAP -->
 
-			<t id="229">Maitag! Mai!</t>
+			<t id="229">Mayday! Mayday!</t>
+			<!-- mission maydays: mission log -->
+			<t id="231">%s entkamen ihren Angreifern, bevor Sie eine Chance hatten, anzugreifen.</t>
 
 			<!-- Schadens- und Tötungsliste -->
 
@@ -8904,7 +8968,7 @@ GUIDELINE -->
 
 			<t id="552">(column title in reputations menu)Einstellung </t>
 
-			<t id="553">(mission offers)Verbinden mit dem Gildennetzwerk</t>
+			<t id="553">(mission offers)Verbinden mit dem Gildennetzwerk:</t>
 
 			<t id="554">(mission offers)Lade Missionsangebote aus dem Gildennetzwerk.</t>
 
@@ -10189,7 +10253,7 @@ GUIDELINE -->
 
 			<t id="14">Coruscant Finanzbüro</t>
 
-			<t id="15">Liebe galaktische Bürgerinnen und Bürger! \n\nCoruscant Financial Bureau ist eine gemeinnützige Einrichtung, die der galaktischen Gemeinschaft Bewertungen verschiedener Organisationen und Unternehmen zur Verfügung stellt, mit dem Ziel, die Zusammenarbeit und Koordination zwischen galaktischen Regierungen und anderen Entitäten zu verbessern. \nMit den kürzlich erworbenen Vermögenswerten sind Sie nun ein Subjekt für die Registrierung im Coruscant Financial Bureau, alle Unterlagen werden automatisch erstellt und Sie werden über Ihre zukünftigen Unternehmungen auf dem Laufenden gehalten. In Kürze werden Sie eine Benachrichtigung über die erste Bewertung Ihres Vermögens erhalten, verpassen Sie diese nicht! \nAbhängig von Ihrer CFB-Einstufung können Sie von den Fraktionen unterschiedlich betrachtet werden, achten Sie also auf Ihre aktuelle Einstufung, die eine der folgenden sein kann: \n\nPrivatier - bei weniger als 150 Mio. Vermögenskosten \(keine Rep.-Strafe\)\nPrivatunternehmen - bei 150 Mio. Gesamtvermögenskosten \(10% als Rep.-Strafe mit Feinden aus positivem Rep.-Gewinn\)\nOrganisation - bei 300 Mio. Gesamtvermögenskosten \(20% als Rep.-Strafe mit Feinden aus positivem Rep.-Gewinn\)\nKonzern - bei 600 Mio. Gesamtvermögenskosten \(50% als Rep.-Malus bei Feinden mit positivem Rep.-Gewinn\)\nMajor Faction - bei 1 Mrd. Gesamtvermögenskosten \(80% als Rep.-Malus bei Feinden mit positivem Rep.-Gewinn\)\nEmpire - bei 1.5 Mrd. Gesamtvermögenskosten \(120% als Rep.-Malus bei Feinden mit positivem Rep.-Gewinn\)\n\nDie Regeln für die Berechnung sind wie folgt: \n-Anlagen, die weniger als 50k Cr kosten, werden ignoriert\n-Händler, Minenarbeiter und Hilfsschiffe werden mit 50% ihrer Kreditkosten angerechnet\n-Produktionsstationsmodule werden mit 80% ihrer Kreditkosten angerechnet\n-Nicht-Produktionsstationsmodule werden mit 35% ihrer Kreditkosten angerechnet\n-Schiffswerft und Werftmodule werden mit 70% ihrer Kreditkosten angerechnet\n-Alle anderen Anlagen werden mit 100% ihrer Kreditkosten angerechnet\n</t>
+			<t id="15">Liebe galaktische Bürgerinnen und Bürger! \n\nCoruscant Financial Bureau ist eine gemeinnützige Einrichtung, die der galaktischen Gemeinschaft Bewertungen verschiedener Organisationen und Unternehmen zur Verfügung stellt, mit dem Ziel, die Zusammenarbeit und Koordination zwischen galaktischen Regierungen und anderen Entitäten zu verbessern. \nMit den kürzlich erworbenen Vermögenswerten sind Sie nun ein Subjekt für die Registrierung im Coruscant Financial Bureau, alle Unterlagen werden automatisch erstellt und Sie werden über Ihre zukünftigen Unternehmungen auf dem Laufenden gehalten. In Kürze werden Sie eine Benachrichtigung über die erste Bewertung Ihres Vermögens erhalten, verpassen Sie diese nicht! \nAbhängig von Ihrer CFB-Einstufung können Sie von den Fraktionen unterschiedlich betrachtet werden, achten Sie also auf Ihre aktuelle Einstufung, die eine der folgenden sein kann: \n\nPrivatier - bei weniger als 150 Mio. Vermögenskosten \(keine Rep.-Strafe\)\nPrivatunternehmen - bei 150 Mio. Gesamtvermögenskosten \(10% als Rep.-Strafe mit Feinden aus positivem Rep.-Gewinn\)\nOrganisation - bei 300 Mio. Gesamtvermögenskosten \(20% als Rep.-Strafe mit Feinden aus positivem Rep.-Gewinn\)\nKonzern - bei 600 Mio. Gesamtvermögenskosten \(50% als Rep.-Malus bei Feinden mit positivem Rep.-Gewinn\)\nMajor Faction - bei 800 Mio. Gesamtvermögenskosten \(80% als Rep.-Malus bei Feinden mit positivem Rep.-Gewinn\)\nEmpire - bei 1 Mrd. Gesamtvermögenskosten \(120% als Rep.-Malus bei Feinden mit positivem Rep.-Gewinn\)\n\nDie Regeln für die Berechnung sind wie folgt: \n-Anlagen, die weniger als 150k Cr kosten, werden ignoriert\n-Händler, Minenarbeiter und Hilfsschiffe werden mit 50% ihrer Kreditkosten angerechnet\n-Produktionsstationsmodule werden mit 80% ihrer Kreditkosten angerechnet\n-Nicht-Produktionsstationsmodule werden mit 35% ihrer Kreditkosten angerechnet\n-Schiffswerft und Werftmodule werden mit 70% ihrer Kreditkosten angerechnet\n-Alle anderen Anlagen werden mit 100% ihrer Kreditkosten angerechnet\n</t>
 
 			<t id="16">Einführungsschreiben des Coruscant Finanzbüros</t>
 
