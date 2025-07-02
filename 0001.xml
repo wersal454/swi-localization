@@ -756,6 +756,10 @@ GUIDELINE -->
 			<t id="124131">A utility vessel built with modularity in mind to provide logistical support. This is a solid miner modification.</t>
 			<t id="124132">A utility vessel built with modularity in mind to provide logistical support. This is a liquid miner modification.</t>
 
+			<t id="124210">Jehavey'ir-type Assault Ship</t>
+			<t id="124220">Jehavey'ir-type</t>
+			<t id="124230">When the ancient Mandalorian Neo-Crusaders conquered and enslaved the people of Basilisk, they stole that peoples' technology and adapted it into terrifying weapons and warships. Among those ships used by Mandalorian fleets to assault the Old Republic was the Jehavey'ir-type assault ship, a vaguely insectoid craft bristling with weapons befitting its Mando'a name: 'ambush'.\n\nIn recent years, MandalMotors engineers have updated and modernized the Jehavey'ir-type. Its missiles and turbolasers make it a formidable foe in any fight.</t>
+
 			<!-- up to 99 L ships page IDs reserve -->
 			<!-- XL-size ships -->
 			<t id="130110">Imperial Star Destroyer I</t>
@@ -1440,7 +1444,7 @@ GUIDELINE -->
 
 			<t id="212310">\033#97e19b23#ST Dual Turbolaser\033X</t>
 			<t id="212320">\033#97e19b23#ST Dual Turbolaser\033X</t>
-			<t id="212330">Medium turbolaser turrets usually used on Sith ships.</t>
+			<t id="212330">Medium turbolaser turrets usually used on Sith ships. </t>
 
 			<t id="212410">\033#993d7bff#Ion Pulse Cannon\033X</t>
 			<t id="212420">\033#993d7bff#Ion Pulse Cannon\033X</t>
@@ -1457,6 +1461,7 @@ GUIDELINE -->
 			<t id="212710">\033#95e03b29#HKD Super Heavy Turbolaser\033X</t>
 			<t id="212720">\033#95e03b29#HKD Super Heavy Turbolaser\033X</t>
 			<t id="212730">.</t>
+
 			<!-- Missile Turrets -->
 			<t id="210110">Medium Concussion Missile Launcher</t>
 			<t id="210120">Medium Missile Launcher</t>
@@ -2435,6 +2440,10 @@ GUIDELINE -->
 			<t id="322020">Subjugator Engine</t>
 			<t id="322030">Subjugator Engine</t>
 
+			<t id="322110">Jehavey'ir-type Engine</t>
+			<t id="322120">Jehavey'ir-type Engine</t>
+			<t id="322130">Engine for the Jehavey'ir-type Assault Ship</t>
+
 			<!-- FACTIONS AND RACES -->
 
 			<t id="590010">Human</t>
@@ -3267,6 +3276,14 @@ GUIDELINE -->
 			<t id="890610">TIE Silencer Prototype</t>
 			<t id="890630">Allows construction of a prototype for a new TIE design.</t>
 
+			<t id="890710">Subjugator Battlecruiser Prototype</t>
+			<t id="890730">Allows construction of a Subjugator-class Battlecruiser.</t>
+
+			<t id="890810">Mon Calamari Star Cruiser Construction</t>
+			<t id="890830">Allows construction of the MC80 Home One Star Cruiser.</t>
+
+			<t id="890910">New Republic Star Cruiser Construction</t>
+			<t id="890930">Allows construction of the MC85 Star Cruiser.</t>
 			<!-- GAMESTARTS -->
 			<!-- GAME STARTS -->
 			<!-- GAME STARTS -->
