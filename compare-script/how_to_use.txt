@@ -1,0 +1,46 @@
+XML ID Comparison Tool
+======================
+
+This script compares <t> tag IDs between two XML files and finds IDs present in the first file but missing in the second.
+
+Requirements:
+- Python 3.x
+- Standard libraries (no additional packages needed)
+
+Usage:
+1. Run in command line:
+   python compare_xml_ids.py path/to/first.xml path/to/second.xml
+
+   for example python compare_xml_ids.py 0001.xml 0001-L007.xml
+
+Features:
+- Finds all <t id="XXX"> tags in both files
+- Compares IDs as strings but sorts numerically
+- Handles duplicate IDs within same file
+- Error handling for:
+  - Missing files
+  - Invalid XML format
+  - Incorrect arguments
+
+Output:
+- List of missing IDs sorted numerically
+- Count of missing IDs
+- Success message if no IDs are missing
+
+Example:
+python compare_xml_ids.py english.xml german.xml
+
+Output example:
+Found 3 missing IDs in second file:
+575
+576
+577
+
+Notes:
+- Only considers <t> tags with 'id' attribute
+- Works with large XML files
+- Case-sensitive for tag names
+- Ensure both files use consistent encoding (UTF-8 recommended)
+
+Version: 1.0
+Author: wersal

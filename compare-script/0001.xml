@@ -216,7 +216,7 @@ GUIDELINE -->
 
 			<t id="103610">TIE Phantom</t>
 			<t id="103620">TIE/ph</t>
-			<t id="103630">The TIE Phantom is the result of a development project led by Grand Admiral Martio Batch and is equipped with both deflector shields and a hyperdrive, along with a technology not seen for decades — a  cloaking device. Models and schematics sold to third-party vendors conspicuously leave the cloak missing, however, though the mount for the device remains-- intrepid spacers may be able to replace it for less-than-legal activity.</t>
+			<t id="103630">The TIE Phantom is the result of a development project led by Grand Admiral Martio Batch and is equipped with both deflector shields and a hyperdrive, along with a technology not seen for decades — a  cloaking device.</t>
 
 			<t id="103710">TIE Fury /H</t>
 			<t id="103720">TIE/fu/h</t>
@@ -736,7 +736,7 @@ GUIDELINE -->
 
 			<t id="123810">Storm Commando Carrier</t>
 			<t id="123820">Storm Commando</t>
-			<t id="123830">The Storm Commando Carrier, also known as the 'Spector-class Escort Carrier' and 'Imperial Escort Carrier', is a type of capital ship used extensively by the former Galactic Empire's Storm Commandos. Following the collapse of the Empire, this ship has found continued use by various Imperial warlords.\n\nThe Storm Commandos demanded something different than the standard escort carrier of the Imperial Navy. The result is a nimble narrow-hulled ship with a flared arrowhead bow, two turrets on the dorsal centerline, a startling number of rear-facing missile racks, and ample hangar space for a ship of its size.\n\nThe Storm Commando Carrier relies on speed and high alpha-strike potential to deal quick decisive blows during operations. However, once its missile stores are depleted it is left lightly-armed and armored, leaving it ill-suited to prolonged engagements.</t>
+			<t id="123830">The Storm Commando Carrier, also known as the 'Spector-class Escort Carrier' and 'Imperial Escort Carrier', is a type of capital ship used extensively by the former Galactic Empire's Storm Commandos. Following their official disbandment after the Battle of Yavin, this ship has found continued use by various Imperial warlords.\n\nThe Storm Commandos demanded something different than the standard escort carrier of the Imperial Navy. The result is a nimble narrow-hulled ship with a flared arrowhead bow, two turrets on the dorsal centerline, a startling number of rear-facing missile racks, and ample hangar space for a ship of its size.\n\nThe Storm Commando Carrier relies on speed and high alpha-strike potential to deal quick decisive blows during operations. Once its missile stores are depleted it is quite lightly armed. The ship does not have the ammunition stores or durability for prolonged combat. </t>
 
 			<t id="123910">Dekhara Cruiser</t>
 			<t id="123911">Sith Freighter</t>
@@ -755,10 +755,6 @@ GUIDELINE -->
 			<t id="124130">A utility vessel built with modularity in mind to provide logistical support. This is a freighter modification.</t>
 			<t id="124131">A utility vessel built with modularity in mind to provide logistical support. This is a solid miner modification.</t>
 			<t id="124132">A utility vessel built with modularity in mind to provide logistical support. This is a liquid miner modification.</t>
-
-			<t id="124210">Jehavey'ir-type Assault Ship</t>
-			<t id="124220">Jehavey'ir-type</t>
-			<t id="124230">When the ancient Mandalorian Neo-Crusaders conquered and enslaved the people of Basilisk, they stole that peoples' technology and adapted it into terrifying weapons and warships. Among those ships used by Mandalorian fleets to assault the Old Republic was the Jehavey'ir-type assault ship, a vaguely insectoid craft bristling with weapons befitting its Mando'a name: 'ambush'.\n\nIn recent years, MandalMotors engineers have updated and modernized the Jehavey'ir-type. Its missiles and turbolasers make it a formidable foe in any fight.</t>
 
 			<!-- up to 99 L ships page IDs reserve -->
 			<!-- XL-size ships -->
@@ -881,11 +877,11 @@ GUIDELINE -->
 
 			<t id="132410">MC85 Star Cruiser</t>
 			<t id="132420">MC85</t>
-			<t id="132430">Following the Battle of Endor and the formation of the New Republic, the Mon Calamari Shipyards and Corellian Engineering Corporation cooperated to develop a new frontline warship for a multi-species navy.  The resulting ship, the MC85 Star Cruiser, is a massive battleship intended to be a defensive keystone in New Republic fleets. Rather than being a repurposed civilian ship, like the MC80 line, the MC85 was designed from the start to engage in direct ship-to-ship combat.\n\nA robust and sturdy platform, this cruiser utilizes heavy weaponry and advanced shielding. Keeping with the New Republic doctrine of force projection through versatility, the MC85 also boasts large inset hangars, allowing it to carry a full complement of fighters.</t>
+			<t id="132430">The MC85 Star Cruiser is a prototype of new heavy Star Cruiser manufactured by the Mon Calamari Shipyards and the Corellian Engineering Corporation. Incorporating the powerful shields comparable to Home One class and additional heavy turbolasers this ship is designed with single purpose in mind - direct ship-to-ship combat in fight against remaining imperial forces.</t>
 
 			<t id="132510">Subjugator Battle Cruiser</t>
 			<t id="132520">Subjugator</t>
-			<t id="132530">In the early months of the Clone Wars, the Republic Navy was plagued by a new and terrifying threat:  a Subjugator-class Battlecruiser, the Malevolence. Initially the Republic had difficulty in tracking the Malevolence as its advanced axial Ion Cannons were capable of projecting a massive blast which disabled any vessel caught in its wake, and even entire fleets of Republic Star Destroyers fell to the following barrage of missiles and laser fire. The Republic's first several encounters with the Malevolence resulted in a complete loss of Republic assets, and only a handful of survivors. However, with the intelligence acquired by those survivors, Republic forces under General Anakin Skywalker were able to disable the Malevolence with a large-scale bomber strike, and on-board sabotage forced the ship to crash into the Dead Moon of Antar, finally destroying it.\n\nDespite being wildly successful in its first engagements, the Separatists kept their remaining Subjugators away from the frontlines except as a last result, fearing additional losses of these resource-intensive ships; those remaining Subjugators disappeared entirely after the Clone Wars. Following the end of the Galactic Civil War, and the growing hostilities between the Corporate Sector Authority and Independent Commerce Guild, it has been rumored that these massive ships have once again been seen in supermassive shipyards.</t>
+			<t id="132530">The Subjugator-class Battle Cruiser is a type of heavy battleship designed by Ruggle Schmong for use by the Confederacy of Independent Systems' naval forces from a discarded SoroSuub Corporation starship design. Potentially the largest warship that served at the time of the Clone Wars, the Subjugator is heavily armed with hundreds of laser cannons of different types, powerful ion cannons, flak guns and proton torpedoes.</t>
 
 			<!-- WEAPONS -->
 			<!-- WEAPONS -->
@@ -1448,7 +1444,7 @@ GUIDELINE -->
 
 			<t id="212410">\033#993d7bff#Ion Pulse Cannon\033X</t>
 			<t id="212420">\033#993d7bff#Ion Pulse Cannon\033X</t>
-			<t id="212430">This massive broadside ion cannon is fitted exclusively to the Subjugator-class Battle Cruiser, and is capable of damaging and disabling </t>
+			<t id="212430">.</t>
 
 			<t id="212510">\033#95e03b29#HKD Dual Heavy Turbolaser\033X</t>
 			<t id="212520">\033#95e03b29#HKD Dual Heavy Turbolaser\033X</t>
@@ -1461,7 +1457,6 @@ GUIDELINE -->
 			<t id="212710">\033#95e03b29#HKD Super Heavy Turbolaser\033X</t>
 			<t id="212720">\033#95e03b29#HKD Super Heavy Turbolaser\033X</t>
 			<t id="212730">.</t>
-
 			<!-- Missile Turrets -->
 			<t id="210110">Medium Concussion Missile Launcher</t>
 			<t id="210120">Medium Missile Launcher</t>
@@ -2182,7 +2177,7 @@ GUIDELINE -->
 
 			<t id="315010">4a Fission Engine</t>
 			<t id="315020">4a Engine</t>
-			<t id="315030">The 4a fission engine is a heavier version of 2a engine, designed for medium-sized fighters and landing craft.</t>
+			<t id="315030">The 4a fission engine is a heavier version of 2a engine, designed for medium-sized fighters and landing craft. </t>
 
 			<t id="315110">CEC Ter40 Sphyrna Ion Engine</t>
 			<t id="315120">CEC Ter40 Sphyrna Ion Engine</t>
@@ -2434,15 +2429,11 @@ GUIDELINE -->
 
 			<t id="321910">Storm Commando Engine</t>
 			<t id="321920">Storm Commando Engine</t>
-			<t id="321930">Engine for the Storm Commando Carrier.</t>
+			<t id="321930">Engine for the Storm Commando Carrier, also known as the 'Spector-class Escort Carrier' and 'Imperial Escort Carrier'</t>
 			
 			<t id="322010">Subjugator Engine</t>
 			<t id="322020">Subjugator Engine</t>
 			<t id="322030">Subjugator Engine</t>
-
-			<t id="322110">Jehavey'ir-type Engine</t>
-			<t id="322120">Jehavey'ir-type Engine</t>
-			<t id="322130">Engine for the Jehavey'ir-type Assault Ship</t>
 
 			<!-- FACTIONS AND RACES -->
 
@@ -3276,14 +3267,6 @@ GUIDELINE -->
 			<t id="890610">TIE Silencer Prototype</t>
 			<t id="890630">Allows construction of a prototype for a new TIE design.</t>
 
-			<t id="890710">Subjugator Battlecruiser Prototype</t>
-			<t id="890730">Allows construction of a Subjugator-class Battlecruiser.</t>
-
-			<t id="890810">Mon Calamari Star Cruiser Construction</t>
-			<t id="890830">Allows construction of the MC80 Home One Star Cruiser.</t>
-
-			<t id="890910">New Republic Star Cruiser Construction</t>
-			<t id="890930">Allows construction of the MC85 Star Cruiser.</t>
 			<!-- GAMESTARTS -->
 			<!-- GAME STARTS -->
 			<!-- GAME STARTS -->
