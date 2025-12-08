@@ -1,0 +1,122 @@
+XML String Comparison Tool
+==========================
+
+This script compares the content of <t> tags between two XML files and finds
+IDs where the text content has changed, been added, or removed.
+
+Requirements:
+- Python 3.x
+- Standard libraries only (no additional packages needed)
+- Files must be valid XML with UTF-8 encoding recommended
+
+Usage:
+1. Run in command line:
+   python compare_same_xml_files.py path/to/old.xml path/to/new.xml
+
+   for example:
+   python compare_same_xml_files.py path/to/old_0001.xml  path/to/new_0001.xml
+
+Features:
+- Extracts all <t id="XXX"> tags with their text content from both files
+- Compares text content for matching IDs
+- Identifies three types of changes:
+  * Modified strings (same ID, different text)
+  * Added strings (IDs present only in new file)
+  * Removed strings (IDs present only in old file)
+- Sorts IDs numerically for consistent output
+- Handles empty strings and whitespace differences
+- Option to export results to CSV file
+- Error handling for:
+  - Missing files
+  - Invalid XML format
+  - Incorrect arguments
+  - File encoding issues
+
+Output:
+- Summary statistics showing counts of each change type
+- Detailed list of modified strings with old and new values
+- Lists of added and removed strings (if any)
+- Success message if no changes found
+
+Examples:
+1. Basic comparison:
+   python compare_same_xml_files.py english.xml german.xml
+
+   Output example:
+   ==================================================
+   COMPARISON RESULTS
+   ==================================================
+   
+   Summary:
+     Total strings in old file: 150
+     Total strings in new file: 152
+     Common strings: 148
+     Changed strings: 5
+     Added strings: 4
+     Removed strings: 2
+   
+   Found 5 changed strings:
+   --------------------------------------------------
+   
+   ID: 45
+     Old: Welcome to our application
+     New: Welcome to our updated application
+   
+   ID: 78
+     Old: Click here to continue
+     New: Tap here to proceed
+
+2. No changes scenario:
+   python compare_same_xml_files.py version1.xml version2.xml
+   
+   Output example:
+   ==================================================
+   COMPARISON RESULTS
+   ==================================================
+   
+   Summary:
+     Total strings in old file: 100
+     Total strings in new file: 100
+     Common strings: 100
+     Changed strings: 0
+     Added strings: 0
+     Removed strings: 0
+   
+   No changes found in common strings.
+
+3. With export option (user prompted):
+   After showing results, script asks:
+   "Export changes to CSV file? (y/n):"
+   
+   If yes, creates changes_[filename].csv with columns:
+   ID,Old Text,New Text
+
+Advanced Features:
+- CSV export for easy import into spreadsheets or translation tools
+- Handles special characters and newlines in text
+- Shows character count differences for modified strings
+- Case-sensitive string comparison
+- Proper handling of XML entities and encoding
+
+Notes:
+- Only considers <t> tags with 'id' attribute
+- Text comparison is exact (including whitespace by default)
+- For case-insensitive comparison, modify the script
+- Large files are processed efficiently using iterparse method
+- Empty strings are treated as valid content
+- Files should use consistent encoding (UTF-8 recommended)
+- Script preserves original formatting in output
+
+Tips:
+1. For reviewing translation updates, run:
+   python compare_xml_strings.py old_translation.xml new_translation.xml
+
+2. To track changes between versions:
+   python compare_xml_strings.py v1.0.xml v1.1.xml
+
+3. Combine with ID comparison script for complete analysis:
+   python compare_xml_ids.py file1.xml file2.xml
+   python compare_xml_strings.py file1.xml file2.xml
+
+Version: 1.0
+Author: wersal
