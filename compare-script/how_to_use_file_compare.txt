@@ -109,14 +109,14 @@ Notes:
 
 Tips:
 1. For reviewing translation updates, run:
-   python compare_xml_strings.py old_translation.xml new_translation.xml
+   python compare_same_xml_files.py old_translation.xml new_translation.xml
 
 2. To track changes between versions:
-   python compare_xml_strings.py v1.0.xml v1.1.xml
+   python compare_same_xml_filess.py v1.0.xml v1.1.xml
 
 3. Combine with ID comparison script for complete analysis:
    python compare_xml_ids.py file1.xml file2.xml
-   python compare_xml_strings.py file1.xml file2.xml
+   python compare_same_xml_files.py file1.xml file2.xml
 
 Version: 1.0
 Author: wersal
