@@ -1,0 +1,60 @@
+XML Visual String Comparison Tool
+=================================
+
+This script provides a visual, colored diff of text changes between two XML files,
+highlighting exactly which characters were added, removed, or changed.
+
+DOES NOT WORK PROPERLY, use standart version instead
+
+Requirements:
+- Python 3.x
+- Standard libraries only (difflib for text comparison)
+- Terminal/console that supports ANSI color codes
+
+Usage:
+1. Run in command line:
+   python compare_same_xml_files_colored.py path/to/first.xml path/to/second.xml
+
+   for example:
+   python compare_same_xml_files_colored.py path/to/old_0001.xml  path/to/new_0001.xml
+
+Features:
+- Side-by-side visual comparison of text changes
+- Color-coded output:
+  * Red: Removed characters
+  * Green: Added characters
+  * Yellow: ID headers
+- Shows character-level differences within strings
+- Best for identifying small changes in long strings
+- Compact output focusing only on changed strings
+
+Output:
+- Colorful display of differences for each changed ID
+- Character-level highlighting within changed text
+- Total count of changed strings
+
+Example:
+python compare_same_xml_files_colored.py old.xml new.xml
+
+Output example:
+============================================================
+Visual Comparison: old.xml vs new.xml
+============================================================
+
+ID: 45
+  Changes:
+  Welcome to our application
+
+ID: 78
+  Changes:
+  Click here to continue
+
+Notes:
+- Requires terminal that supports ANSI colors (most modern terminals do)
+- Best viewed in terminals with dark backgrounds
+- For long strings, shows inline diff rather than side-by-side
+- Colors help quickly spot additions (green) and deletions (red)
+- Use for detailed review of specific changes
+
+Version: 1.0
+Author: wersal
