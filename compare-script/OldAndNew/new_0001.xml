@@ -42,6 +42,7 @@ GUIDELINE -->
 			<t id="10">WIP</t>
 			<t id="11">Imp.</t>
 			<t id="12">Sith</t>
+			<t id="13">Imperial</t>
 
 			<!-- Game system messages -->
 			<t id="100010">Reactive description</t>
@@ -228,7 +229,7 @@ GUIDELINE -->
 
 			<t id="103710">TIE Fury /H</t>
 			<t id="103720">TIE/fu/h</t>
-			<t id="103730">Developed alongside the TIE Defender, the TIE Fury was an early concept bid for an Imperial TIE heavy fighter. With the success of the Defender, the Fury’s development was mothballed and it never left its prototype test phase. Despite being heavily armed with four ion cannons, two laser cannons, and four ordinance launchers, the Fury was regarded as a failure due to its low speeds and low maneuverability. Coupled with a higher production cost than even the TIE Defender, it was deemed impractical to utilize the TIE Fury even in specialized roles.\n\nDeep Space traders have reported seeing ships matching the TIE Fury, though these reports remain unverified. The Corporate Sector Authority, Galactic Empire, and New Republic have issued warnings to traders traveling near the Stenos system, and urges any ship that detects unidentified vessels to withdraw from the area immediately.</t>
+			<t id="103730">Developed alongside the TIE Defender, the TIE Fury was an early concept bid for an Imperial TIE heavy fighter. With the success of the Defender, the Fury's development was mothballed and it never left its prototype test phase. Despite being heavily armed with four ion cannons, two laser cannons, and four ordinance launchers, the Fury was regarded as a failure due to its low speeds and low maneuverability. Coupled with a higher production cost than even the TIE Defender, it was deemed impractical to utilize the TIE Fury even in specialized roles.\n\nDeep Space traders have reported seeing ships matching the TIE Fury, though these reports remain unverified. The Corporate Sector Authority, Galactic Empire, and New Republic have issued warnings to traders traveling near the Stenos system, and urges any ship that detects unidentified vessels to withdraw from the area immediately.</t>
 
 			<t id="103810">X-wing XJ-3/5 </t>
 			<t id="103820">X-wing XJ</t>
@@ -784,7 +785,7 @@ GUIDELINE -->
 
 			<t id="124510">Eta-class Supply Barge</t>
 			<t id="124520">Eta Barge</t>
-			<t id="124530">The Eta-class supply barge is a slow-moving bulk transport designed by the Telgorn Corporation to shuttle supplies, vehicles, and personnel between starbases, shipyards, and forward depots. Its cavernous, modular cargo bays made it ideal as a mobile warehouse or resupply platform that could accept containers, vehicles or prefab modules with minimal shore infrastructure.\n\nUnarmed and not intended for frontline combat, Eta-class barges normally operated under escort. Their value endures in simple cheap to maintain high-volume logistics.</t>
+			<t id="124530">The Eta-class supply barge is a slow-moving bulk transport designed by the Telgorn Corporation to shuttle supplies, vehicles, and personnel between starbases, shipyards, and forward depots. Its cavernous, modular cargo bays made it ideal as a mobile warehouse or resupply platform that could accept containers, vehicles or prefab modules with minimal shore infrastructure.\n\nUnarmed and not intended for frontline combat, Eta-class barges normally operated under escort. Their value endures in simple, cheap to maintain, high-volume logistics.</t>
 			
 			<!-- up to 99 L ships page IDs reserve -->
 			<!-- XL-size ships -->
@@ -2536,6 +2537,8 @@ GUIDELINE -->
 			<t id="500100">With the purchase of this licence, the holder gains the ability to view all trade offers on stations belonging to the issuing faction, regardless of whether those stations are already known at the time of purchase or discovered later.\n\nIf the licence holder's reputation with the issuing faction falls below the holding threshold, this licence and its effects will be forfeit.</t>
 			<!-- Generic police licence description-->
 			<t id="500101">The issuing faction for this licence is a Police Authority. The issuer holds this authority over its own space, and in certain cases over space owned by other factions.\n\nIn areas for which the issuing faction has authority, pilots in possession of this licence may freely scan ships in the issuing faction's name, and will also receive an increased reward when destroying enemies in the vicinity of stations that are friendly to, or owned by, the issuing faction.\n\nIf the pilot's reputation with the issuing faction falls below the holding threshold, this licence and its effects will be forfeit.</t>
+			<!-- Generic station_illegal description-->
+			<t id="500102">The holder of this license gains the ability to purchase modules that produce wares considered illegal by many factions, like Hutt Spice and Contraband Alcohol.\n\nIf the licence holder's reputation with the issuing faction falls below the holding threshold, this licence and its effects will be forfeit.</t>
 
 			<!-- EMPIRE-->
 			<t id="500110">Galactic Empire</t>
@@ -3043,42 +3046,43 @@ GUIDELINE -->
 			<t id="700112">Imperial Station</t>
 			<t id="700113">Experimental Construction Facility</t>
 			<t id="700120">Imperial Wharf</t>
-			<t id="700130">This Wharf Facility is equipped to produce a wide range of starfighters and medium ships to support Imperial expansion efforts.</t>
+			<t id="700130">This wharf facility is equipped to produce a wide range of starfighters and medium ships to support Imperial expansion efforts.\n\nThis module can dock 18 small and 8 medium ships.\nThis module can build 8 ships at the same time.\n\nThis module has:\n - 2x XL Turrets\n - 4x S Turrets\n - 2x M Shields\n\nThis module can be used to claim sectors.</t>
 
-			<t id="700210">Imperial Equipment Facility</t>
-			<t id="700220">Imperial Equipment Facility</t>
-			<t id="700230">This Equipment Facility is made to modify and supply a wide range of starfighters and medium ships to support Imperial expansion efforts.</t>
+			<t id="700210">Imperial S/M Maintenance Facility</t>
+			<t id="700220">Imperial S/M Maint</t>
+			<t id="700230">This maintenance facility, also known as an equipment dock facility, is made to modify and supply a wide range of starfighters and medium ships to support Imperial expansion efforts.\n\nThis module can dock 18 small and 8 medium ships.\nThis module can refit and repair 8 ships at the same time.\n\nThis module has:\n - 2x XL Turrets\n - 4x S Turrets\n - 2x M Shields\n\nThis module can be used to claim sectors.</t>
 
 			<t id="700310">Free Port</t>
 			<t id="700320">Free Port Trading Station</t>
-			<t id="700330">This Equipment Facility is the largest of its kind.</t>
+			<t id="700330">This habitation module is the largest of its kind in the galaxy.\n\nThis module has:\n - 32x XL Turrets\n - 4x XL Shields\n\nThis module can be used to claim sectors.</t>
 			<t id="700331">Free Port Storage</t>
 
-			<t id="700410">Free Port Docks</t>
-			<t id="700420">Free Port S and M Docks</t>
-			<t id="700430">City dock port.</t>
+			<t id="700410">Free Port \(3M6S\)</t>
+			<t id="700420">Free Port City Docks \(3M6S\)</t>
+			<t id="700430">Free Port City docking module.\n\nThis module has no weaponry or shields.</t>
 
 			<t id="700510">Free Port City</t>
 			<t id="700520">Free Port City Habitats</t>
 			<t id="700530">City Residential.</t>
 
-			<t id="700610">Imperial Dock</t>
-			<t id="700620">Imperial Trade Station Dock</t>
-			<t id="700630">Imperial Trade Station Dock M and S</t>
+			<t id="700610">Imperial Trade Station Dock \(6M6S\)</t>
+			<t id="700620">Imp. Dock \(6M6S\)</t>
+			<t id="700630">Imperial Trade Station docking module, for medium and small ships.\n\nThis module has:\n - 3x XL Turrets\n - 3x S Turrets\n - 2x M Shields</t>
 
 			<t id="700710">Memorial Station</t>
 			<t id="700720">Memorial Station</t>
 			<t id="700730">Memorial Station</t>
 
-			<t id="700810">Imp Station Storage</t>
+			<t id="700810">Imp. Station Storage</t>
 			<t id="700820">Imperial Station Storage</t>
-			<t id="700830">Massive Imperial station storage segment</t>
+			<t id="700830">A colossal storage segment designed to hold all manner of containerized wares within Imperial orbital stations.\n\nThis module has no weaponry or shields.</t>
 
-			<t id="700910">Imp Trade Habitat</t>
+			<t id="700910">Imp. Trade Habitat</t>
 			<t id="700911">Sith XL Habitat</t>
-			<t id="700920">Imperial Trade station Habitat</t>
+			<t id="700920">Imperial Trade Station Habitat</t>
 			<t id="700921">Sith XL Habitat</t>
-			<t id="700930">Massive station habitat</t>
+			<t id="700930">A bustling commercial habitat built to anchor Imperial trade hubs, this module houses customs offices, merchant, living quarters for visiting merchants and envoys.\n\nThis module has no weaponry or shields.</t>
+			<t id="700931">A colossal habitation ring, home to thousands of civilians, merchants and a permanent garrison.\n\nThis module has no weaponry or shields.</t>
 
 			<t id="701010">Imperial Free Port Pier</t>
 			<t id="701020">Free Port Trading Station Pier</t>
@@ -3111,19 +3115,19 @@ GUIDELINE -->
 			<t id="701810">Royal Shipwrights</t>
 
 			<t id="701910">XXL Construction Facility</t>
-			<t id="701920">XXL Construction Facility</t>
-			<t id="701930">Supercapital construction facility allows construction of XXL dreadnaught-class warships.</t>
+			<t id="701920">XXL Constr Facility</t>
+			<t id="701930">Supercapital construction facility allows construction of XXL dreadnaught-class warships.\n\nThis module has no weaponry or shields.\n\nThis module can be used to claim sectors.</t>
 
 			<t id="702010">XXL Ship Maintenance Pier</t>
 			<t id="702020">XXL Ship Maint Pier</t>
-			<t id="702030">This is a pier for the largest ships in the galaxy. It can also be used to resupply those ships.</t>
-
+			<t id="702030">This is a 2-dock pier to dock, refit, and resupply the largest ships in the galaxy.\n\nThis module has no weaponry or shields.\n\nThis module can be used to claim sectors.</t>
+			
 			<!-- Pirate/scum modules -->
 
 			<t id="702110">Improvised Wharf</t>
-			<t id="702111">A makeshift wharf module repurposed from an old cargo terminal.</t>
+			<t id="702111">A makeshift wharf module repurposed from an old cargo terminal to facilitate ship construction and repair of small and medium ships.\n\nThis module can dock 4 small and 1 medium ships.\nThis module can build 4 ships at the same time.\n\nThis module has no weaponry or shields.</t>
 			<t id="702120">Asteroid Wharf</t>
-			<t id="702121">A makeshift wharf built into an asteroid to facilitate ship construction and repair.</t>
+			<t id="702121">A makeshift wharf built into an asteroid to facilitate ship construction and repair of small, medium, and large ships.\n\nThis module can dock 18 small, 8 medium, and one L ship.\nThis module can build 4 ships at the same time.\n\nThis module has no weaponry or shields.</t>
 
 			<!-- Yuuzhan stations, starting from 50 -->
 			<t id="705010">Yuuzhan Vong Dormant Beacon</t>
@@ -3180,7 +3184,7 @@ GUIDELINE -->
 			<t id="800206">Exiting hyperspace.(finishing)</t>
 			<t id="800207">Jump was successful.(done)</t>
 			<t id="800208">Now, with our agreement fulfilled, I will be leaving. Farewell and may you bring order to this galaxy.(leaving now)</t>
-			<t id="800209">Finally! \nMy research team has moved to the new facility long time ago, but I was floating in bacta tank after some unsuccessful experiment, details of which I don’t even remember now, waking up from the stasis only to see myself locked on this station under quarantine for unknown reason and with no communication with outside world.\nThe station seems to be decommissioned now, or abandoned for some reason, I have no clue.\n\nAnyway, as your actions seems to have lift off the quarantine I want to thank you in some way.\nThis station was experimental facility to test large objects hyperjump possibility, so I can initiate the sequence for you, the drive system proved to be very unstable however, so will most probably become inoperable after first jump. That was the main reason for project cancellation, though I’m wondering why they left all that research equipment here.\n\nAfter the jump I will leave the station, you are free to do whatever you want with it.\n\nCome see me in Coordination Center.</t>
+			<t id="800209">Finally! \nMy research team has moved to the new facility long time ago, but I was floating in bacta tank after some unsuccessful experiment, details of which I don't even remember now, waking up from the stasis only to see myself locked on this station under quarantine for unknown reason and with no communication with outside world.\nThe station seems to be decommissioned now, or abandoned for some reason, I have no clue.\n\nAnyway, as your actions seems to have lift off the quarantine I want to thank you in some way.\nThis station was experimental facility to test large objects hyperjump possibility, so I can initiate the sequence for you, the drive system proved to be very unstable however, so will most probably become inoperable after first jump. That was the main reason for project cancellation, though I'm wondering why they left all that research equipment here.\n\nAfter the jump I will leave the station, you are free to do whatever you want with it.\n\nCome see me in Coordination Center.</t>
 			<t id="800210">Contact from Research Facility</t>
 
 			<t id="800211">Received encrypted message from Imperial command. You are entering restricted area, turn around or be destroyed.</t>
@@ -3569,9 +3573,20 @@ GUIDELINE -->
 			<t id="699012">Where is Anakin? </t>
 
 			<!-- Economy -->
-			<t id="700010">Rhydonium Refinery</t>
-			<t id="700011">Imperial Rhydonium Refinery</t>
-			<t id="700012">This facility refines and compresses rhydonium to be used in further production.</t>
+			<t id="700010">UNUSED</t>
+			<t id="700011">UNUSED</t>
+			<t id="700012">UNUSED</t>
+			<t id="700013">Scrap Processor</t>
+			<t id="700014">The Scrap Processor is a module that takes in S and M-sized ship wrecks to process the contained Raw Scrap into Scrap Metal, which can, in turn, be recycled into other useable resources. Scrap Cubes formed from larger wrecks, packed up into blocks, can also be processed by this facility.</t>
+			<t id="700015">Food Ration Production</t>
+			<t id="700016">Food Ration</t>
+			<t id="700017">This facility produces Food Rations for the population of a station.</t>
+			<t id="700018">Meat Production</t>
+			<t id="700019">Meat</t>
+			<t id="700020">This facility grows Meat using Water and Energy Cells.</t>
+			<t id="700021">Energy Cell Production</t>
+			<t id="700022">Energy Cell</t>
+			<t id="700023">This facility produces Energy Cells using solar energy.</t>
 
 			<!-- Wares -->
 			<t id="720010">Rhydonium</t>
@@ -3581,16 +3596,15 @@ GUIDELINE -->
 			<t id="730010">Ship Supplies</t>
 			<t id="730011">Supplies used to support ships and their crews during long-term deployments.</t>
 			<t id="730012">Ship Supplies Factory</t>
-			<t id="730013">Imperial Ship Supplies Factory</t>
-			<t id="730014">Supplies Factory produces Ship Supplies.</t>
-			<t id="730015">Sith Ship Supplies Factory</t>
+			<t id="730013">Ship Supplies</t>
+			<t id="730014">This facility produces Ship Supplies.</t>
 
 			<!-- ___ -->
 			<t id="720020">Rhydonium Core</t>
 			<t id="720021">Rhydonium Cores are used during construction of capital ships to feed their power-hungry reactors.</t>
 			<t id="720022">Rhydonium Refinery</t>
-			<t id="720023">Imp. Rhydonium Refinery</t>
-			<t id="720024">Rhydonium Refinery</t>
+			<t id="720023">Rhydo. Refinery</t>
+			<t id="720024">This facility refines and compresses rhydonium into Rhydonium Cores.</t>
 
 			<t id="720030">Tibanna</t>
 			<t id="720031">Tibanna is a rare form of matter found in both gas and liquid form. In its natural state as a gas, tibanna comprised the atmospheres of several planets and can be found in nebulas. It is used in hyperdrives and starship weaponry, and as a coolant around the gravito-active elements of repulsorlifts, which makes it a valuable resource.</t>
@@ -3599,13 +3613,13 @@ GUIDELINE -->
 			<t id="720041">After refining, Tibanna is transported in sealed containers or cells that are used in further productions.</t>
 			<t id="720042">Tibanna Refinery</t>
 			<t id="720043">Tibanna Refinery</t>
-			<t id="720044">Tibanna Refinery</t>
+			<t id="720044">This facility produces Tibanna Cells.</t>
 
 			<t id="720050">Durasteel Plates</t>
 			<t id="720051">Durasteel is an incredibly strong and versatile metal alloy, created from carvanium, lommite, carbon, meleenium, neutronium, and zersium. It is capable of withstanding blistering heat, frigid cold, and monumental physical stress, even when very thin. Because of these properties, durasteel is used for everything from smelting pots for other less hearty metals to spacecraft hulls.</t>
 			<t id="720052">Durasteel Foundry</t>
-			<t id="720053">Imperial Durasteel Plates Production</t>
-			<t id="720054">Durasteel Plates Production</t>
+			<t id="720053">Durasteel Plates</t>
+			<t id="720054">This facility produces Durasteel Plates.</t>
 
 			<!-- <t id="720060">Rhydonium Cell</t>
 			<t id="720061">Rhydonium Cells are used during construction of power-hungry capital ships to feed their numerous reactors.</t>
@@ -3614,29 +3628,32 @@ GUIDELINE -->
 			<t id="720070">Agricultural Goods</t>
 			<t id="720071">Variety of plants from different planets.</t>
 			<t id="720072">Agricultural Goods Factory</t>
-			<t id="720073">Imperial Agricultural Goods Production</t>
-			<t id="720074">Agricultural Goods Production</t>
+			<t id="720073">Agri. Goods</t>
+			<t id="720074">This facility produces Agricultural Goods.</t>
 
 			<t id="720080">Module PreFab</t>
 			<t id="720081">Module PreFab</t>
 			<t id="720082">Module PreFab Factory</t>
-			<t id="720083">Imperial Module PreFab Production</t>
-			<t id="720084">Module PreFab Production</t>
+			<t id="720083">Module PreFab</t>
+			<t id="720084">This facility produces Module PreFabs.</t>
 
 			<t id="720090">Hutt Spice</t>
-			<t id="720091">Hutt Spice</t>
-			<t id="720092">Hutt Bliss Palace</t>
+			<t id="720091">Hutt Spice is a potent, aromatic narcotic blend cultivated in secret plantations across the Outer Rim. Its heady vapors bring sharp euphoria and heightened sensation, making it a prized commodity in cantinas and pleasure dens.\n\nControlled and refined by Hutt cartels, spice fuels black markets and criminal empires—its wealth comes at a cost, as addiction and social decay follow those who indulge too deeply.</t>
+			<t id="720092">Hutt Spice Lab</t>
 			<t id="720093">Hutt Spice Lab</t>
+			<t id="720094">This facility produces Hutt Spice.</t>
 
 			<t id="720100">Contraband Alcohol</t>
 			<t id="720101">Contraband Alcohol, fire-water or booze, referred to a number of beverages that contained ethanol and octane, and had mind-altering effects on many organic species while in the bloodstream. It increases the the interest of people to stay at the station.</t>
 			<t id="720102">Brewery</t>
+			<t id="720103">Brewery</t>
+			<t id="720104">This facility produces Contraband Alcohol.</t>
 
 			<t id="720110">Sensor Components</t>
 			<t id="720111">Sensors have seen elegant redesign over the years so that ships and stations do not risk fragile antennas being broken or destroyed by collisions. Now entirely internal systems, sensors are used not just in ship and station scanners and radars, but are also used in the targeting systems supplied with turret and droid components.</t>
 			<t id="720112">Sensor Components Factory</t>
-			<t id="720113">Sensor Components Production</t>
-			<t id="720114">Sensor Components Production</t>
+			<t id="720113">Sensor Components</t>
+			<t id="720114">This facility produces Sensor Components.</t>
 
 			<!-- <t id="720120">Warheads</t>
 			<t id="720121">Warheads are used in the construction of all missiles, often with a different number and configuration making up the construction of each missile. As with ship equipment, missiles are built on demand, and so missile components are bought at and found at shipyards and equipment docks, where most pilots can order missiles on demand.</t>
@@ -3645,29 +3662,51 @@ GUIDELINE -->
 			<t id="720130">Droid Parts</t>
 			<t id="720131">Various parts of droids from different manufacturers, you can build almost any astromech or assassin droid from them!</t>
 			<t id="720132">Droid Parts Factory</t>
-			<t id="720133">Droid Parts Production</t>
-			<t id="720134">Droid Parts Production</t>
+			<t id="720133">Droid Parts</t>
+			<t id="720134">This facility produces Droid Parts.</t>
 
 			<t id="720140">Capacitors</t>
 			<t id="720141">High-energy capacitors used in different high tech mechanisms to transfer energy between various parts.</t>
 			<t id="720142">Capacitors Factory</t>
-			<t id="720143">Capacitors Production</t>
-			<t id="720144">Capacitors Production</t>
+			<t id="720143">Capacitors</t>
+			<t id="720144">This facility produces Capacitors.</t>
 
 			<t id="720150">Hutt Chemicals</t>
-			<t id="720151">Hutt Chemicals</t>
-			<t id="720152">Hutt Chem Lab</t>
+			<t id="720151">Hutt Chemicals are a precursor material used in the production of Hutt Spice.</t>
+			<t id="720152">Hutt Chemicals Lab</t>
+			<t id="720153">Hutt Chem. Lab</t>
+			<t id="720154">This facility produces Hutt Chemicals.</t>
 
-			<t id="720160">Imp. Admin Center</t>
-			<t id="720161">Imp. Control Center</t>
-			<t id="720170">Imp. Bridge</t>
-			<t id="720180">Imp. Disc</t>
-			<t id="720190">Imp. Top Defence</t>
+			<t id="720160">Imperial Admin Center</t>
+			<t id="720161">Imp. Admin Center</t>
+			<t id="720162">The Imperial Admin Center is the cold, efficient center of Imperial governance aboard a station, used to project influence over a sector.\n\nThis module has no weaponry or shields.\n\nThis module can be used to claim sectors.</t>
+			<t id="720163">Imperial Control Center</t>
+			<t id="720164">Imp. Control Center</t>
+			<t id="720165">Designed for command and control of high value sectors, the Imperial Control Center is heavily armed and armored.\n\nThis module has:\n - 24x XL Turrets\n - 6x XL Shields\n - 15x S Turrets\n - 3x M Shields\n\nThis module can be used to claim sectors.</t>
+
+			<t id="720170">Imperial Defence Bridge</t>
+			<t id="720171">Imp. Defence Bridge</t>
+			<t id="720172">The Imperial Defence Bridge is a small linear defence module.\n\nThis module has:\n - 2x XL Turrets\n - 4x S Turrets\n - 6x M Shields</t>
+
+			<t id="720180">Imperial Defence Disc</t>
+			<t id="720181">Imp. Defence Disc</t>
+			<t id="720182">The Imperial Defence Disc is a small round defence module.\n\nThis module has:\n - 2x XL Turrets\n - 4x S Turrets\n - 6x M Shields</t>
+
+			<t id="720190">Imperial Trade Station Defence </t>
+			<t id="720191">Imp. Defence Dome</t>
+			<t id="720192">The Imperial Trade Station Defence Dome is a moderately armed and armored dome designed to protect Trade Stations from attack.\n\nThis module has:\n - 4x XL Turrets\n - 4x M Shields</t>
 
 			<t id="720200">Admin Center</t>
 			<t id="720201">Anoat Admin Center</t>
-			<t id="720210">Bridge Defence</t>
-			<t id="720220">Disc Defence</t>
+			<t id="720202">The Admin Center is the center of governance aboard a station, used to project influence over a sector.\n\nThis module has no weaponry or shields.\n\nThis module can be used to claim sectors.</t>
+
+			<t id="720210">Defence Bridge</t>
+			<t id="720211">Defence Bridge</t>
+			<t id="720212">The Defence Bridge is a small linear defence module.\n\nThis module has:\n - 2x XL Turrets\n - 4x S Turrets\n - 6x M Shields</t>
+
+			<t id="720220">Defence Disc</t>
+			<t id="720221">Defence Disc</t>
+			<t id="720222">The Defence Disc is a small round defence module.\n\nThis module has:\n - 2x XL Turrets\n - 4x S Turrets\n - 6x M Shields</t>
 
 			<!-- <t id="720230">Hutt Chemicals</t>
 			<t id="720230">Hutt Chemicals</t>
@@ -3677,17 +3716,14 @@ GUIDELINE -->
 			<t id="720251">Anoat M Habitat</t>
 			<t id="720252">Anoat S Habitat</t>
 
-			<t id="720260">Imp. L Habitat</t>
-			<t id="720261">Imp. M Habitat</t>
-			<t id="720262">Imp. S Habitat</t>
+			<!-- Imperial Habitats-->
+			<t id="720260">L Habitat</t>
+			<t id="720261">M Habitat</t>
+			<t id="720262">S Habitat</t>
 
 			<t id="720270">Generic L Habitat</t>
-			<t id="7202701">Dormintory L</t>
 			<t id="720271">Generic M Habitat</t>
-			<t id="7202711">Dormintory M</t>
 			<t id="720272">Generic S Habitat</t>
-			<t id="7202721">Dormintory S</t>
-
 
 			<t id="720280">Vert. L Container </t>
 			<t id="720281">Vert. M Container </t>
@@ -3713,24 +3749,27 @@ GUIDELINE -->
 			<t id="720331">Horiz. M Liquid </t>
 			<t id="720332">Horiz. S Liquid </t>
 
-			<t id="720340">Imp. 3-Dock T Harbor</t>
-			<t id="720341">Imp. Single Harbor</t>
-			<t id="720342">Imp. 3-Dock E Harbor</t>
-			<t id="720343">Imp. Cross Harbor</t>
-			<t id="720344">Imp. Control Harbor</t>
+			<!-- Imperial Piers-->
+			<t id="720340">3-Dock T Harbor</t>
+			<t id="720341">1-Dock Harbor</t>
+			<t id="720342">3-Dock E Harbor</t>
+			<t id="720343">4-Dock X Harbor</t>
+			<t id="720344">Control Harbor</t>
+			<t id="720345">Control Center Harbor</t>
+			<t id="720346">6-Dock Harbor</t>
 
 			<t id="720350">Pirate Freeport</t>
 			<t id="720351">Pirate Scrapyard</t>
 			<t id="720352">Pirate Outpost</t>
 			<t id="720353">Pirate Asteroid Base</t>
 
-			<t id="720360">Imperial Base Struct 01</t>
-			<t id="720361">Imperial Base Struct 02</t>
-			<t id="720362">Imperial Base Struct 03</t>
-
-			<t id="720370">Imperial Vertical Struct 01</t>
-			<t id="720371">Imperial Vertical Struct 02</t>
-			<t id="720372">Imperial Cross Struct 01</t>
+			<!-- Imperial Connectors-->
+			<t id="720360">Base Struct 01</t>
+			<t id="720361">Base Struct 02</t>
+			<t id="720362">Base Struct 03</t>
+			<t id="720370">Vertical Struct 01</t>
+			<t id="720371">Vertical Struct 02</t>
+			<t id="720372">Cross Struct 01</t>
 
 			<t id="720380">Generic Base Struct 01</t>
 			<t id="720381">Generic Base Struct 02</t>
@@ -3745,26 +3784,27 @@ GUIDELINE -->
 			<t id="720395">Generic T Struct 01</t>
 			<t id="720396">Generic L Struct 01</t>
 
-			<t id="720400">Scum L Habitat</t>
-			<t id="720401">Scum M Habitat</t>
-			<t id="720402">Scum S Habitat</t>
+			<t id="720400">Pirate L Dormitory</t>
+			<t id="720401">Pirate M Dormitory</t>
+			<t id="720402">Pirate S Dormitory</t>
 
 			<t id="720410">Control Module</t>
 			<t id="720420">Anoat Control Module</t>
 
-			<t id="720430">Imp. Docking Platform</t>
+			<t id="720430">Imperial Disk Docking Platform \(4M10S\)</t>
+			<t id="720431">Imp. Dock \(4M10S\)</t>
+			<t id="720432">Imperial round docking platform for medium and small ships.</t>
 
-			<t id="720440">Imp. L Container </t>
-			<t id="720441">Imp. M Container </t>
-			<t id="720442">Imp. S Container </t>
-
-			<t id="720450">Imp. L Solid </t>
-			<t id="720451">Imp. M Solid </t>
-			<t id="720452">Imp. S Solid </t>
-
-			<t id="720460">Imp. L Liquid </t>
-			<t id="720461">Imp. M Liquid </t>
-			<t id="720462">Imp. S Liquid </t>
+			<!-- Imperial Storage-->
+			<t id="720440">L Container</t>
+			<t id="720441">M Container</t>
+			<t id="720442">S Container</t>
+			<t id="720450">L Solid</t>
+			<t id="720451">M Solid</t>
+			<t id="720452">S Solid</t>
+			<t id="720460">L Liquid</t>
+			<t id="720461">M Liquid</t>
+			<t id="720462">S Liquid</t>
 
 			<t id="720470">Generic 3-Dock T Pier</t>
 			<t id="720471">Generic 1-Dock Pier</t>
@@ -3772,7 +3812,11 @@ GUIDELINE -->
 			<t id="720473">Generic 1-Dock Short Pier</t>
 
 			<t id="720480">Medical Supplies Production</t>
-			<t id="720481">Imp. Medical Supplies Production</t>
+			<t id="720481">Medical Supplies </t>
+			<t id="720482">This facility produces Medical Supplies.</t>
+			<t id="720484">Advanced Electronics Factory</t>
+			<t id="720485">Adv. Electronics</t>
+			<t id="720486">This facility produces Advanced Electronics.</t>
 
 			<!-- Hapan modules -->
 			<t id="720490">Hapan L Container </t>
@@ -3848,30 +3892,43 @@ GUIDELINE -->
 			<t id="720640">Fibersteel</t> <!--metalic latice -->
 			<t id="720641">An originally greenish-black composite metal with extreme tensile strength, fibersteel can change colour dramatically based on how much stress is applied to it during forging process. Used in starship construction by the Sith.</t>
 			<t id="720642">Fibersteel Foundry</t>
-			<t id="720643">Fibersteel Production</t>
+			<t id="720643">Fibersteel</t>
+			<t id="720644">This facility produces Fibersteel, a high-strength composite metal used in starship construction by the Sith Empire.</t>
 
 			<t id="720650">Darkfusion Cell</t> <!--computronic substrate -->
 			<t id="720651">Power cells that use extremely condensed Tibanna, used in Sith technology.</t>
 			<t id="720652">Darkfusion Cell Factory</t>
-			<t id="720653">Darkfusion Cell Production</t>
+			<t id="720653">Darkfusion Cell</t>
+			<t id="720654">This facility produces Darkfusion Cells, high-capacity power cells used in Sith technology.</t>
 
 			<t id="720660">Obsidian Composite</t> <!-- silicon carbide -->
 			<t id="720661">A high-performance composite material that can be used in both electronics and alloy production. However, the manufacturing process is used almost exclusively by the Sith.</t>
 			<t id="720662">Obsidian Composite Factory</t>
-			<t id="720663">Obsidian Composite Production</t>
+			<t id="720663">Obsidian Composite</t>
+			<t id="720664">This facility produces Obsidian Composite, a high-performance material used in equipment and ship production by the Sith Empire.</t>
 
 			<t id="720670">Bacta Solution</t> <!-- protein -->
 			<t id="720671">A gelatinous healing mixture used throughout the universe for medicine, as well as in cloning processes.</t>
 			<t id="720672">Bacta Blender</t>
-			<t id="720673">Bacta Production</t>
+			<t id="720673">Bacta Solution</t>
+			<t id="720674">This facility produces Bacta Solution in large quantities for the Sith Empire's extensive cloning operations.</t>
 
 			<t id="720680">Cloning Vats</t> <!-- terran mre -->
 			<t id="720681">Used in a cloning process by the Sith to produce an obedient workforce and crew for their ships.</t>
 			<t id="720682">Cloning Vats Factory</t>
-			<t id="720683">Cloning Vats Production</t>
+			<t id="720683">Cloning Vats</t>
+			<t id="720684">This facility produces Cloning Vats to support the Sith Empire's extensive cloning operations.</t>
 
 			<t id="720692">Sith Medical Facility</t>
 
+			<t id="720700">Sith S Habitat</t>
+			<t id="720701">Sith M Habitat</t>
+			<t id="720702">Sith L Habitat</t>
+
+			<t id="720710">Scrap Recycler</t>
+			<t id="720711">Sith Scrap Recycler</t>
+			<t id="720712">The Scrap Recycler is designed to process Scrap Metal into usable resources, converting it into Hull Parts and Claytronics in alternating production cycles.</t>
+			<t id="720713">Upon "receiving" blueprints for the Scrap Recycler, Sith Empire engineers modified them to be compatible with their economy.\n\nInstead of converting Scrap Metal to Module PreFabs and Durasteel Plates, their variant produces Obsidian Composite and Darkfusion Cells in the same alternating fashion.</t>
 
 			<!-- Mods parts  -->
 			<t id="721001">Pressurised Tibanna Capsule</t>
@@ -4054,7 +4111,7 @@ GUIDELINE -->
 			<t id="903502">Concord Dawn is a frontier agricultural world located in the Mandalore sector of the Outer Rim Territories. A planet of varied terrain including plains, forests, and scattered farming settlements, Concord Dawn has maintained strong cultural ties to the Mandalorian people throughout its history.\n\nThe planet is home to the Journeyman Protectors, a law enforcement organization that has served Concord Dawn for generations. These peacekeepers maintain order across the planet's settlements and rural areas, upholding a code of justice that shares many values with traditional Mandalorian warrior culture.\n\nConcord Dawn's population exhibits genetic markers that are common throughout the broader Mandalorian population, suggesting significant historical connections between the world and Mandalore. Many inhabitants of Concord Dawn identify strongly with Mandalorian culture and traditions, though the planet has maintained its own distinct identity.\n\nDuring the Old Republic era, Concord Dawn remained relatively isolated from Core Worlds politics, focusing on its agricultural economy and maintaining its traditional way of life. The planet's inhabitants developed a reputation for being tough, self-reliant frontier colonists who valued honor and justice.\n\nOne of the most famous natives of Concord Dawn was Jaster Mereel, who served as a Journeyman Protector before being exiled after killing a superior officer who he claimed was corrupt. Mereel eventually became Mand'alor, leader of the Mandalorians, and worked to reform Mandalorian culture by establishing the Supercommando Codex, a set of honorable guidelines for Mandalorian warriors.\n\nMereel's adopted son, Jango Fett, was also from Concord Dawn. After Mereel's death during the Mandalorian Civil War, Fett became one of the most renowned bounty hunters in the galaxy. Approximately ten years before the Clone Wars, Fett was selected by the Sith Lord Darth Tyranus to serve as the genetic template for the Republic's clone army, making Concord Dawn the ancestral homeworld of millions of clone troopers.\n\nDuring the Clone Wars, Concord Dawn remained under the control of local authorities, though its proximity to Mandalore meant it was affected by the conflicts that plagued the Mandalorian system. The planet maintained its agricultural economy throughout this period, supplying food to nearby systems.\n\nFollowing the rise of the Galactic Empire, Concord Dawn came under Imperial oversight as part of the Empire's control over the Mandalore sector. The Empire maintained a presence on the planet to ensure compliance with Imperial regulations, though local governance largely remained in the hands of planetary authorities and the Journeyman Protectors.\n\nDuring the Galactic Civil War, Concord Dawn remained under nominal Imperial control, though the planet's isolation from major conflict zones meant it saw little direct involvement in the fighting between the Empire and the Rebel Alliance. The inhabitants continued their traditional agricultural way of life while maintaining their cultural connections to Mandalorian heritage.\n\nAfter the Battle of Endor and the formation of the New Republic, Concord Dawn quickly became part of the new Mandalorian government as the clans unified and established themselves.</t>
 
 			<t id="903601">Corellia</t>
-			<t id="903602">Corellia is a planet in the Core Worlds, located along the Corellian Run and Corellian Trade Spine hyperspace routes. Known for its shipbuilding industry, Corellia is the homeworld of the Corellian Engineering Corporation, which produces some of the galaxy's most iconic starships, including the YT-series freighters and CR90 corvettes.\n\nThe planet's surface features sprawling cities such as Coronet City, vast shipyards, and temperate landscapes with forests, plains, and oceans. Corellians are renowned for their piloting skills, independence, and adventurous spirit, with many famous smugglers and heroes, including Han Solo, originating from the world.\n\nCorellia was a founding member of the Galactic Republic and played a significant role in galactic politics and commerce for millennia. During the Clone Wars, Corellia remained loyal to the Republic, though its leadership maintained a degree of autonomy and neutrality in some galactic affairs. The planet's shipyards contributed to the Republic war effort, and Corellian Security Force (CorSec) maintained order locally.\n\nAfter the rise of the Galactic Empire, Corellia came under Imperial control. The Empire expanded ship production and maintained a strong military presence, though Corellians continued to value their independence. The planet's shipyards produced vessels for the Imperial Navy, and Imperial rule brought increased regulation and surveillance.\n\nDuring the Galactic Civil War, Corellia remained under Imperial authority, but many Corellians secretly supported the Rebel Alliance. The planet's strategic location and shipbuilding capacity made it a valuable asset for both the Empire and the Rebellion. Han Solo, a native Corellian, became a key figure in the Rebellion and the fight against the Empire.\n\nAfter the Battle of Endor and the fall of the Empire, Corellia joined the New Republic. The planet continued to serve as a major commercial and industrial center, maintaining its reputation for producing skilled pilots and advanced starships. Corellia's independent spirit persisted, and its citizens played important roles in the rebuilding of galactic government and society.</t>
+			<t id="903602">Corellia is a planet in the Core Worlds, located along the Corellian Run and Corellian Trade Spine hyperspace routes. Known for its shipbuilding industry, Corellia is the homeworld of the Corellian Engineering Corporation, which produces some of the galaxy's most iconic starships, including the YT-series freighters and CR90 corvettes.\n\nThe planet's surface features sprawling cities such as Coronet City, vast shipyards, and temperate landscapes with forests, plains, and oceans. Corellians are renowned for their piloting skills, independence, and adventurous spirit, with many famous smugglers and heroes, including Han Solo, originating from the world.\n\nCorellia was a founding member of the Galactic Republic and played a significant role in galactic politics and commerce for millennia. During the Clone Wars, Corellia remained loyal to the Republic, though its leadership maintained a degree of autonomy and neutrality in some galactic affairs. The planet's shipyards contributed to the Republic war effort, and Corellian Security Force \(CorSec\) maintained order locally.\n\nAfter the rise of the Galactic Empire, Corellia came under Imperial control. The Empire expanded ship production and maintained a strong military presence, though Corellians continued to value their independence. The planet's shipyards produced vessels for the Imperial Navy, and Imperial rule brought increased regulation and surveillance.\n\nDuring the Galactic Civil War, Corellia remained under Imperial authority, but many Corellians secretly supported the Rebel Alliance. The planet's strategic location and shipbuilding capacity made it a valuable asset for both the Empire and the Rebellion. Han Solo, a native Corellian, became a key figure in the Rebellion and the fight against the Empire.\n\nAfter the Battle of Endor and the fall of the Empire, Corellia joined the New Republic. The planet continued to serve as a major commercial and industrial center, maintaining its reputation for producing skilled pilots and advanced starships. Corellia's independent spirit persisted, and its citizens played important roles in the rebuilding of galactic government and society.</t>
 
 			<t id="903701">Corsin</t>
 			<t id="903702">Corsin is a terrestrial planet located in the Corsin system of the Expansion Region, positioned along the Corellian Trade Spine hyperlane. A world of varied terrain including mountains, forests, plains, and the infamous Agrilat Swamp, Corsin has earned galactic renown as the premier destination for swoop racing enthusiasts and professional racers.\n\nThe planet's most distinctive feature is its swoop racing culture, which has dominated Corsin's economy and identity for centuries. The Agrilat Swamp Circuit, carved through the treacherous wetlands surrounding the capital city of Cuipernam, represents one of the most dangerous and prestigious racing venues in the galaxy. The circuit's combination of natural obstacles, unpredictable terrain, and high-speed straightaways has made it a proving ground for the galaxy's most skilled swoop pilots.\n\nSwoop racing on Corsin evolved from local competitions into a massive commercial enterprise that attracts millions of spectators annually. The planet's economy revolves almost entirely around the racing industry, with hotels, casinos, repair facilities, and entertainment venues catering to racers and fans from across the galaxy. Corsin's races are broadcast throughout known space, with successful racers achieving celebrity status and lucrative sponsorship deals.\n\nDuring the Old Republic era, Corsin maintained membership in the Galactic Republic while developing its unique racing culture. The planet's strategic location along the Corellian Trade Spine ensured steady traffic of traders and travelers, many of whom stopped to witness the famous races.\n\nThroughout the Clone Wars, Corsin became contested territory. Approximately two years into the conflict, Separatist forces invaded the planet, recognizing its strategic position along the Corellian Trade Spine. The Battle of Corsin saw Republic clone troopers, supported by Jedi Generals, fighting to liberate the world from Separatist occupation. The battle proved costly for both sides, with fighting damaging portions of the racing circuits and surrounding infrastructure.\n\nThe Republic ultimately reclaimed Corsin, though the occupation left scars on the planet's economy and racing industry. Many facilities required extensive repairs, and the death toll among both military forces and civilian population affected the close-knit racing community.\n\nFollowing the rise of the Galactic Empire, Corsin came under Imperial control. The Empire maintained a presence on the planet to ensure order and collect taxes from the lucrative racing industry, though Imperial authorities showed little interest in suppressing the swoop races themselves. The Empire recognized that the races served as entertainment that helped keep populations distracted from political matters.\n\nImperial oversight brought some changes to Corsin's racing culture. New safety regulations were implemented, though these were often ignored by racers and organizers alike. The Empire also used the high-profile races as opportunities for propaganda, with Imperial officials appearing at major events and Imperial sponsorship of certain racing teams.\n\nDuring the Galactic Civil War, Corsin remained under Imperial control for most of the conflict. The planet's focus on entertainment and its distance from major military objectives meant it avoided becoming a major battleground, though Imperial garrison forces maintained security throughout the war.\n\nThe swoop racing continued throughout the Galactic Civil War, with racers from various backgrounds competing regardless of political affiliations. The races provided one of the few neutral grounds where beings from different factions could gather, united by their love of high-speed competition. Some Rebel sympathizers used the large crowds and busy spaceports as cover for covert activities, though most visitors came simply to watch the races.\n\nThe Agrilat Swamp Circuit maintained its reputation as the galaxy's most challenging track, with its combination of natural hazards, sharp turns, and treacherous conditions claiming numerous racers over the years. Despite the dangers, or perhaps because of them, the circuit remained the ultimate test of swoop racing skill.\n\nAfter the Battle of Endor and the formation of the New Republic, Corsin's status as a racing world ensured its continued prosperity drawing the attention of both the New Republic and Corporate Sector Authority.</t>
@@ -4396,7 +4453,7 @@ GUIDELINE -->
 			<t id="914902">Rendili is a heavily industrialized planet located in the Core Worlds region of the galaxy, positioned along the Hydian Way hyperlane. One of the Core Founders of the Galactic Republic, Rendili has played a crucial role in galactic politics and military affairs for over 25,000 years. The planet is ruled by an Arch-Provost, a position of significant political authority within both planetary and Republic governance.\n\nRendili is best known as the headquarters of Rendili StarDrive, one of the galaxy's premier starship manufacturers, founded approximately 20,000 years before the rise of the Galactic Empire. The corporation is affiliated with several subsidiary companies including Rendili Hyperworks, Rendili/Vanjervalis Drive Yards, and maintains a joint venture with Golan Arms. Together, these companies have produced some of the most iconic warships in galactic history.\n\nThe planet's surface is dominated by vast shipyards, manufacturing facilities, and urban centers devoted to starship construction and related industries. Rendili's orbital space is equally industrialized, with massive construction facilities capable of building capital ships of all sizes. The planet's economy has been intrinsically tied to military and commercial shipbuilding for millennia, making it one of the wealthiest and most strategically important worlds in the Core.\n\nThousands of years before the rise of the Empire, Rendili StarDrive established itself as a major competitor to Kuat Drive Yards and the Corellian Engineering Corporation. The company's designs emphasized durability and firepower, producing vessels that served with distinction in countless conflicts throughout galactic history. Rendili's Dreadnaught-class heavy cruiser, introduced approximately 4,000 years before the rise of the Empire, became one of the most widely used capital ships in the Republic Navy and remained in service for millennia.\n\nDuring the Mandalorian Wars and the subsequent Jedi Civil War, Rendili StarDrive provided substantial numbers of warships to the Republic, helping to combat first the Mandalorian Neo-Crusaders and later Darth Revan's Sith Empire. The planet's industrial capacity proved crucial during these conflicts, with Rendili's shipyards working around the clock to replace Republic losses.\n\nThroughout the Old Republic era, Rendili maintained its position as one of the Republic's most important military contractors. The planet's political leadership wielded considerable influence in the Senate, often using that power to secure lucrative contracts and favorable trade agreements. Rendili's status as a Core Founder gave it additional prestige and ensured that Republic leadership took the planet's interests seriously.\n\nIn the decades before the Clone Wars, Rendili StarDrive faced increasing competition from other major shipbuilders, particularly Kuat Drive Yards. The company responded by developing new designs and updating older vessels, but financial pressures began to mount. The corporation's reliance on the aging Dreadnaught design, while economically sensible given the vast numbers already in service, limited opportunities for lucrative new contracts.\n\nDuring the Clone Wars, Rendili initially remained loyal to the Republic, with Rendili StarDrive producing warships for the Republic Navy. However, approximately two years into the conflict, political tensions came to a head when Captain Jace Dallin, commander of the Rendili Home Defense Fleet, initiated a mutiny. Dallin, supported by elements of Rendili's government including Arch-Provost Tessen Harvus, declared the planet's intention to secede to the Confederacy of Independent Systems.\n\nThe Rendili crisis brought Republic and Separatist forces into direct confrontation in the Core Worlds, threatening to shift the entire momentum of the war. Jedi Generals Saesee Tiin, Plo Koon, and Obi-Wan Kenobi were dispatched to resolve the situation. Through a combination of negotiation and limited military action, the Jedi succeeded in preventing Rendili's secession, though only after a tense standoff that could have erupted into full-scale battle.\n\nCaptain Dallin and other mutineers were placed under arrest, and Arch-Provost Harvus was removed from power. The incident revealed deep divisions within Rendili's population and government, with some factions harboring significant resentment toward the Republic's wartime policies and the economic strain placed on the planet's industries. Despite the resolution of the immediate crisis, Rendili's loyalty remained somewhat questionable for the remainder of the war.\n\nFollowing the rise of the Galactic Empire, Rendili came under Imperial control. The Empire recognized the planet's vital shipbuilding capacity and moved quickly to secure its loyalty and productivity. Rendili StarDrive became a major Imperial contractor, producing vessels for the Imperial Navy throughout the era of the New Order. The company's Victory-class Star Destroyer design, originally developed during the Clone Wars, became one of the most numerous capital ships in the Imperial fleet.\n\nUnder Imperial rule, Rendili's government was reorganized, with Imperial oversight ensuring that production quotas were met and that there would be no repeat of the Clone Wars mutiny. The Empire maintained a significant military presence on the planet to protect the valuable shipyards and prevent any potential resistance movements from disrupting operations.\n\nDuring the Galactic Civil War, Rendili remained firmly under Imperial control for most of the conflict. The planet's shipyards continued producing vessels for the Imperial Navy, contributing to the Empire's military strength despite the growing Rebel threat. However, as the war progressed and the Empire's authority began to fracture following the Battle of Endor, Rendili's status became increasingly uncertain.\n\nAfter the Emperor's death at the Battle of Endor, various Imperial warlords and the New Republic competed for control of Rendili's valuable shipbuilding facilities. The planet changed hands several times during the conflicts that followed, with different factions recognizing that controlling Rendili meant controlling a significant portion of the galaxy's military-industrial capacity. Rendili StarDrive continued to operate throughout this period, adapting to serve whichever faction held the planet while attempting to preserve the company's long-term interests.\n\nDespite the political upheaval, Rendili's position as one of the galaxy's premier shipbuilding centers remained secure. The planet's thousands of years of experience in starship construction, combined with its extensive facilities and skilled workforce, ensured that regardless of which government controlled the Core Worlds, Rendili would continue to play a crucial role in galactic affairs.</t>
 
 			<t id="915001">Ring-o-Moon</t>
-			<t id="915002">Ring-o-Moon is one of the four moons of the gas giant "Sergeant Pepper". The other moons are called Harrison's Moon, Paul's Moon and John's Moon.\n\nThis uninhabited sector has remained largely unexplored, with only automated survey probes occasionally passing through. Nobody knows who named these celestial bodies, though the navigation database suggests they were catalogued by an eccentric explorer with a fondness for ancient pre-spaceflight music.\n\nSome spacers joke that visiting all four moons in sequence creates a "Magical Mystery Tour" through the system.</t>
+			<t id="915002">Ring-o-Moon is one of the four moons of the gas giant "Sergeant Pepper". The other moons are called Harrison's Moon, Paul's Moon and John's Moon.\n\nThis uninhabited sector has remained largely unexplored, with only automated survey probes occasionally passing through. Nobody knows who named these celestial bodies, though the navigation database suggests they were catalogued by an eccentric explorer with a fondness for unusual music.\n\nSome spacers joke that visiting all four moons in sequence creates a "Magical Mystery Tour" through the system.</t>
 
 			<t id="915101">Roche</t>
 			<t id="915102">Roche is an asteroid field located in the Roche system of the Mid Rim Territories. A dense collection of asteroids orbiting a yellow star, the Roche asteroid field is the homeworld of the Verpine, an insectoid species known throughout the galaxy for their exceptional technical skills and innovative starship designs.\n\nThe Verpine are a communal species who communicate through organic radio waves, allowing them to coordinate complex tasks with remarkable efficiency. They live within hollowed-out asteroids, creating elaborate underground cities and manufacturing facilities within the rocky bodies. The Verpine claim not to know the origin of their species or whether Roche was always an asteroid field, though some xenobiologists theorize the field may be the remnants of a destroyed planet that was once the Verpine homeworld.\n\nThousands of years before the rise of the Galactic Empire, various Verpine colonies within the Roche asteroid field joined the Galactic Republic. The Verpine's natural aptitude for engineering and manufacturing made them valuable members of the Republic, with Verpine technicians and designers becoming highly sought after throughout the galaxy. Their ability to work in zero-gravity environments and manipulate delicate components with their dexterous appendages made them ideal starship designers and mechanics.\n\nThe Roche system is home to Slayn and Korpil, one of the galaxy's most innovative starfighter manufacturers. Founded by a partnership between Verpine engineers and other species, the company established major manufacturing facilities within several of the larger asteroids. During the Clone Wars, Slayn and Korpil produced the Fang-class starfighter and contributed to the development of various Republic military technologies.\n\nDuring the Clone Wars, the Roche asteroid field remained firmly loyal to the Galactic Republic. The Verpine's communal decision-making process, conducted through their unique radio-wave communication, resulted in unanimous support for the Republic cause. Slayn and Korpil's facilities produced military hardware for the Republic throughout the conflict, including components for various starfighter designs.\n\nFollowing the rise of the Galactic Empire, the Roche asteroid field came under Imperial oversight. The Empire recognized the strategic value of the Verpine's technical expertise and Slayn and Korpil's manufacturing capabilities. Imperial authorities established a presence in the system to ensure continued production and prevent any resistance activities, though the Verpine's communal nature made traditional occupation difficult.\n\nDuring the Galactic Civil War, the Verpine found themselves torn between their natural inclination toward peaceful cooperation and their discomfort with the Empire's authoritarian policies. While the Roche system remained officially under Imperial control, many individual Verpine secretly sympathized with the Rebel Alliance. Some Verpine technicians and engineers defected to the Rebellion, bringing their expertise to bear in developing new technologies for the Alliance.\n\nMost notably, the Verpine provided crucial assistance in developing the B-wing starfighter, one of the Rebel Alliance's most powerful assault starfighters. This heavy assault fighter, designed in collaboration with Admiral Ackbar, featured innovative Verpine engineering including a unique gyroscopic cockpit and devastating firepower. The B-wing proved highly effective against Imperial capital ships and became a key component of the Rebel fleet.\n\nAfter the Battle of Endor and the formation of the New Republic, the Roche asteroid field came under Corporate Sector Authority control. The Verpine continued to contribute their technical expertise to the New Republic Defense Fleet. Slayn and Korpil resumed production of civilian and military vessels, adapting their designs for the post-Imperial era.\n\nThe Roche asteroid field's unique environment and the Verpine's communal society continue to make it one of the most distinctive locations in the Mid Rim, with their engineering innovations influencing starship design throughout the galaxy.</t>
@@ -4576,7 +4633,7 @@ GUIDELINE -->
 			<t id="920902">Kalevala is a terrestrial world located in the Mandalore system of the Outer Rim Territories, sharing its star with the legendary Mandalorian homeworld. A planet of harsh desert landscapes and toxic atmospheric conditions, Kalevala has nevertheless maintained an important position in Mandalorian society for thousands of years.\n\nThe planet is most notably the ancestral seat of House Kryze, one of the most prominent and influential Mandalorian houses throughout galactic history. The Kryze family maintained their traditional stronghold on Kalevala while wielding considerable political power across the Mandalore sector.\n\nDespite its inhospitable surface conditions, Kalevala developed a sophisticated civilization centered around enclosed cities that protected inhabitants from the toxic atmosphere. The planet became renowned throughout the sector for producing luxury goods, particularly fine wines and rich textiles that were highly sought after by wealthy patrons across the galaxy.\n\nKalevala is also home to Kalevala Spaceworks, a prestigious starship manufacturer specializing in custom luxury spacecraft. The company's designs became synonymous with elegance and refinement, with their vessels serving as status symbols for the galaxy's elite. Most notably, Kalevala Spaceworks produced the Nau'ur-class yacht, vessels that combined exceptional performance with luxurious appointments.\n\nThousands of years before the rise of the Galactic Empire, Kalevala maintained its position within Mandalorian space while the warrior culture of Mandalore dominated the sector. The planet's focus on refinement and culture sometimes created tensions with more traditionalist Mandalorian clans who emphasized martial prowess above all else.\n\nDuring the Old Republic era, Kalevala continued its role as a center of Mandalorian culture and commerce. House Kryze wielded significant influence within Mandalorian politics, with family members frequently serving in leadership positions within the sector government.\n\nIn the decades before the Clone Wars, Mandalorian society underwent profound changes as a pacifist movement gained strength. Duchess Satine Kryze of House Kryze, born on Kalevala, became the leader of the New Mandalorians, a faction that rejected the traditional warrior culture and sought to transform Mandalorian society into a peaceful, neutral power.\n\nDuchess Satine's reforms proved controversial, creating deep divisions within Mandalorian society. Traditional warrior clans viewed the pacifist ideology as a betrayal of Mandalorian heritage, while the New Mandalorians argued that their people's violent past had brought nothing but suffering and that a new path was necessary.\n\nDuring the Clone Wars, Duchess Satine led the New Mandalorian government from Mandalore while maintaining close ties to Kalevala and House Kryze. She utilized a Kalevala Spaceworks vessel, the Coronet, as her personal transport and mobile command center. The luxury yacht served not only as transportation but also as a symbol of the New Mandalorians' commitment to refinement and diplomacy over militarism.\n\nThe Mandalore system, including Kalevala, attempted to maintain neutrality during the Clone Wars, with Duchess Satine refusing to align with either the Galactic Republic or the Confederacy of Independent Systems. However, the Death Watch, a terrorist organization of traditional Mandalorian warriors, actively opposed Satine's pacifist government and conducted attacks throughout the sector.\n\nApproximately 19 years before the rise of the Empire, the rogue Sith Lord Darth Maul seized control of Mandalore through manipulation of Death Watch and other criminal elements. Maul's forces overthrew Duchess Satine's government, and the Duchess herself was killed by Maul during his occupation of Mandalore. Her death marked the end of the New Mandalorian movement's dominance and the beginning of a darker era for the Mandalore sector.\n\nFollowing the rise of the Galactic Empire, Kalevala came under Imperial oversight as part of the Empire's control over the Mandalore sector. The Empire recognized the strategic importance of maintaining influence over Mandalorian space, though the fractured nature of Mandalorian society following Satine's death made complete Imperial control difficult to achieve.\n\nDuring the Galactic Civil War, Kalevala remained under nominal Imperial control, though various Mandalorian factions operated with varying degrees of independence. The planet's luxury goods industries continued operating, now serving Imperial clients and wealthy Core Worlders who could afford Kalevala's prestigious products.\n\nAfter the Battle of Endor and the formation of the New Republic, Kalevala became a core world of the new Mandalorian government as Imperial control over the Mandalore sector weakened. Various Mandalorian factions competed for influence, with the legacy of Duchess Satine and House Kryze remaining significant in debates about Mandalore's future direction and the nature of Mandalorian identity in the post-Imperial era.</t>
 
 			<t id="921001">blank</t>
-			<t id="921002">blank</t>
+			<t id="921002">This Space Is Intentionally Left Blank</t>
 
 			<t id="921101">Morellia</t>
 			<t id="921102">Morellia is an unremarkable, near-lifeless world located in the Outer Rim Territories. A planet of barren, rocky terrain and thin atmosphere, Morellia has remained largely isolated from galactic affairs throughout its history due to its inhospitable conditions and lack of valuable resources.\n\nFor thousands of years before the rise of the Galactic Empire, Morellia was known only as a desolate waypoint occasionally noted by explorers and spacers traversing the Outer Rim. The planet's harsh environment discouraged settlement, with only the hardiest colonists attempting to establish outposts on its surface. Most such efforts failed within years, unable to sustain themselves in the unforgiving conditions.\n\nAfter the Battle of Endor and the formation of the New Republic, Morellia continued its existence in obscurity. The barren world remained one of countless forgotten planets scattered throughout the Outer Rim, notable only for its complete unremarkability in a galaxy filled with more vibrant and strategically important worlds.</t>
@@ -6228,7 +6285,14 @@ GUIDELINE -->
 		<page id="20206" title="" descr="Texts" voice="no">
 			<t id="901">Sith</t>
 		</page>
-		<!-- Vanilla diplomacy replacements-->
+
+		<!-- Vanilla Interface Replacements-->
+		<page id="1001" title="Interface" descr="Text for interface and menus" voice="no">
+			<t id="12845">Manage your influence within the galaxy by recruiting and directing Agents. Deploy them to negotiate agreements, gather intelligence, spy on enemies and allies, or stir up tensions between factions.</t>
+			<t id="12856">Oversee emerging galactic affairs and delegate agents to strategically influence their outcomes, thereby altering the balance of power within the galaxy. Forge new alliances or dismantle existing ones, while adapting to the resulting consequences.</t>
+		</page>
+
+		<!-- Vanilla Diplomacy Replacements. Do not change anything inside parenthesis!-->
 		<page id="10120" title="Mission Argon/Terran NPC Female 22 / Segaris diplomat" descr="Lines for Segaris Faction Diplomat" voice="yes">
 			<t id="3000">(* Diplomat specific lines *)</t>
 			<t id="3001">(Accepting invitation)Our people are honoured by your invitation. I will be aboard your station shortly.</t>
@@ -6389,6 +6453,15 @@ GUIDELINE -->
 			<t id="3004">(Player requests military support)We'll do our best to provide military support.</t>
 			<t id="3005">(Faction military support has ended)Our military support must come to an end... for now.</t>
 		</page>
+
+		<!-- Vanilla Diplomacy Action Replacements. Do not change anything inside parenthesis!-->
+		<page id="20235" title="Diplomacy actions" descr="Text for diplomacy actions" voice="no">
+		    <t id="20202">The agent infiltrates a shipyard and attempts to steal blueprints of capital ships. With the aid of an espionage droid, the agent has a good chance of obtaining even heavily encrypted blueprints, though some element of chance remains. {20235,20322}</t>
+			<t id="20302">The agent infiltrates a wharf and attempts to steal blueprints of small and medium ships. With the aid of an espionage droid, the agent has a good chance of obtaining even heavily encrypted blueprints, though some element of chance remains. {20235,20322}</t>
+			<t id="20402">The agent infiltrates a faction's headquarters and attempts to steal blueprints of station modules. With the aid of an espionage droid, the agent has a good chance of obtaining even heavily encrypted blueprints, though some element of chance remains. {20235,20322}</t>
+			<t id="20502">The agent infiltrates an equipment dock and attempts to steal blueprints of the equipment on offer. With the aid of an espionage droid, the agent has a good chance of obtaining even heavily encrypted blueprints, though some element of chance remains. {20235,20322}</t>
+		</page>
+
 		<!-- Vanilla rescue and mine missions. Used by gm_rescue_ship.xml. Do not change anything inside parenthesis! -->
 		<page id="30138" title="Rescue Ship" descr="0" voice="no">
 			<t id="1001">Caught in a Trap</t>
