@@ -109,7 +109,7 @@ GUIDELINE -->
 
 			<t id="100910">TIE Interceptor</t>
 			<t id="100920">TIE/IN</t>
-			<t id="100930">The TIE/IN starfighter, simply known as the TIE Interceptor or T/I, was a TIE Series starfighter used by the Galactic Empire. The TIE Interceptor was identifiable by its arrow-shaped solar collection panels, a distinct difference from the hexagonal solar arrays of its predecessor, the TIE Fighter.\n\nThe Interceptor was one of the fastest starfighters in the galaxy at its prime, nearly rivalling the Alliance's RZ-1 A-wing interceptor.\nDue to their speed, distinct shape, and narrow profile in comparison to the TIE/ln starfighter (which was nicknamed "eyeball"), TIE Interceptors came to be referred to occasionally as "squints" by enemy pilots.\n\nThis is a late modification outfitted with a shield generator.</t>
+			<t id="100930">The TIE/IN starfighter, simply known as the TIE Interceptor or T/I, was a TIE Series starfighter used by the Galactic Empire. The TIE Interceptor was identifiable by its arrow-shaped solar collection panels, a distinct difference from the hexagonal solar arrays of its predecessor, the TIE Fighter.\n\nThe Interceptor was one of the fastest starfighters in the galaxy at its prime, nearly rivalling the Alliance's RZ-1 A-wing interceptor.\nDue to their speed, distinct shape, and narrow profile in comparison to the TIE/ln starfighter, nicknamed "eyeball", the TIE Interceptor came to be referred to occasionally as "squints" by enemy pilots.\n\nThis is a late modification outfitted with a shield generator.</t>
 
 			<t id="101010">TIE Advanced</t>
 			<t id="101020">TIE/x1</t>
@@ -157,7 +157,7 @@ GUIDELINE -->
 
 			<t id="101910">Probe droid</t>
 			<t id="101920">Probe</t>
-			<t id="101930">Probe droids (also known as probots or recon droids) are droids that are specifically designed and programmed to perform reconnaissance duties. These units were often dispatched by various space navies to gather information from a variety of different locations, reporting anything of significance as defined by specific preprogrammed protocols.</t>
+			<t id="101930">Probe droids, also known as probots or recon droids, are droids that are specifically designed and programmed to perform reconnaissance duties. These units were often dispatched by various space navies to gather information from a variety of different locations, reporting anything of significance as defined by specific preprogrammed protocols.</t>
 
 			<t id="102010">M12-L Kimogila</t>
 			<t id="102020">Kimogila </t>
@@ -2904,7 +2904,7 @@ GUIDELINE -->
 			<!-- rendili-->
 			<t id="522110">Rendili Drive Yards</t>
 			<t id="522120">RDY</t>
-			<t id="522130">Rendili StarDrive is among the oldest starship manufacturers in the galaxy. Dating back to the founding of the Galactic Republic, Rendili is synonymous with starship construction, and prides itself on efficiency and reliability over cutting-edge innovation.\n\nRSD's ships served as the backbone of the Republic's navy and planetary defence fleets for millennia, including famed (and infamous) designs such as the Dreadnought-class Heavy Cruiser.\n\nIn the final centuries of the Galactic Republic, Rendili's prominence waned as its rival, Kuat Drive Yards, gained influence.</t>
+			<t id="522130">Rendili StarDrive is among the oldest starship manufacturers in the galaxy. Dating back to the founding of the Galactic Republic, Rendili is synonymous with starship construction, and prides itself on efficiency and reliability over cutting-edge innovation.\n\nRSD's ships served as the backbone of the Republic's navy and planetary defence fleets for millennia, including famed \(and infamous\) designs such as the Dreadnought-class Heavy Cruiser.\n\nIn the final centuries of the Galactic Republic, Rendili's prominence waned as its rival, Kuat Drive Yards, gained influence.</t>
 			<!-- Incom-->
 			<t id="523110">Incom Corporation</t>
 			<t id="523120">INC</t>
@@ -3216,7 +3216,7 @@ GUIDELINE -->
 			<t id="800307">According to latest reports, the New Republic Senate is gathering to discuss the possible violation of the Bespin Treaty signed between the New Republic and the Anoat Federation. \nThe Senate states that the Anoat Federation is allowed to operate in Outer Rim territories only while keeping to agreed territory claims when the treaty at Bespin was signed by the two parties.\nLately, Anoat Federation has been accused numerous times by New Republic representatives of working with the Imperial Ascendancy and various pirate groups, supplying them with ships and weapons.\nThe Anoat Federation may see further deterioration of relations with the New Republic if its expansion continues.</t>
 
 			<t id="800308">New Arms Race!</t>
-			<t id="800309">В смелом шаге, ознаменовавшем начало новой гонки вооружений, различные фракции по всей галактике приступили к строительству новых суперзвёздных разрушителей и дредноутов. Эта эскалация последовала за недавним всплеском межзвёздной напряжённости, когда обострилось соперничество между Новой Республикой, Хейссалианским возвышением, остатками Галактической Империи и другими набирающими силу державами.\n\nГонка вооружений вызвала обеспокоенность среди нейтральных систем и более мелких фракций, опасающихся оказаться на линии огня между галактическими сверхдержавами. Дипломатические усилия предпринимаются, но галактика с затаившим дыханием наблюдает, как набирает обороты борьба за военное превосходство. По мере продолжения строительства баланс сил в галактике остаётся неопределённым, что грозит серьёзными последствиями на годы вперёд.</t>
+			<t id="800309">In a bold move signalling the start of a new arms race, various factions across the galaxy have commenced the construction of new Super Star Destroyers and Dreadnaughts. This escalation follows a recent surge in interstellar tensions, with rivalries heating up between the New Republic, Ascendancy, remnants of the Galactic Empire and other emerging powers.\n\nThe arms race has sparked concerns among neutral systems and smaller factions, fearing they might be caught in the crossfire between galactic superpowers. Diplomatic efforts are underway, but the galaxy watches with bated breath as the race for military dominance accelerates. As construction continues, the balance of power in the galaxy is uncertain, with the potential for significant repercussions in the years to come.</t>
 
 			<t id="800310">$FACTION$ launching surgical strike against $TARGET$ in $SECTOR$</t>
 			<!-- Kamino rising mission -->
