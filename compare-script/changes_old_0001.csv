@@ -1,286 +1,34 @@
 ID,Type,Text
-20202,Old, "(flavour text)"
-20202,New, "The agent infiltrates a shipyard and attempts to steal blueprints of capital ships. With the aid of an espionage droid, the agent has a good chance of obtaining even heavily encrypted blueprints, though some element of chance remains. {20235,20322}"
+3,Old, "Private Company"
+3,New, "Credits"
 
-20302,Old, "(flavour text)"
-20302,New, "The agent infiltrates a wharf and attempts to steal blueprints of small and medium ships. With the aid of an espionage droid, the agent has a good chance of obtaining even heavily encrypted blueprints, though some element of chance remains. {20235,20322}"
+601250,Old, "Lambda Shuttle"
+601250,New, "Lambda Shuttle\nMiner and two transports"
 
-20402,Old, "(flavour text)"
-20402,New, "The agent infiltrates a faction's headquarters and attempts to steal blueprints of station modules. With the aid of an espionage droid, the agent has a good chance of obtaining even heavily encrypted blueprints, though some element of chance remains. {20235,20322}"
+601350,Old, "Kom'rk-class Starfighter"
+601350,New, "Kom'rk-class Starfighter\nTwo fighter squadrons"
 
-20502,Old, "(flavour text)"
-20502,New, "The agent infiltrates an equipment dock and attempts to steal blueprints of the equipment on offer. With the aid of an espionage droid, the agent has a good chance of obtaining even heavily encrypted blueprints, though some element of chance remains. {20235,20322}"
+602250,Old, "The Pretender, TIE Defender"
+602250,New, "TIE Defender\nThe Pretender with fighter wing"
 
-103730,Old, "Developed alongside the TIE Defender, the TIE Fury was an early concept bid for an Imperial TIE heavy fighter. With the success of the Defender, the Fury’s development was mothballed and it never left its prototype test phase. Despite being heavily armed with four ion cannons, two laser cannons, and four ordinance launchers, the Fury was regarded as a failure due to its low speeds and low maneuverability. Coupled with a higher production cost than even the TIE Defender, it was deemed impractical to utilize the TIE Fury even in specialized roles.\n\nDeep Space traders have reported seeing ships matching the TIE Fury, though these reports remain unverified. The Corporate Sector Authority, Galactic Empire, and New Republic have issued warnings to traders traveling near the Stenos system, and urges any ship that detects unidentified vessels to withdraw from the area immediately."
-103730,New, "Developed alongside the TIE Defender, the TIE Fury was an early concept bid for an Imperial TIE heavy fighter. With the success of the Defender, the Fury's development was mothballed and it never left its prototype test phase. Despite being heavily armed with four ion cannons, two laser cannons, and four ordinance launchers, the Fury was regarded as a failure due to its low speeds and low maneuverability. Coupled with a higher production cost than even the TIE Defender, it was deemed impractical to utilize the TIE Fury even in specialized roles.\n\nDeep Space traders have reported seeing ships matching the TIE Fury, though these reports remain unverified. The Corporate Sector Authority, Galactic Empire, and New Republic have issued warnings to traders traveling near the Stenos system, and urges any ship that detects unidentified vessels to withdraw from the area immediately."
+602350,Old, "Liability of Guardian with fighter wing"
+602350,New, "X-wing T65B\nLiability of Guardian with fighter wing"
 
-124530,Old, "The Eta-class supply barge is a slow-moving bulk transport designed by the Telgorn Corporation to shuttle supplies, vehicles, and personnel between starbases, shipyards, and forward depots. Its cavernous, modular cargo bays made it ideal as a mobile warehouse or resupply platform that could accept containers, vehicles or prefab modules with minimal shore infrastructure.\n\nUnarmed and not intended for frontline combat, Eta-class barges normally operated under escort. Their value endures in simple cheap to maintain high-volume logistics."
-124530,New, "The Eta-class supply barge is a slow-moving bulk transport designed by the Telgorn Corporation to shuttle supplies, vehicles, and personnel between starbases, shipyards, and forward depots. Its cavernous, modular cargo bays made it ideal as a mobile warehouse or resupply platform that could accept containers, vehicles or prefab modules with minimal shore infrastructure.\n\nUnarmed and not intended for frontline combat, Eta-class barges normally operated under escort. Their value endures in simple, cheap to maintain, high-volume logistics."
+602450,Old, "Forsaken with fighter wing"
+602450,New, "Delta-7B Aethersprite\nForsaken with fighter wing"
 
-700010,Old, "Rhydonium Refinery"
-700010,New, "UNUSED"
+603050,Old, "SoroSuub Luxury Yacht 3000"
+603050,New, "SoroSuub Luxury Yacht 3000\nThree fighter escort"
 
-700011,Old, "Imperial Rhydonium Refinery"
-700011,New, "UNUSED"
+720712,Old, "The Scrap Recycler is designed to process Scrap Metal into usable resources, converting it into Hull Parts and Claytronics in alternating production cycles."
+720712,New, "The Scrap Recycler is designed to process Scrap Metal into usable resources, converting it into Durasteel Plates and Module PreFabs in alternating production cycles."
 
-700012,Old, "This facility refines and compresses rhydonium to be used in further production."
-700012,New, "UNUSED"
+721062,Old, "Alien Ingridients"
+721062,New, "Alien Ingredients"
 
-700130,Old, "This Wharf Facility is equipped to produce a wide range of starfighters and medium ships to support Imperial expansion efforts."
-700130,New, "This wharf facility is equipped to produce a wide range of starfighters and medium ships to support Imperial expansion efforts.\n\nThis module can dock 18 small and 8 medium ships.\nThis module can build 8 ships at the same time.\n\nThis module has:\n - 2x XL Turrets\n - 4x S Turrets\n - 2x M Shields\n\nThis module can be used to claim sectors."
+800309,Old, "In a bold move signalling the start of a new arms race, various factions across the galaxy have commenced the construction of new Super Star Destroyers and Dreadnaughts. This escalation follows a recent surge in interstellar tensions, with rivalries heating up between the New Republic, Ascendancy, remnants of the Galactic Empire and other emerging powers. .\n\nThe arms race has sparked concerns among neutral systems and smaller factions, fearing they might be caught in the crossfire between galactic superpowers. Diplomatic efforts are underway, but the galaxy watches with bated breath as the race for military dominance accelerates. As construction continues, the balance of power in the galaxy hangs in the balance, with the potential for significant repercussions in the years to come."
+800309,New, "In a bold move signalling the start of a new arms race, various factions across the galaxy have commenced the construction of new Super Star Destroyers and Dreadnaughts. This escalation follows a recent surge in interstellar tensions, with rivalries heating up between the New Republic, Ascendancy, remnants of the Galactic Empire and other emerging powers.\n\nThe arms race has sparked concerns among neutral systems and smaller factions, fearing they might be caught in the crossfire between galactic superpowers. Diplomatic efforts are underway, but the galaxy watches with bated breath as the race for military dominance accelerates. As construction continues, the balance of power in the galaxy is uncertain, with the potential for significant repercussions in the years to come."
 
-700210,Old, "Imperial Equipment Facility"
-700210,New, "Imperial S/M Maintenance Facility"
-
-700220,Old, "Imperial Equipment Facility"
-700220,New, "Imperial S/M Maint"
-
-700230,Old, "This Equipment Facility is made to modify and supply a wide range of starfighters and medium ships to support Imperial expansion efforts."
-700230,New, "This maintenance facility, also known as an equipment dock facility, is made to modify and supply a wide range of starfighters and medium ships to support Imperial expansion efforts.\n\nThis module can dock 18 small and 8 medium ships.\nThis module can refit and repair 8 ships at the same time.\n\nThis module has:\n - 2x XL Turrets\n - 4x S Turrets\n - 2x M Shields\n\nThis module can be used to claim sectors."
-
-700330,Old, "This Equipment Facility is the largest of its kind."
-700330,New, "This habitation module is the largest of its kind in the galaxy.\n\nThis module has:\n - 32x XL Turrets\n - 4x XL Shields\n\nThis module can be used to claim sectors."
-
-700410,Old, "Free Port Docks"
-700410,New, "Free Port \(3M6S\)"
-
-700420,Old, "Free Port S and M Docks"
-700420,New, "Free Port City Docks \(3M6S\)"
-
-700430,Old, "City dock port."
-700430,New, "Free Port City docking module.\n\nThis module has no weaponry or shields."
-
-700610,Old, "Imperial Dock"
-700610,New, "Imperial Trade Station Dock \(6M6S\)"
-
-700620,Old, "Imperial Trade Station Dock"
-700620,New, "Imp. Dock \(6M6S\)"
-
-700630,Old, "Imperial Trade Station Dock M and S"
-700630,New, "Imperial Trade Station docking module, for medium and small ships.\n\nThis module has:\n - 3x XL Turrets\n - 3x S Turrets\n - 2x M Shields"
-
-700810,Old, "Imp Station Storage"
-700810,New, "Imp. Station Storage"
-
-700830,Old, "Massive Imperial station storage segment"
-700830,New, "A colossal storage segment designed to hold all manner of containerized wares within Imperial orbital stations.\n\nThis module has no weaponry or shields."
-
-700910,Old, "Imp Trade Habitat"
-700910,New, "Imp. Trade Habitat"
-
-700920,Old, "Imperial Trade station Habitat"
-700920,New, "Imperial Trade Station Habitat"
-
-700930,Old, "Massive station habitat"
-700930,New, "A bustling commercial habitat built to anchor Imperial trade hubs, this module houses customs offices, merchant, living quarters for visiting merchants and envoys.\n\nThis module has no weaponry or shields."
-
-701920,Old, "XXL Construction Facility"
-701920,New, "XXL Constr Facility"
-
-701930,Old, "Supercapital construction facility allows construction of XXL dreadnaught-class warships."
-701930,New, "Supercapital construction facility allows construction of XXL dreadnaught-class warships.\n\nThis module has no weaponry or shields.\n\nThis module can be used to claim sectors."
-
-702030,Old, "This is a pier for the largest ships in the galaxy. It can also be used to resupply those ships."
-702030,New, "This is a 2-dock pier to dock, refit, and resupply the largest ships in the galaxy.\n\nThis module has no weaponry or shields.\n\nThis module can be used to claim sectors."
-
-702111,Old, "A makeshift wharf module repurposed from an old cargo terminal."
-702111,New, "A makeshift wharf module repurposed from an old cargo terminal to facilitate ship construction and repair of small and medium ships.\n\nThis module can dock 4 small and 1 medium ships.\nThis module can build 4 ships at the same time.\n\nThis module has no weaponry or shields."
-
-702121,Old, "A makeshift wharf built into an asteroid to facilitate ship construction and repair."
-702121,New, "A makeshift wharf built into an asteroid to facilitate ship construction and repair of small, medium, and large ships.\n\nThis module can dock 18 small, 8 medium, and one L ship.\nThis module can build 4 ships at the same time.\n\nThis module has no weaponry or shields."
-
-720023,Old, "Imp. Rhydonium Refinery"
-720023,New, "Rhydo. Refinery"
-
-720024,Old, "Rhydonium Refinery"
-720024,New, "This facility refines and compresses rhydonium into Rhydonium Cores."
-
-720044,Old, "Tibanna Refinery"
-720044,New, "This facility produces Tibanna Cells."
-
-720053,Old, "Imperial Durasteel Plates Production"
-720053,New, "Durasteel Plates"
-
-720054,Old, "Durasteel Plates Production"
-720054,New, "This facility produces Durasteel Plates."
-
-720073,Old, "Imperial Agricultural Goods Production"
-720073,New, "Agri. Goods"
-
-720074,Old, "Agricultural Goods Production"
-720074,New, "This facility produces Agricultural Goods."
-
-720083,Old, "Imperial Module PreFab Production"
-720083,New, "Module PreFab"
-
-720084,Old, "Module PreFab Production"
-720084,New, "This facility produces Module PreFabs."
-
-720091,Old, "Hutt Spice"
-720091,New, "Hutt Spice is a potent, aromatic narcotic blend cultivated in secret plantations across the Outer Rim. Its heady vapors bring sharp euphoria and heightened sensation, making it a prized commodity in cantinas and pleasure dens.\n\nControlled and refined by Hutt cartels, spice fuels black markets and criminal empires—its wealth comes at a cost, as addiction and social decay follow those who indulge too deeply."
-
-720092,Old, "Hutt Bliss Palace"
-720092,New, "Hutt Spice Lab"
-
-720113,Old, "Sensor Components Production"
-720113,New, "Sensor Components"
-
-720114,Old, "Sensor Components Production"
-720114,New, "This facility produces Sensor Components."
-
-720133,Old, "Droid Parts Production"
-720133,New, "Droid Parts"
-
-720134,Old, "Droid Parts Production"
-720134,New, "This facility produces Droid Parts."
-
-720143,Old, "Capacitors Production"
-720143,New, "Capacitors"
-
-720144,Old, "Capacitors Production"
-720144,New, "This facility produces Capacitors."
-
-720151,Old, "Hutt Chemicals"
-720151,New, "Hutt Chemicals are a precursor material used in the production of Hutt Spice."
-
-720152,Old, "Hutt Chem Lab"
-720152,New, "Hutt Chemicals Lab"
-
-720160,Old, "Imp. Admin Center"
-720160,New, "Imperial Admin Center"
-
-720161,Old, "Imp. Control Center"
-720161,New, "Imp. Admin Center"
-
-720170,Old, "Imp. Bridge"
-720170,New, "Imperial Defence Bridge"
-
-720180,Old, "Imp. Disc"
-720180,New, "Imperial Defence Disc"
-
-720190,Old, "Imp. Top Defence"
-720190,New, "Imperial Trade Station Defence"
-
-720210,Old, "Bridge Defence"
-720210,New, "Defence Bridge"
-
-720220,Old, "Disc Defence"
-720220,New, "Defence Disc"
-
-720260,Old, "Imp. L Habitat"
-720260,New, "L Habitat"
-
-720261,Old, "Imp. M Habitat"
-720261,New, "M Habitat"
-
-720262,Old, "Imp. S Habitat"
-720262,New, "S Habitat"
-
-720340,Old, "Imp. 3-Dock T Harbor"
-720340,New, "3-Dock T Harbor"
-
-720341,Old, "Imp. Single Harbor"
-720341,New, "1-Dock Harbor"
-
-720342,Old, "Imp. 3-Dock E Harbor"
-720342,New, "3-Dock E Harbor"
-
-720343,Old, "Imp. Cross Harbor"
-720343,New, "4-Dock X Harbor"
-
-720344,Old, "Imp. Control Harbor"
-720344,New, "Control Harbor"
-
-720360,Old, "Imperial Base Struct 01"
-720360,New, "Base Struct 01"
-
-720361,Old, "Imperial Base Struct 02"
-720361,New, "Base Struct 02"
-
-720362,Old, "Imperial Base Struct 03"
-720362,New, "Base Struct 03"
-
-720370,Old, "Imperial Vertical Struct 01"
-720370,New, "Vertical Struct 01"
-
-720371,Old, "Imperial Vertical Struct 02"
-720371,New, "Vertical Struct 02"
-
-720372,Old, "Imperial Cross Struct 01"
-720372,New, "Cross Struct 01"
-
-720400,Old, "Scum L Habitat"
-720400,New, "Pirate L Dormitory"
-
-720401,Old, "Scum M Habitat"
-720401,New, "Pirate M Dormitory"
-
-720402,Old, "Scum S Habitat"
-720402,New, "Pirate S Dormitory"
-
-720430,Old, "Imp. Docking Platform"
-720430,New, "Imperial Disk Docking Platform \(4M10S\)"
-
-720440,Old, "Imp. L Container"
-720440,New, "L Container"
-
-720441,Old, "Imp. M Container"
-720441,New, "M Container"
-
-720442,Old, "Imp. S Container"
-720442,New, "S Container"
-
-720450,Old, "Imp. L Solid"
-720450,New, "L Solid"
-
-720451,Old, "Imp. M Solid"
-720451,New, "M Solid"
-
-720452,Old, "Imp. S Solid"
-720452,New, "S Solid"
-
-720460,Old, "Imp. L Liquid"
-720460,New, "L Liquid"
-
-720461,Old, "Imp. M Liquid"
-720461,New, "M Liquid"
-
-720462,Old, "Imp. S Liquid"
-720462,New, "S Liquid"
-
-720481,Old, "Imp. Medical Supplies Production"
-720481,New, "Medical Supplies"
-
-720643,Old, "Fibersteel Production"
-720643,New, "Fibersteel"
-
-720653,Old, "Darkfusion Cell Production"
-720653,New, "Darkfusion Cell"
-
-720663,Old, "Obsidian Composite Production"
-720663,New, "Obsidian Composite"
-
-720673,Old, "Bacta Production"
-720673,New, "Bacta Solution"
-
-720683,Old, "Cloning Vats Production"
-720683,New, "Cloning Vats"
-
-730013,Old, "Imperial Ship Supplies Factory"
-730013,New, "Ship Supplies"
-
-730014,Old, "Supplies Factory produces Ship Supplies."
-730014,New, "This facility produces Ship Supplies."
-
-800209,Old, "Finally! \nMy research team has moved to the new facility long time ago, but I was floating in bacta tank after some unsuccessful experiment, details of which I don’t even remember now, waking up from the stasis only to see myself locked on this station under quarantine for unknown reason and with no communication with outside world.\nThe station seems to be decommissioned now, or abandoned for some reason, I have no clue.\n\nAnyway, as your actions seems to have lift off the quarantine I want to thank you in some way.\nThis station was experimental facility to test large objects hyperjump possibility, so I can initiate the sequence for you, the drive system proved to be very unstable however, so will most probably become inoperable after first jump. That was the main reason for project cancellation, though I’m wondering why they left all that research equipment here.\n\nAfter the jump I will leave the station, you are free to do whatever you want with it.\n\nCome see me in Coordination Center."
-800209,New, "Finally! \nMy research team has moved to the new facility long time ago, but I was floating in bacta tank after some unsuccessful experiment, details of which I don't even remember now, waking up from the stasis only to see myself locked on this station under quarantine for unknown reason and with no communication with outside world.\nThe station seems to be decommissioned now, or abandoned for some reason, I have no clue.\n\nAnyway, as your actions seems to have lift off the quarantine I want to thank you in some way.\nThis station was experimental facility to test large objects hyperjump possibility, so I can initiate the sequence for you, the drive system proved to be very unstable however, so will most probably become inoperable after first jump. That was the main reason for project cancellation, though I'm wondering why they left all that research equipment here.\n\nAfter the jump I will leave the station, you are free to do whatever you want with it.\n\nCome see me in Coordination Center."
-
-903602,Old, "Corellia is a planet in the Core Worlds, located along the Corellian Run and Corellian Trade Spine hyperspace routes. Known for its shipbuilding industry, Corellia is the homeworld of the Corellian Engineering Corporation, which produces some of the galaxy's most iconic starships, including the YT-series freighters and CR90 corvettes.\n\nThe planet's surface features sprawling cities such as Coronet City, vast shipyards, and temperate landscapes with forests, plains, and oceans. Corellians are renowned for their piloting skills, independence, and adventurous spirit, with many famous smugglers and heroes, including Han Solo, originating from the world.\n\nCorellia was a founding member of the Galactic Republic and played a significant role in galactic politics and commerce for millennia. During the Clone Wars, Corellia remained loyal to the Republic, though its leadership maintained a degree of autonomy and neutrality in some galactic affairs. The planet's shipyards contributed to the Republic war effort, and Corellian Security Force (CorSec) maintained order locally.\n\nAfter the rise of the Galactic Empire, Corellia came under Imperial control. The Empire expanded ship production and maintained a strong military presence, though Corellians continued to value their independence. The planet's shipyards produced vessels for the Imperial Navy, and Imperial rule brought increased regulation and surveillance.\n\nDuring the Galactic Civil War, Corellia remained under Imperial authority, but many Corellians secretly supported the Rebel Alliance. The planet's strategic location and shipbuilding capacity made it a valuable asset for both the Empire and the Rebellion. Han Solo, a native Corellian, became a key figure in the Rebellion and the fight against the Empire.\n\nAfter the Battle of Endor and the fall of the Empire, Corellia joined the New Republic. The planet continued to serve as a major commercial and industrial center, maintaining its reputation for producing skilled pilots and advanced starships. Corellia's independent spirit persisted, and its citizens played important roles in the rebuilding of galactic government and society."
-903602,New, "Corellia is a planet in the Core Worlds, located along the Corellian Run and Corellian Trade Spine hyperspace routes. Known for its shipbuilding industry, Corellia is the homeworld of the Corellian Engineering Corporation, which produces some of the galaxy's most iconic starships, including the YT-series freighters and CR90 corvettes.\n\nThe planet's surface features sprawling cities such as Coronet City, vast shipyards, and temperate landscapes with forests, plains, and oceans. Corellians are renowned for their piloting skills, independence, and adventurous spirit, with many famous smugglers and heroes, including Han Solo, originating from the world.\n\nCorellia was a founding member of the Galactic Republic and played a significant role in galactic politics and commerce for millennia. During the Clone Wars, Corellia remained loyal to the Republic, though its leadership maintained a degree of autonomy and neutrality in some galactic affairs. The planet's shipyards contributed to the Republic war effort, and Corellian Security Force \(CorSec\) maintained order locally.\n\nAfter the rise of the Galactic Empire, Corellia came under Imperial control. The Empire expanded ship production and maintained a strong military presence, though Corellians continued to value their independence. The planet's shipyards produced vessels for the Imperial Navy, and Imperial rule brought increased regulation and surveillance.\n\nDuring the Galactic Civil War, Corellia remained under Imperial authority, but many Corellians secretly supported the Rebel Alliance. The planet's strategic location and shipbuilding capacity made it a valuable asset for both the Empire and the Rebellion. Han Solo, a native Corellian, became a key figure in the Rebellion and the fight against the Empire.\n\nAfter the Battle of Endor and the fall of the Empire, Corellia joined the New Republic. The planet continued to serve as a major commercial and industrial center, maintaining its reputation for producing skilled pilots and advanced starships. Corellia's independent spirit persisted, and its citizens played important roles in the rebuilding of galactic government and society."
-
-915002,Old, "Ring-o-Moon is one of the four moons of the gas giant ""Sergeant Pepper"". The other moons are called Harrison's Moon, Paul's Moon and John's Moon.\n\nThis uninhabited sector has remained largely unexplored, with only automated survey probes occasionally passing through. Nobody knows who named these celestial bodies, though the navigation database suggests they were catalogued by an eccentric explorer with a fondness for ancient pre-spaceflight music.\n\nSome spacers joke that visiting all four moons in sequence creates a ""Magical Mystery Tour"" through the system."
-915002,New, "Ring-o-Moon is one of the four moons of the gas giant ""Sergeant Pepper"". The other moons are called Harrison's Moon, Paul's Moon and John's Moon.\n\nThis uninhabited sector has remained largely unexplored, with only automated survey probes occasionally passing through. Nobody knows who named these celestial bodies, though the navigation database suggests they were catalogued by an eccentric explorer with a fondness for unusual music.\n\nSome spacers joke that visiting all four moons in sequence creates a ""Magical Mystery Tour"" through the system."
-
-921002,Old, "blank"
-921002,New, "This Space Is Intentionally Left Blank"
+903602,Old, "Corellia is a planet in the Core Worlds, located along the Corellian Run and Corellian Trade Spine hyperspace routes. Known for its shipbuilding industry, Corellia is the homeworld of the Corellian Engineering Corporation, which produces some of the galaxy's most iconic starships, including the YT-series freighters and CR90 corvettes.\n\nThe planet's surface features sprawling cities such as Coronet City, vast shipyards, and temperate landscapes with forests, plains, and oceans. Corellians are renowned for their piloting skills, independence, and adventurous spirit, with many famous smugglers and heroes, including Han Solo, originating from the world.\n\nCorellia was a founding member of the Galactic Republic and played a significant role in galactic politics and commerce for millennia. During the Clone Wars, Corellia remained loyal to the Republic, though its leadership maintained a degree of autonomy and neutrality in some galactic affairs. The planet's shipyards contributed to the Republic war effort, and Corellian Security Force \(CorSec\) maintained order locally.\n\nAfter the rise of the Galactic Empire, Corellia came under Imperial control. The Empire expanded ship production and maintained a strong military presence, though Corellians continued to value their independence. The planet's shipyards produced vessels for the Imperial Navy, and Imperial rule brought increased regulation and surveillance.\n\nDuring the Galactic Civil War, Corellia remained under Imperial authority, but many Corellians secretly supported the Rebel Alliance. The planet's strategic location and shipbuilding capacity made it a valuable asset for both the Empire and the Rebellion. Han Solo, a native Corellian, became a key figure in the Rebellion and the fight against the Empire.\n\nAfter the Battle of Endor and the fall of the Empire, Corellia joined the New Republic. The planet continued to serve as a major commercial and industrial center, maintaining its reputation for producing skilled pilots and advanced starships. Corellia's independent spirit persisted, and its citizens played important roles in the rebuilding of galactic government and society."
+903602,New, "Corellia is a planet in the Core Worlds, located along the Corellian Run and Corellian Trade Spine hyperspace routes. Known for its shipbuilding industry, Corellia is the homeworld of the Corellian Engineering Corporation, which produces some of the galaxy's most iconic starships, including the YT-series freighters and CR90 corvettes.\n\nThe planet's surface features sprawling cities such as Coronet City, vast shipyards, and temperate landscapes with forests, plains, and oceans. Corellians are renowned for their piloting skills, independence, and adventurous spirit, with many famous smugglers and heroes, including Han Solo, originating from the world.\n\nCorellia was a founding member of the Galactic Republic and played a significant role in galactic politics and commerce for millennia. During the Clone Wars, Corellia remained loyal to the Republic, though its leadership maintained a degree of autonomy and neutrality in some galactic affairs. The planet's shipyards contributed to the Republic war effort, and Corellian Security Force (CorSec) maintained order locally.\n\nAfter the rise of the Galactic Empire, Corellia came under Imperial control. The Empire expanded ship production and maintained a strong military presence, though Corellians continued to value their independence. The planet's shipyards produced vessels for the Imperial Navy, and Imperial rule brought increased regulation and surveillance.\n\nDuring the Galactic Civil War, Corellia remained under Imperial authority, but many Corellians secretly supported the Rebel Alliance. The planet's strategic location and shipbuilding capacity made it a valuable asset for both the Empire and the Rebellion. Han Solo, a native Corellian, became a key figure in the Rebellion and the fight against the Empire.\n\nAfter the Battle of Endor and the fall of the Empire, Corellia joined the New Republic. The planet continued to serve as a major commercial and industrial center, maintaining its reputation for producing skilled pilots and advanced starships. Corellia's independent spirit persisted, and its citizens played important roles in the rebuilding of galactic government and society."
 
