@@ -109,7 +109,7 @@ GUIDELINE -->
 
 			<t id="100910">Intercepteur TIE</t>
 			<t id="100920">TIE/IN</t>
-			<t id="100930">Le chasseur stellaire TIE/IN, simplement connu sous le nom d'Intercepteur TIE ou T/I, était un chasseur stellaire de la série TIE utilisé par l'Empire Galactique. L'Intercepteur TIE était identifiable par ses panneaux collecteurs solaires en forme de flèche, une différence distincte par rapport aux réseaux solaires hexagonaux de son prédécesseur, le Chasseur TIE.\n\nL'Intercepteur était l'un des chasseurs stellaires les plus rapides de la galaxie à son apogée, rivalisant presque avec l'intercepteur RZ-1 A-wing de l'Alliance.\nEn raison de leur vitesse, de leur forme distincte et de leur profil étroit par rapport au chasseur stellaire TIE/ln (qui était surnommé "globe oculaire"), les Intercepteurs TIE étaient occasionnellement appelés "strabiques" par les pilotes ennemis.\n\nCeci est une modification tardive équipée d'un générateur de bouclier.</t>
+			<t id="100930">Le chasseur stellaire TIE/IN, simplement connu sous le nom d'Intercepteur TIE ou T/I, était un chasseur stellaire de la série TIE utilisé par l'Empire Galactique. L'Intercepteur TIE était identifiable par ses panneaux collecteurs solaires en forme de flèche, une différence distincte par rapport aux réseaux solaires hexagonaux de son prédécesseur, le Chasseur TIE.\n\nL'Intercepteur était l'un des chasseurs stellaires les plus rapides de la galaxie à son apogée, rivalisant presque avec l'intercepteur RZ-1 A-wing de l'Alliance.\nEn raison de leur vitesse, de leur forme distincte et de leur profil étroit par rapport au chasseur stellaire TIE/ln \(qui était surnommé "globe oculaire")\, les Intercepteurs TIE étaient occasionnellement appelés "strabiques" par les pilotes ennemis.\n\nCeci est une modification tardive équipée d'un générateur de bouclier.</t>
 
 			<t id="101010">TIE Avancé</t>
 			<t id="101020">TIE/x1</t>
@@ -2576,6 +2576,8 @@ GUIDELINE -->
 			<t id="501230">Accès Équipement de la Guilde des Chasseurs de Primes</t>
 			<t id="501240">Accès Vaisseau Unique de la Guilde des Chasseurs de Primes</t>
 			<t id="501250">Accès Équipement Unique de la Guilde des Chasseurs de Primes</t>
+			<t id="501260">Accès Avancé aux Vaisseaux de la Guilde des Chasseurs de Primes</t>
+			<t id="501270">Accès Avancé à l’Équipement de la Guilde des Chasseurs de Primes</t>
 
 			<t id="501310">(friend)Chasseur de Primes Approuvé</t>
 			<t id="501320">(ally)Chasseur de Primes Légendaire</t>
@@ -3458,13 +3460,13 @@ GUIDELINE -->
 			<t id="601220">DIFFICULTÉ INITIALE : Facile\n\nTu étais autrefois un important entrepreneur militaire de la Marine impériale, mais après la chute de l’Empire, la plupart des actifs de tes compagnies furent confisqués. Tu as pu prouver aux autorités de la Nouvelle République que tes relations avec l’Empire étaient exclusivement d’intérêt commercial, ce qui t’a permis de conserver au moins ta liberté ainsi qu’une partie de tes fonds et biens personnels.</t>
 			<t id="601230">Keajar Armfisti</t>
 			<t id="601240">Kuat</t>
-			<t id="601250">Navette Lambda</t>
+			<t id="601250">Navette Lambda\nMineur et deux transports</t>
 			<t id="601260">Tu étais autrefois un important entrepreneur militaire de la Marine impériale, mais après la chute de l’Empire, la plupart des actifs de ta compagnie furent confisqués. Tu as pu prouver aux autorités de la Nouvelle République que tes relations avec l’Empire étaient exclusivement d’intérêt commercial, ce qui t’a permis de conserver au moins ta liberté ainsi qu’une partie de tes fonds et biens personnels.</t>
 			<t id="601310">*Advanced* Mandalorien Marginal</t>
 			<t id="601320">DIFFICULTÉ INITIALE : Avancée\n\Même les leaders Mandaloriens les plus radicaux considèrent votre clan comme une tribu vile. Vous êtes chassé par la plupart des factions de la galaxie, vos effectifs diminuent et les ressources sont difficiles à obtenir. Mais cette fois, la chance est de votre côté, vous avez tendu une embuscade parfaite avec un faux appel de détresse et avez réussi à aborder votre vaisseau prisé. C'est la voie.</t>
 			<t id="601330">Tunod Varad</t>
 			<t id="601340">Territoire neutre</t>
-			<t id="601350">Chasseur Stellaire de classe Kom'rk</t>
+			<t id="601350">Chasseur Stellaire de classe Kom'rk\nDeux escadrons de chasseurs</t>
 			<t id="601360">Vos Marines ont déjà abordé le vaisseau, attendez qu'ils terminent la prise de contrôle</t>
 			<t id="601370">Prise de contrôle terminée, le vaisseau est à nous. C'est la voie.</t>
 			<t id="601380">Même les leaders Mandaloriens les plus radicaux considèrent votre clan comme une tribu vile. Vous êtes chassé par la plupart des factions de la galaxie, vos effectifs diminuent et les ressources sont difficiles à obtenir. Mais cette fois, la chance est de votre côté, vous avez tendu une embuscade parfaite avec un faux appel de détresse et avez réussi à aborder votre vaisseau prisé. C'est la voie.</t>
@@ -3488,7 +3490,7 @@ GUIDELINE -->
 			<t id="602220">DIFFICULTÉ INITIALE: Avancée\n*You are hated by many major factions.*\nVous saviez qu'après la mort de l'Empereur, son Empire serait brisé. Ces nombreux Amiraux et Chefs de Guerre se battront pour l'influence et le pouvoir, brisant l'Empire encore plus. Mais vous avez d'autres plans pour l'avenir de l'Empire.\nAu lendemain de la Bataille d'Endor, vous avez ordonné à votre équipage loyal de se cacher et d'attendre. Maintenant, alors que la galaxie est en plein chaos, est le meilleur moment pour se lever et reconstruire le Premier Empire Galactique.\n\n</t>
 			<t id="602230">Leis Send</t>
 			<t id="602240">Bordure Extérieure</t>
-			<t id="602250">Le Prétendant, TIE Defender</t>
+			<t id="602250">Le Prétendant, TIE Defender\nLe Prétendant avec escadron de chasseurs</t>
 			<t id="602260">Le Prétendant</t>
 			<t id="602270">Vous saviez qu'après la mort de l'Empereur, son Empire serait brisé. Ces nombreux Amiraux et Chefs de Guerre se battront pour l'influence et le pouvoir, brisant l'Empire encore plus. Mais vous avez d'autres plans pour l'avenir de l'Empire. Au lendemain de la Bataille d'Endor, vous avez ordonné à votre équipage loyal de se cacher et d'attendre. Maintenant, alors que la galaxie est en plein chaos, est le meilleur moment pour se lever et reconstruire le Premier Empire Galactique.</t>
 
@@ -3496,15 +3498,15 @@ GUIDELINE -->
 			<t id="602320">DIFFICULTÉ INITIALE: Avancée\n*Most Factions except NRL are NOT welcoming.*\nVous et vos ailiers avez été dépêchés en mission secrète par la Nouvelle République pour découvrir les stratagèmes de la République Anoat visant à fournir des armes et de l'équipement à l'Ascendance Impériale. Après une récente embuscade étrangement coordonnée par des pirates du Soleil Noir, des nouvelles ont commencé à arriver, indiquant que vous et votre groupe avez été identifiés comme des partisans de pirates, et qu'une prime a été publiée sur votre tête. Tous les membres de votre groupe ont été proclamés pirates dangereux et la plupart des factions vous tireront probablement à vue. Connaissant la nature de cette mission secrète, la seule issue est de trouver un chemin de retour vers l'espace NRL sans mourir. Actuellement, vous êtes poursuivi par un groupe de vaisseaux pirates.\n\n</t>
 			<t id="602330">Kes Dessas</t>
 			<t id="602340">Polis Massa</t>
-			<t id="602350">Liability of Guardian avec escadron de chasseurs</t>
-			<t id="602360">Liability of Guardian</t>
+			<t id="602350">Responsabilité du Gardien\nResponsabilité du Gardien avec escadron de chasseurs</t>
+			<t id="602360">Responsabilité du Gardien</t>
 			<t id="602370">Vous et vos ailiers avez été dépêchés en mission secrète par la Nouvelle République pour découvrir les stratagèmes de la République Anoat visant à fournir des armes et de l'équipement à l'Ascendance Impériale. Après une récente embuscade étrangement coordonnée par des pirates du Soleil Noir, des nouvelles ont commencé à arriver, indiquant que vous et votre groupe avez été identifiés comme des partisans de pirates, et qu'une prime a été publiée sur votre tête. Tous les membres de votre groupe ont été proclamés pirates dangereux et la plupart des factions vous tireront probablement à vue. Connaissant la nature de cette mission secrète, la seule issue est de trouver un chemin de retour vers l'espace NRL sans mourir. Actuellement, vous êtes poursuivi par un groupe de vaisseaux pirates.\n\n</t>
 
 			<t id="602410">*Advanced* Le Dernier Clone</t>
 			<t id="602420">DIFFICULTÉ INITIALE: Avancée\n*Everyone hates you except CSA.*\nVous êtes l'une des expériences ratées de Kamino, un clone dont l'ADN a été modifié différemment du lot habituel, ralentissant plutôt votre vieillissement, créé pour tester différentes approches du processus de clonage. Bien que vous ayez reçu une bonne formation et des soins à Tipoca City, vous vous êtes toujours senti comme un simple rouage du système et vous vouliez plus. Heureusement, vous avez réussi à quitter la planète pendant le raid des forces de la CSI sur Kamino. Allant le plus loin possible dans la Bordure Extérieure, vous avez commencé à travailler comme mercenaire. Ce fut loin d'être facile après la fin de la Guerre des Clones, car ayant une apparence similaire à d'autres clones, vous étiez considéré comme fidèle à l'Empire et n'étiez pas le bienvenu sur de nombreuses planètes. Cependant, grâce à de bonnes connaissances en tactiques de combat et à une bonne éducation ainsi qu'à un bon service, vous êtes devenu un capitaine mercenaire de haut rang au sein de la CSA, commandant un Destroyer Stellaire de classe Venator spécialement équipé. Le dernier contrat que vous avez reçu était de patrouiller l'espace reculé après des rapports de vaisseaux ICG aperçus dans la zone.\n\n</t>
 			<t id="602430">FE77-01</t>
 			<t id="602440">Territoire CSA</t>
-			<t id="602450">Forsaken avec escadron de chasseurs</t>
+			<t id="602450">Delta-7B Aethersprite\nDélaissé avec escadron de chasseurs</t>
 			<t id="602460">Forsaken</t>
 			<t id="602461">Invisible Dart</t>
 			<t id="602470">Vous êtes l'une des expériences ratées de Kamino, un clone dont l'ADN a été modifié différemment du lot habituel, ralentissant plutôt votre vieillissement, créé pour tester différentes approches du processus de clonage. Bien que vous ayez reçu une bonne formation et des soins à Tipoca City, vous vous êtes toujours senti comme un simple rouage du système et vous vouliez plus. Heureusement, vous avez réussi à quitter la planète pendant le raid des forces de la CSI sur Kamino. Allant le plus loin possible dans la Bordure Extérieure, vous avez commencé à travailler comme mercenaire. Ce fut loin d'être facile après la fin de la Guerre des Clones, car ayant une apparence similaire à d'autres clones, vous étiez considéré comme fidèle à l'Empire et n'étiez pas le bienvenu sur de nombreuses planètes. Cependant, grâce à de bonnes connaissances en tactiques de combat et à une bonne éducation ainsi qu'à un bon service, vous êtes devenu un capitaine mercenaire de haut rang au sein de la CSA, commandant un Destroyer Stellaire de classe Venator spécialement équipé. Le dernier contrat que vous avez reçu était de patrouiller l'espace reculé après des rapports de vaisseaux ICG aperçus dans la zone.\n\n</t>
@@ -3541,7 +3543,7 @@ GUIDELINE -->
 			<t id="603020">DIFFICULTÉ INITIALE: Modérée\n\nVous étiez le second d'un groupe de mercenaires au service des Hutts. Récemment, le chef de votre groupe et une escouade entière de mercenaires ont mystérieusement disparu, ainsi que le Hutt qui vous avait engagé, tandis que vous avez été laissé pour gérer les finances du groupe ailleurs. Le chef étant parti, ce qui reste du groupe est maintenant à vous.</t>
 			<t id="603030">Gregrob Twatooi</t>
 			<t id="603040">Nar Shadda</t>
-			<t id="603050">Yacht de Luxe SoroSuub 3000</t>
+			<t id="603050">Yacht de Luxe SoroSuub 3000\nTrois chasseurs d’escorte</t>
 			<t id="603060">Vous étiez le second d'un groupe de mercenaires au service des Hutts. Récemment, le chef de votre groupe et une escouade entière de mercenaires ont mystérieusement disparu, ainsi que le Hutt qui vous avait engagé, tandis que vous avez été laissé pour gérer les finances du groupe ailleurs. Le chef étant parti, ce qui reste du groupe est maintenant à vous.</t>
 
 			<t id="603110">Jeune Noble</t>
@@ -4699,10 +4701,10 @@ GUIDELINE -->
 			<t id="1000124">Conversation_Scientist_Reward5(if required)</t>
 		</page>
 		<!--
-			Yb		  dP	db	  88""Yb	 .dP"Y8 88	 88 88""Yb .dP"Y8
-			 Yb	 db	 dP	   dPYb	  88__dP	 `Ybo." 88	 88 88__dP `Ybo."
-			  YbdPYbdP	  dP__Yb  88"Yb		 o.`Y8b Y8	 8P 88""Yb o.`Y8b
-			   YP  YP	 dP""""Yb 88  Yb	 8bodP' `YbodP' 88oodP 8bodP'
+			Yb        dP    db    88""Yb     .dP"Y8 88   88 88""Yb .dP"Y8
+			 Yb  db  dP    dPYb   88__dP     `Ybo." 88   88 88__dP `Ybo."
+			  YbdPYbdP    dP__Yb  88"Yb      o.`Y8b Y8   8P 88""Yb o.`Y8b
+			   YP  YP    dP""""Yb 88  Yb     8bodP' `YbodP' 88oodP 8bodP'
 		 -->
 		<!-- kuertee mod: SWI war subs -->
 		<page id="999841" comment="default texts for war subs">

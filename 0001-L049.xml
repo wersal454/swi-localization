@@ -2588,6 +2588,8 @@ GUIDELINE -->
 			<t id="500100">Mit dem Erwerb dieser Lizenz erhält der Inhaber die Möglichkeit, alle Handelsangebote von Stationen der ausstellenden Fraktion einzusehen, unabhängig davon, ob diese Stationen zum Zeitpunkt des Kaufs bereits bekannt sind oder erst später entdeckt werden.\n\nFällt der Ruf des Lizenzinhabers bei der ausstellenden Fraktion unter den festgelegten Schwellenwert, verfällt diese Lizenz und ihre Auswirkungen.</t>
 			<!-- Generic police licence description-->
 			<t id="500101">Die ausstellende Fraktion für diese Lizenz ist eine Polizeibehörde. Die ausstellende Fraktion besitzt diese Autorität über ihren eigenen Raum und in bestimmten Fällen auch über den Raum anderer Fraktionen.\n\nIn Gebieten, für die die ausstellende Fraktion die Autorität besitzt, können Piloten mit dieser Lizenz Schiffe im Namen der ausstellenden Fraktion frei scannen und erhalten zudem eine erhöhte Belohnung für die Zerstörung von Feinden in der Nähe von Stationen, die der ausstellenden Fraktion freundlich gesinnt sind oder ihr gehören.\n\nFällt der Ruf des Piloten bei der ausstellenden Fraktion unter den erforderlichen Schwellenwert, verfällt diese Lizenz und ihre Auswirkungen.</t>
+			<!-- Generic station_illegal description-->
+			<t id="500102">Der Inhaber dieser Lizenz erhält die Möglichkeit, Module zu erwerben, die Waren produzieren, die von vielen Fraktionen als illegal angesehen werden, wie z. B. Hutt-Gewürz und Schmuggelalkohol.\n\nWenn der Ruf des Lizenzinhabers bei der ausstellenden Fraktion unter den festgelegten Schwellenwert fällt, verfällt diese Lizenz und ihre Auswirkungen.</t>
 
 			<!-- EMPIRE-->
 			<t id="500110">Galaktisches Imperium</t>
@@ -3158,6 +3160,7 @@ GUIDELINE -->
 			<t id="700920">Imperial Handelsstation Habitat</t>
 			<t id="700921">Sith XL Habitat</t>
 			<t id="700930">Massives Stations Habitat</t>
+			<t id="700931">Ein kolossaler Wohnring, Heimat für Tausende von Zivilisten, Händlern und eine ständige Garnison.\n\nDieses Modul verfügt über keine Waffen oder Schilde.</t>
 
 			<t id="701010">Imperiale Freihafenmole</t>
 			<t id="701020">Freie Handelsstation Hafenmole</t>
@@ -3291,7 +3294,7 @@ GUIDELINE -->
 			<t id="800307">Jüngsten Berichten zufolge tritt der Senat der Neuen Republik zusammen, um einen möglichen Verstoß gegen den Bespin-Vertrag zwischen der Neuen Republik und der Anoat-Föderation zu erörtern. \nDer Senat gibt an, dass die Anoat-Föderation in den Territorien des Äußeren Rands nur operieren darf, solange sie die Gebietsansprüche einhält, die bei der Unterzeichnung des Bespin-Vertrags zwischen beiden Parteien vereinbart wurden.\nIn letzter Zeit wurde die Anoat-Föderation mehrfach von Vertretern der Neuen Republik beschuldigt, mit der Imperial Ascendancy und verschiedenen Piratengruppen zusammenzuarbeiten und diese mit Schiffen und Waffen zu versorgen.\nDie Beziehungen der Anoat-Föderation zur Neuen Republik könnten sich bei fortgesetzter Expansion weiter verschlechtern.</t>
 
 			<t id="800308">Neues Wettrüsten!</t>
-			<t id="800309">In einem mutigen Schritt, der den Beginn eines neuen Wettrüstens signalisiert, haben verschiedene Fraktionen in der ganzen Galaxie mit dem Bau neuer Supersternzerstörer und Dreadnoughts begonnen. Diese Eskalation folgt auf einen jüngsten Anstieg interstellarer Spannungen, wobei sich die Rivalitäten zwischen der Neuen Republik, Ascendancy, Überresten des Galaktischen Imperiums und anderen aufstrebenden Mächten verschärfen. \n\nDas Wettrüsten hat bei neutralen Systemen und kleineren Fraktionen Besorgnis ausgelöst, da sie befürchten, sie könnten ins Kreuzfeuer der galaktischen Supermächte geraten. Diplomatische Bemühungen sind im Gange, aber die Galaxie beobachtet mit angehaltenem Atem, wie sich das Rennen um die militärische Vorherrschaft beschleunigt. Während der Bau fortschreitet, steht das Kräftegleichgewicht in der Galaxie auf dem Spiel, was in den kommenden Jahren erhebliche Auswirkungen haben könnte.</t>
+			<t id="800309">In einem mutigen Schritt, der den Beginn eines neuen Wettrüstens signalisiert, haben verschiedene Fraktionen in der ganzen Galaxie mit dem Bau neuer Supersternzerstörer und Dreadnoughts begonnen. Diese Eskalation folgt auf einen jüngsten Anstieg interstellarer Spannungen, wobei sich die Rivalitäten zwischen der Neuen Republik, Ascendancy, Überresten des Galaktischen Imperiums und anderen aufstrebenden Mächten verschärfen. \n\nDas Wettrüsten hat bei neutralen Systemen und kleineren Fraktionen Besorgnis ausgelöst, da sie befürchten, sie könnten ins Kreuzfeuer der galaktischen Supermächte geraten. Diplomatische Bemühungen sind im Gange, aber die Galaxie beobachtet mit angehaltenem Atem, wie sich das Rennen um die militärische Vorherrschaft beschleunigt. Während der Bau fortschreitet, ist das Kräftegleichgewicht in der Galaxie ungewiss, was in den kommenden Jahren erhebliche Auswirkungen haben könnte.</t>
 
 			<t id="800310">$FACTION$ startet einen gezielten Schlag gegen $TARGET$ in $SECTOR$</t>
 
@@ -3322,7 +3325,7 @@ GUIDELINE -->
 			<t id="8005881">Sith Holocron Alpha</t>
 			<t id="8005882">Sith Holocron Beta</t>
 			<t id="8005883">Sith Holocron Gamma</t>
-			<t id="8005881">Uraltes Holocron mit verbotenem Wissen.</t>
+			<t id="8005884">Uraltes Holocron mit verbotenem Wissen.</t>
 			<t id="8005885">Uraltes Sith Artefakt mit unbekanntem Zweck.</t>
 
 			<t id="800599">Dunkelschwert</t>
@@ -3589,7 +3592,7 @@ GUIDELINE -->
 			<t id="602220">SCHWIERIGKEIT: Fortgeschritten\n*Du wusstest, dass das Imperium nach dem Tod des Imperators zerbrechen würde. Du wusstest, dass die zahlreichen Admiräle und Kriegsherren um Einfluss und Macht kämpfen würden, um das Imperium noch mehr zu zerstören. Aber du hast andere Pläne für die Zukunft des Imperiums.\nNach der Schlacht von Endor hast du deiner loyalen Crew befohlen, sich zu verstecken und abzuwarten, denn jetzt, wo die Galaxis im Chaos versinkt, ist der beste Zeitpunkt, um aufzustehen und das Erste Galaktische Imperium wieder aufzubauen.\n\n</t>
 			<t id="602230">Leis Send</t>
 			<t id="602240">Outer Rim</t>
-			<t id="602250">The Pretender, TIE Defender</t>
+			<t id="602250">TIE Defender\nThe Pretender mit Kampfgeschwader</t>
 			<t id="602260">The Pretender</t>
 			<t id="602270">Du wusstest, dass das Imperium nach dem Tod des Imperators zerbrechen würde. Du wusstest, dass die zahlreichen Admiräle und Kriegsherren um Einfluss und Macht kämpfen würden, um das Imperium noch mehr zu zerstören. Aber du hast andere Pläne für die Zukunft des Imperiums.\nNach der Schlacht von Endor hast du deiner loyalen Crew befohlen, sich zu verstecken und abzuwarten, denn jetzt, wo die Galaxis im Chaos versinkt, ist der beste Zeitpunkt, um aufzustehen und das Erste Galaktische Imperium wieder aufzubauen.</t>
 
@@ -3597,7 +3600,7 @@ GUIDELINE -->
 			<t id="602320">SCHWIERIGKEIT: Fortgeschrittene\n*Die meisten Fraktionen außer der NRL sind NICHT willkommen.*\nDu und deine Flügelkameraden wurden von der Neuen Republik auf eine geheime Mission geschickt, um die Pläne der Anoaten aufzudecken, die die Imperiale Aszendanz mit Waffen und Ausrüstung versorgen. Nach dem kürzlich stattgefundenen, seltsam koordinierten Überfall auf die Piraten der Schwarzen Sonne wurde bekannt, dass Sie und Ihre Gruppe als Unterstützer der Piraten identifiziert wurden und ein Kopfgeld auf Sie ausgesetzt wurde. Alle Mitglieder Ihrer Gruppe wurden zu gefährlichen Piraten erklärt und die meisten Fraktionen werden Sie höchstwahrscheinlich sofort erschießen. Da Sie die Natur dieser geheimen Mission kennen, besteht der einzige Ausweg darin, einen Weg zurück in den NRL-Raum zu finden. Derzeit werden Sie von einer Gruppe von Piratenschiffen gejagt.\n\n</t>
 			<t id="602330">Kes Dessas</t>
 			<t id="602340">Polis Massa</t>
-			<t id="602350">Liability of Guardian, X-Wing</t>
+			<t id="602350">X-Wing T65B\nLiability of Guardian, mit Kampfgeschwader</t>
 			<t id="602360">Liability of Guardian</t>
 			<t id="602370">Du und deine Flügelkameraden wurden von der Neuen Republik auf eine geheime Mission geschickt, um die Pläne der Anoaten aufzudecken, die die Imperiale Aszendanz mit Waffen und Ausrüstung versorgen. Nach dem kürzlich stattgefundenen, seltsam koordinierten Überfall auf die Piraten der Schwarzen Sonne wurde bekannt, dass Sie und Ihre Gruppe als Unterstützer der Piraten identifiziert wurden und ein Kopfgeld auf Sie ausgesetzt wurde. Alle Mitglieder Ihrer Gruppe wurden zu gefährlichen Piraten erklärt und die meisten Fraktionen werden Sie höchstwahrscheinlich sofort erschießen. Da Sie die Natur dieser geheimen Mission kennen, besteht der einzige Ausweg darin, einen Weg zurück in den NRL-Raum zu finden. Derzeit werden Sie von einer Gruppe von Piratenschiffen gejagt.\n\n</t>
 
@@ -3605,7 +3608,7 @@ GUIDELINE -->
 			<t id="602420">SCHWIERIGKEIT: Fortgeschrittene\n*Alle hassen dich, außer CSA.*\nDu bist eines der fehlgeschlagenen Kamino-Experimente, ein Klon mit Veränderungen an deiner DNA, die sich von der normalen Charge unterscheiden und stattdessen dein Altern verlangsamen, geschaffen, um verschiedene Ansätze für den Klonprozess zu testen. Obwohl du in Tipoca City gut ausgebildet und betreut wurdest, hattest du immer das Gefühl, nur ein weiteres Rädchen im System zu sein, und wolltest mehr. Glücklicherweise gelang es dir, den Planeten während des Angriffs der CIS-Truppen auf Kamino zu verlassen. Du bist so weit wie möglich in den Outer Rim gegangen und hast angefangen, als Söldner zu arbeiten. Nach dem Ende der Klonkriege war das alles andere als einfach, denn aufgrund deines Aussehens, das dem anderer Klone ähnelte, wurdest du als treuer Anhänger des Imperiums angesehen und warst auf vielen Planeten nicht willkommen. Doch mit guten Kenntnissen in Kampftaktik und Ausbildung sowie durch gute Dienste wurdest du schließlich ein hochrangiger Söldnerkapitän in der CSA und kommandiertest einen speziell ausgerüsteten Sternenzerstörer der Venator-Klasse. Der letzte Auftrag, den Sie erhielten, bestand darin, nach Berichten über die Sichtung von ICG-Schiffen im Hinterwasserraum zu patrouillieren.\n\n</t>
 			<t id="602430">FE77-01</t>
 			<t id="602440">CSA Territorium</t>
-			<t id="602450">Forsaken mit Kampfgeschwader</t>
+			<t id="602450">Delta-7B Aethersprite\nForsaken mit Kampfgeschwader</t>
 			<t id="602460">Forsaken</t>
 			<t id="602461">Invisible Dart</t>
 			<t id="602470">Du bist eines der fehlgeschlagenen Kamino-Experimente, ein Klon mit Veränderungen an deiner DNA, die sich von der normalen Charge unterscheiden und stattdessen dein Altern verlangsamen, geschaffen, um verschiedene Ansätze für den Klonprozess zu testen. Obwohl du in Tipoca City gut ausgebildet und betreut wurdest, hattest du immer das Gefühl, nur ein weiteres Rädchen im System zu sein, und wolltest mehr. Glücklicherweise gelang es dir, den Planeten während des Angriffs der CIS-Truppen auf Kamino zu verlassen. Du bist so weit wie möglich in den Outer Rim gegangen und hast angefangen, als Söldner zu arbeiten. Nach dem Ende der Klonkriege war das alles andere als einfach, denn aufgrund deines Aussehens, das dem anderer Klone ähnelte, wurdest du als treuer Anhänger des Imperiums angesehen und warst auf vielen Planeten nicht willkommen. Doch mit guten Kenntnissen in Kampftaktik und Ausbildung sowie durch gute Dienste wurdest du schließlich ein hochrangiger Söldnerkapitän in der CSA und kommandiertest einen speziell ausgerüsteten Sternenzerstörer der Venator-Klasse. Der letzte Auftrag, den Sie erhielten, bestand darin, nach Berichten über die Sichtung von ICG-Schiffen im Hinterwasserraum zu patrouillieren.\n\n</t>
@@ -3642,7 +3645,7 @@ GUIDELINE -->
 			<t id="603020">SCHWIERIGKEIT: Moderate\n\nSie waren der zweite Befehlshaber einer Söldnertruppe, die den Hutten diente. Vor Kurzem verschwanden der Anführer Ihrer Truppe und ein ganzer Trupp Söldner auf mysteriöse Weise zusammen mit dem Hutten, der Sie angeheuert hatte, und Sie mussten die Finanzen der Truppe anderswo verwalten. Da der Anführer weg ist, gehört das, was von der Truppe übrig geblieben ist, nun Ihnen.</t>
 			<t id="603030">Gregrob Twatooi</t>
 			<t id="603040">Nar Shadda</t>
-			<t id="603050">SoroSuub Luxury Yacht 3000</t>
+			<t id="603050">SoroSuub Luxury Yacht 3000\n Drei Eskortjäger</t>
 			<t id="603060">Sie waren der zweite Befehlshaber einer Söldnertruppe, die den Hutten diente. Vor Kurzem verschwanden der Anführer Ihrer Truppe und ein ganzer Trupp Söldner auf mysteriöse Weise zusammen mit dem Hutten, der Sie angeheuert hatte, und Sie mussten die Finanzen der Truppe anderswo verwalten. Da der Anführer weg ist, gehört das, was von der Truppe übrig geblieben ist, nun Ihnen.</t>
 
 			<t id="603110">Junger Adliger</t>
@@ -3675,10 +3678,20 @@ GUIDELINE -->
 			<t id="699012">Wo ist Anakin?</t>
 
 			<!-- Economy -->
-
-			<t id="700010">Rhydonium Raffinerie</t>
-			<t id="700011">Imperiale Rhydonium Raffinerie</t>
-			<t id="700012">In dieser Anlage wird Rhydonium für die weitere Produktion veredelt und verdichtet.</t>
+			<t id="700010">UNUSED</t>
+			<t id="700011">UNUSED</t>
+			<t id="700012">UNUSED</t>
+			<t id="700013">Schrottumwandler</t>
+			<t id="700014">Der Schrottumwandler ist ein Modul welches S und M Schiffwracks in Rohschrott verarbeitet, welcher anschließend in verwendbare Resourcen weiterverabeitet werden kann. Schrottwürfel die aus größeren Schiffswracks erstellt wurden, können ebenfalls von dieser Einrichtung verarbeitet werden.</t>
+			<t id="700015">Nahrungsrationen Produktion</t>
+			<t id="700016">Nahrungsration</t>
+			<t id="700017">Diese Anlage produziert Nahrungsrationen für die Besatzung der Station.</t>
+			<t id="700018">Fleisch Produktion</t>
+			<t id="700019">Fleisch</t>
+			<t id="700020">Diese Anlage erzeugt Fleisch und verwendet dafür Wasser und Energiezellen.</t>
+			<t id="700021">Energiezellen Produktion</t>
+			<t id="700022">Energiezelle</t>
+			<t id="700023">Diese Anlage produziert Energiezellen aus Solarenergie.</t>
 
 			<!-- Wares -->
 
@@ -3739,10 +3752,14 @@ GUIDELINE -->
 			<t id="720091">Hutt Gewürz</t>
 			<t id="720092">Hutt Glückseligkeits-Palast</t>
 			<t id="720093">Hutt Gewürz Labor</t>
+			<t id="720094">Diese Anlage produziert Hutt Gewürze.</t>
 
 			<t id="720100">Geschmuggelter Alkohol</t>
 			<t id="720101">Alkohol, manchmal auch als Feuerwasser oder Schnaps bezeichnet, bezeichnet eine Reihe von Getränken, die Ethanol und Oktan enthalten und im Blutkreislauf bewusstseinsverändernde Wirkungen auf viele organische Arten haben.</t>
+
 			<t id="720102">Brauerei</t>
+			<t id="720103">Brauerei</t>
+			<t id="720104">Diese Anlage produziert Geschmuggelten Alkohol.</t>
 
 			<t id="720110">Sensorkomponenten</t>
 			<t id="720111">Die Sensoren wurden im Laufe der Jahre elegant umgestaltet, damit Schiffe und Stationen nicht Gefahr laufen, dass die zerbrechlichen Antennen durch Kollisionen beschädigt oder zerstört werden. Da es sich nun um vollständig interne Systeme handelt, werden Sensoren nicht nur in Schiffs- und Stations-Scannern und -Radaren verwendet, sondern auch in den Zielsystemen von Geschütztürmen und Droiden.</t>
@@ -3771,17 +3788,39 @@ GUIDELINE -->
 			<t id="720150">Hutt Chemikalien</t>
 			<t id="720151">Hutt Chemikalien</t>
 			<t id="720152">Hutt Chemikalien Labor</t>
+			<t id="720153">Hutt Chemikalien Labor</t>
+			<t id="720154">Diese Anlage produziert Hutt Chemikalien.</t>
 
 			<t id="720160">Imperiales Verwaltungszentrum</t>
-			<t id="720161">Imperiales Kontrollzentrum</t>
-			<t id="720170">Imperiale Brücke</t>
-			<t id="720180">Imperiale Scheibe</t>
-			<t id="720190">Imperiale Obere Verteidigung</t>
+			<t id="720161">Imperiales Verwaltungszentrum</t>
+			<t id="720162">Das imperiale Verwaltungszentrum ist das kalte, effiziente Zentrum der imperialen Regierung auf der Station, genutzt um Einfluß über einen Sektor zu erlangen.\n\nDieses Modul hat weder Waffen noch Schilde.\n\nMit diesem Modul kann ein Sektor beansprucht werden.</t>
+			<t id="720163">Imperiales Kontrollzentrum</t>
+			<t id="720164">Imp. Kontrollzentrum</t>
+			<t id="720165">Entwickelt für Kommando und Kontrolle von wertvollen Sektoren, das imperiale Kontrollzentrum ist schwer gepanzert und bewaffnet.\n\nDieses Modul hat:\n - 24x XL Turrets\n - 6x XL Shields\n - 15x S Turrets\n - 3x M Shields\n\nMit diesem Modul kann ein Sektor beansprucht werden.</t>
+
+			<t id="720170">Imperiale Verteidigungsbrücke</t>
+			<t id="720171">Imp. Verteidigungsbrücke</t>
+			<t id="720172">Die imperiale Verteidigungsbrücke ist ein kleines gerades Verteidigungsmodul.\n\nDieses Modul hat:\n - 2x XL Turrets\n - 4x S Turrets\n - 6x M Shields</t>
+
+			<t id="720180">Imperiale Verteidigungsscheibe</t>
+			<t id="720181">Imp. Verteidigungsscheibe</t>
+			<t id="720182">Die imperiale Verteidigungsscheibe ist eine kleines rundes Verteidigungsmodul.\n\nDieses Modul hat:\n - 2x XL Turrets\n - 4x S Turrets\n - 6x M Shields</t>
+
+			<t id="720190">Imperiale Handelsstationsverteidigung</t>
+			<t id="720191">Imp. Verteidigungskuppel</t>
+			<t id="720192">Die imperiale Handelsstationsverteidigung Kuppel ist eine moderat bewaffnete und gepanzerte Kuppel entwickelt um Handelsstationen zu verteidigen.\n\nDieses Modul hat:\n - 4x XL Turrets\n - 4x M Shields</t>
 
 			<t id="720200">Verwaltungszentrum</t>
 			<t id="720201">Anoat Verwaltungszentrum</t>
+			<t id="720202">Das Verwaltungszentrum ist das Zentrum einer Regierung an Bord einer Station, genutzt um Einfluss über einen Sektor zu erlangen.\n\nDieses Modul hat weder Waffen noch Schilde.\n\nMit diesem Modul kann ein Sektor beansprucht werden.</t>
+
 			<t id="720210">Brückenverteidigung</t>
+			<t id="720211">Brückenverteidigung</t>
+			<t id="720212">Das Brückenverteidigungsmodul ist ein kleines gerades Verteidigungsmodul.\n\nDieses Modul hat:\n - 2x XL Turrets\n - 4x S Turrets\n - 6x M Shields</t>
+
 			<t id="720220">Scheibenverteidigung</t>
+			<t id="720221">Scheibenverteidigung</t>
+			<t id="720222">Das Scheibenverteidigungsmodul ist eine kleines rundes Verteidigungsmodul.\n\nDieses Modul hat:\n - 2x XL Turrets\n - 4x S Turrets\n - 6x M Shields</t>
 
 			<!-- <t id="720230">Hutt Chemikalien</t>
 
@@ -3828,11 +3867,14 @@ GUIDELINE -->
 			<t id="720331">Horizontaler M Tank</t>
 			<t id="720332">Horizontaler S Tank</t>
 
+		<!-- Imperial Piers-->
 			<t id="720340">Imp. 3-Dock T Pier</t>
 			<t id="720341">Imp. Einzelpier</t>
 			<t id="720342">Imp. 3-Dock E Pier</t>
-			<t id="720343">Imp. Kreuz Pier</t>
+			<t id="720343">Imp. 4-Dock Kreuz Pier</t>
 			<t id="720344">Imp. Kontroll Pier</t>
+			<t id="720345">Imp. Kontrollzentrum Pier</t>
+			<t id="720346">Imp. 6-Dock Pier</t>
 
 			<t id="720350">Piraten Freihafen</t>
 			<t id="720351">Piraten Schrottplatz</t>
@@ -3868,6 +3910,8 @@ GUIDELINE -->
 			<t id="720420">Anoat Kontrollmodul</t>
 
 			<t id="720430">Imperiale Andockplattform</t>
+			<t id="720431">Imp. Dock \(4M10S\)</t>
+			<t id="720432">Imperiale runde Andockplattform für mittlere und kleine Schiffe.</t>
 
 			<t id="720440">Imperialer L Container</t>
 			<t id="720441">Imperialer M Container</t>
@@ -3888,6 +3932,11 @@ GUIDELINE -->
 
 			<t id="720480">Produktion von medizinischem Material</t>
 			<t id="720481">Imperiale Produktion von medizinischem Material</t>
+			<t id="720482">Diese Anlage produziert medizinisches Material.</t>
+
+			<t id="720484">Advanced Electronics Fabrik</t>
+			<t id="720485">Adv. Electronics</t>
+			<t id="720486">Diese Anlage produziert Advanced Electronics.</t>
 
 			<!-- Hapan modules -->
 
@@ -3969,28 +4018,42 @@ GUIDELINE -->
 			<t id="720641">Fiberstahl ist ein ursprünglich grünlich-schwarzes Verbundmetall mit extremer Zugfestigkeit. Je nachdem, welcher Belastung er beim Schmieden ausgesetzt wird, kann er seine Farbe drastisch ändern. Wird von den Sith im Raumschiffbau verwendet.</t>
 			<t id="720642">Fiberstahl Gießerei</t>
 			<t id="720643">Fiberstahl Produktion</t>
+			<t id="720644">Diese Anlage produziert Fiberstahl, ein zugfestes Verbundmaterial welches im Schiffsbau des Sith Imperiums genutzt wird.</t>
 
 			<t id="720650">Dunklefusions Zelle</t> <!--computronic substrate -->
 			<t id="720651">Energiezelle die extrem verdichtetes Tibanna nutzt, wird in Sith technologie benutzt.</t>
 			<t id="720652">Dunklefusions Zelle Fabrik</t>
 			<t id="720653">Dunklefusions Zelle Produktion</t>
+			<t id="720654">Diese Anlage produziert Dunklefusions Zellen, eine hochenegetische Energiezelle welche in Sith Technologien genutzt wird.</t>
 
 			<t id="720660">Obsidian Komposit</t> <!-- silicon carbide -->
 			<t id="720661">Ein Hochleistungsverbundwerkstoff, der sowohl in der Elektronik- als auch in der Legierungsproduktion eingesetzt werden kann. Das Herstellungsverfahren wird allerdings fast ausschließlich von den Sith genutzt.</t>
 			<t id="720662">Obsidian Komposit Fabrik</t>
 			<t id="720663">Obsidian Komposit Produktion</t>
+			<t id="720664">Diese Anlage produziert Obsidian Komposit, ein Hochleistungs Material welches für die Ausrüstungs und Schiffsproduktion des Sith Imperiums genutzt wird.</t>
 
 			<t id="720670">Bacta Lösung</t> <!-- protein -->
 			<t id="720671">Eine gallertartige Heilmischung, die im gesamten Universum in der Medizin sowie bei Klonprozessen verwendet wird.</t>
 			<t id="720672">Bacta Mixer</t>
 			<t id="720673">Bacta Produktion</t>
+			<t id="720674">Diese Anlage produziert Bacta Lösung in großen Mengen, welches für die umfangreiche Klonproduktion des Sith Imperiums benötigt wird.</t>
 
 			<t id="720680">Klonbehälter</t> <!-- terran mre -->
 			<t id="720681">Wird von den Sith in einem Klonprozess verwendet, um eine gehorsame Belegschaft und Besatzung für ihre Schiffe zu produzieren.</t>
 			<t id="720682">Klonbehälter Fabrik</t>
 			<t id="720683">Klonbehälter Produktion</t>
+			<t id="720684">Diese Anlage produziert Klonbehälter um die umfangreiche Klonproduktion des Sith Imperiums zu unterstützen.</t>
 
 			<t id="720692">Sith Medizinische Einrichtung</t>
+
+			<t id="720700">Sith S Habitat</t>
+			<t id="720701">Sith M Habitat</t>
+			<t id="720702">Sith L Habitat</t>
+
+			<t id="720710">Schrottumwandler</t>
+			<t id="720711">Sith Schrottumwandler</t>
+			<t id="720712">Der Schrottumwandler ist entwickelt worden um Schrott in nutzbare Resourcen umzuwandeln. Er wandelt den Schrott abwechselnd in Durastahl und Fertigteil Module.</t>
+			<t id="720713">Nachdem das Sith Imperium die Blaupausen für den Schrottumwandler "erhalten" haben haben Ingenieure ihn umgewandelt, damit er kompatibel mit den Sith Produktionsketten wird.\n\nAnstatt den Schrott in Durastahl und Fertigteil Module umzuwandeln, wandelt ihre Variante den Schrott ebenfalls abwechselnd zu Obsidian Komposit und Dunklefusions Zellen um.</t>
 
 			<!-- Mods parts  -->
 
@@ -6081,6 +6144,9 @@ GUIDELINE -->
 			<t id="19005">Zielschiff: %s(id), %s(name)</t>
 			<t id="19006">Zielsektor: %s(name)</t>
 			<t id="19007">Fraktion: %s(faction)</t>
+			<t id="19008">Ziel Fraktion: %s(faction)</t>
+			<t id="19009">%s(name), %s(name)</t>
+			<t id="19010">%s(count) x %s(name)</t>
 			<!-- achieve coverage -->
 			<t id="20000">Abdeckung erreichen</t>
 			<t id="20001">{161815, 20000}</t>
@@ -6347,6 +6413,28 @@ GUIDELINE -->
 			<t id="23506">{30136, 133}</t>
 			<t id="23510">{30004,5005}</t>
 			<t id="23550">(mission description)Satellit\(s\): %s(count)\nStandort: %s</t>
+			<!-- assassinate -->
+			<t id="23600">Töte</t>
+			<t id="23601">{161815, 23600}</t>
+			<t id="23602">(flavour text)</t>
+			<t id="23650">(mission description)Töte: %s(name), %s(ship name)</t>
+			<!-- board -->
+			<t id="23700">Entere Schiff</t>
+			<t id="23701">{161815, 23700}</t>
+			<t id="23702">(flavour text)</t>
+			<t id="23750">(mission description)Entere Schiff: %s(ship name)</t>
+			<!-- destroy objects -->
+			<t id="23800">Zerstöre</t>
+			<t id="23801">{161815, 23800}</t>
+			<t id="23802">(flavour text)</t>
+			<t id="23850">(mission description)Zerstöre: %s(count) x %s(object name)</t>
+			<t id="23851">(mission description, singular)Zerstöre: %s(object name)</t>
+			<!-- escort -->
+			<t id="23900">Eskortiere</t>
+			<t id="23901">{161815, 23900}</t>
+			<t id="23902">(flavour text)</t>
+			<t id="23950">(mission description)Eskortiere ein Schiff:\nFrom: %s(station from), %s(sector)\nTo: %s(station to), %s(sector)</t>
+			<t id="23951">(mission description, objective text)Eskoriere zu: %s(idcode), %s(name)</t>
 			<!-- deliver Commercial fleet -->
 			<t id="24000">Liefere eine Handelsflotte aus</t>
 			<t id="24001">{161815, 21300}</t>
@@ -6358,6 +6446,16 @@ GUIDELINE -->
 			<t id="24011">{30004, 5302}</t>
 			<t id="24012">{30004, 5303}</t>
 			<t id="24050">(Missionsbeschreibung)Flottenspezifikationen:\n%s(Flottenspezifikationen)</t>
+			<!-- patrol -->
+			<t id="24100">Patrouille</t>
+			<t id="24101">{161815, 24100}</t>
+			<t id="24102">(flavour text)</t>
+			<t id="24150">(mission description)Patrouilliere: %s(sector)\nStations: x %s(count)</t>
+			<!-- destroy station -->
+			<t id="24200">Zerstöre</t>
+			<t id="24201">{161815, 24200}</t>
+			<t id="24202">(flavour text)</t>
+			<t id="24250">(mission description)Zerstöre: %s(station name)</t>
 		</page>
 		<!--
 
@@ -6401,6 +6499,9 @@ GUIDELINE -->
 			<t id="114">(Einwanderungsstatus)Einwohner</t>
 			<t id="115">(Einwanderungsstatus)Bürger</t>
 			<t id="116">(Einwanderungsstatus)Miliz</t>
+			<t id="117">(terran resident)Siedler</t>
+			<t id="118">(terran citizen)Kolonist</t>
+			<t id="119">(terran militia)Basis Kommandeur</t>
 			<!-- Benachrichtigungen und Protokolle -->
 			<t id="201">Neuer Staatsbürgerschaftsstatus mit %1(Fraktion): %2(neuer sozialer Status oder neuer Einwanderungsstatus).</t>
 			<!-- ui -->
@@ -6584,6 +6685,16 @@ Die Rebellenallianz schickt eine verzweifelte Einsatztruppe, um die Schwäche de
 		</page>
 		<page id="20206" title="" descr="Texts" voice="no">
 			<t id="901">Sith</t>
+		</page>
+		<!-- Vanilla Interface Replacements-->
+		<page id="1001" title="Interface" descr="Text for interface and menus" voice="no">
+			<t id="101">\033[currency_credits_icon]</t>
+			<t id="12845">Verwalten Sie Ihren Einfluss in der Galaxis, indem Sie Agenten rekrutieren und befehligen. Setzen Sie sie ein, um Abkommen auszuhandeln, Informationen zu sammeln, Feinde und Verbündete auszuspionieren oder Spannungen zwischen Fraktionen zu schüren..</t>
+			<t id="12856">Überwachen Sie die sich entwickelnden galaktischen Angelegenheiten und entsenden Sie Agenten, um deren Ergebnisse strategisch zu beeinflussen und so das Machtgleichgewicht in der Galaxis zu verändern. Schmieden Sie neue Allianzen oder lösen Sie bestehende auf und passen Sie sich den daraus resultierenden Konsequenzen an..</t>
+		</page>
+
+		<page id="1021" title="Game Starts" descr="0" voice="no">
+			<t id="3">Credits</t>
 		</page>
 		<!-- Vanilla diplomacy replacements-->
 		<page id="10120" title="Mission Argon/Terran NPC Female 22 / Segaris diplomat" descr="Lines for Segaris Faction Diplomat" voice="yes">
