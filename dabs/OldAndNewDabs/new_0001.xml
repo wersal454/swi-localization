@@ -75,10 +75,10 @@
 			<t id="3">The Bellator-class Mark II receives a drastic increase in size, firepower, and shielding nearly allowing it to rival other dreadnaughts.\nThe Bellator-class is a warship produced by Kuat Drive Yards, which was in service to the Galactic Empire during its reign. The Bellator was a divergent design of the Mandator II-class Star Dreadnaught which KDY had previously produced for the Galactic Republic.\n\nCompared to the Mandator II-class, the Bellator-class was built on an 800 meters shorter frame, was less armored and armed - but was much faster featuring a greatly improved hyperdrive and sublight speeds.\n\n{1423090083,4}\n\n{1423090083,2}</t>
 		</page>
 		<page id="1423010013" voice="yes">
-			<t id="1">\033U [XXL]\033X Imperial Secutor-class</t>
-			<t id="2">[XXL] Imperial Secutor-class Star Destroyer</t>
-			<t id="3">The Secutor-class was 2.2 kilometers long and had two ventral hangar apertures, serving primarily as a carrier. Its length and volume would normally have put it in the battlecruiser-scale of the Anaxes War College System, specifically under Star Cruiser, and it was even given the alternate designation of Secutor-class battlecruiser because of this. But it was lightly armed for its size, and had extensive carrier-capability and was instead designated as a Star Destroyer. This carrier was one of the largest dedicated craft in the Navy.\n\n{1423090083,9}</t>
-		</page>
+            <t id="1">\033U [XXL]\033X Imperial Secutor-class</t>
+            <t id="2">[XXL] Imperial Secutor-class Star Destroyer</t>
+            <t id="3">The Imperial Secutor-class is a refitted variant of the original Secutor-class Star Destroyer, upgraded with modern Imperial systems and weaponry. While maintaining the carrier capabilities of its predecessor, this version features enhanced shield generators, improved engines, and reinforced hull plating to meet contemporary Imperial Navy standards.\n\n{1423090083,9}</t>
+        </page>
 		<page id="1423010014" voice="yes">
 			<t id="1">\033U [XXL]\033X Lusankya Star Dreadnaught</t>
 			<t id="2">[XXL] Lusankya Star Dreadnaught</t>
@@ -164,7 +164,6 @@
 			<t id="2">Harrower II-class Inquisitor Battlecruiser</t>
 			<t id="3">The Harrower II-class Inquisitor was a 2.3 kilometer-long Battlecruiser classed warship produced by Taerab Starship Manufacturing. The design was based on an early era model of the 800 meter-long Harrower class albeit upscaled for a much larger chassis.\n\nThis variant has been refitted by Sith Inquisitorial Command and features improved armor plating and enhanced engine performance.\n\n{1423090083,7}\n\n{1423090083,2}</t>
 		</page>
-		
 		<!--Engines-->
 		<!--Engines-->
 		<!--Engines-->
