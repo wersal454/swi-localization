@@ -1,0 +1,22 @@
+ID,Type,Text
+1,Old, "Bellator-class Construction"
+1,New, "Subjugator-class Construction"
+
+2,Old, "Allows construction of the Bellator-class Dreadnaught.\n\nThe Bellator-class dreadnaught was a design based on the Mandator II-class. It diverged from its predecessors by being shorter and faster.\n\nThis design was referred to in the Imperial Military as a ""fast dreadnaught.""\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by most major factions.\n\nLicensed Build Limit: 2"
+2,New, "Allows construction of the Subjugator-class Battlecruiser.\n\nThe Subjugator-class was a type of dreadnaught designed by Ruggle Schmong for use by the Confederacy of Independent Systems' naval forces from a discarded SoroSuub Corporation starship design. Potentially the largest warship that served at the time of the Clone Wars, the Subjugator-class was heavily armed with countless laser cannons of different types and a pair of mega-ion cannons.\n\nProvides blueprint for this ship's hull, engines, primary weapons, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by the ICG and most other major factions.\n\n{1423090083,5}"
+
+3,Old, "The Praetor-class Battlecruiser is an XXL warship that was produced by Kuat Drive Yards in the final years of the Galactic Republic. Examples of the class seen today have been refurbished to serve in wealthy militias and corporate security forces.\n\nLicensed Build Limit: 3"
+3,New, "In the early months of the Clone Wars, the Republic Navy was plagued by a new and terrifying threat: a Subjugator-class Battlecruiser, the Malevolence. Initially the Republic had difficulty in tracking the Malevolence as its advanced axial Ion Cannons were capable of projecting a massive blast which disabled any vessel caught in its wake, and even entire fleets of Republic Star Destroyers fell to the following barrage of missiles and laser fire. The Republic's first several encounters with the Malevolence resulted in a complete loss of Republic assets, and only a handful of survivors.\n\nHowever, with the intelligence acquired by those survivors, Republic forces under General Anakin Skywalker were able to disable the Malevolence with a large-scale bomber strike, and on-board sabotage forced the ship to crash into the Dead Moon of Antar, finally destroying it.\n\nDespite being wildly successful in its first engagements, the Separatists kept their remaining Subjugators away from the frontlines except as a last result, fearing additional losses of these resource-intensive ships; those remaining Subjugators disappeared entirely after the Clone Wars.\n\nFollowing the end of the Galactic Civil War, and the growing hostilities between the Corporate Sector Authority and Independent Commerce Guild, it has been rumored that these massive ships have once again been seen in supermassive shipyards.\n\n{1423090083,5}\n\n{1423090083,2}"
+
+4,Old, "Jakku"
+4,New, "Licensed Build Limit: 1"
+
+5,Old, "Extirpator with fighter wing, Enforcer, Kontos"
+5,New, "Licensed Build Limit: 2"
+
+6,Old, "Extirpator"
+6,New, "Licensed Build Limit: 3"
+
+7,Old, "You are a high ranking Inquisitor of the Imperial Ascendancy with a sizable fleet under your command, of which the flagship is the Extirpator - one of the few Procurator II-class Battlecruisers in the Ascendancy Navy. The Ascendancy obtained intelligence that the blueprints for the Empire's Bellator-class Star Dreadnaught were currently on a shipyard in Rakata Prime - you were tasked with the secret mission of obtaining them by any means necessary. However, the Empire somehow knew you were coming - and as you were traveling through Jakku on the final approach to Rakata Prime an Empire fleet came out of hyperspace right on your fleet's position! In the ensuing battle both fleets sustained heavy losses, but the Extirpator is barely hanging on with many primary shield generators and weapon systems destroyed. The Ascendancy has deemed the mission a failure and abandoned you to your fate. Who betrayed you? Was it all a setup? You've got to make it out alive to earn back your place, or get your revenge."
+7,New, "Licensed Build Limit: 4"
+
