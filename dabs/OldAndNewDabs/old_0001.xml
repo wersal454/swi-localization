@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+	<add sel="/language">
+		<!--
+			Ships 			-  	 142301XXXX
+			Engines 		-  	 142302XXXX
+			Turrets 		-  	 142303XXXX
+			Shields 		-  	 142304XXXX
+			Weapons 		-  	 142305XXXX
+			Modules 		-  	 142306XXXX
+			Stations 		-	 142307XXXX
+			Job Names 		-  	 142308XXXX
+			Other			- 	 142309XXXX
+			SWI Edits 		-    142310XXXX
+		-->
+		<!--Ships-->
+		<!--Ships-->
+		<!--Ships-->
+		<!--Ships-->
+		<page id="1423010001" voice="yes">
+			<t id="1">\033U [XXL]\033X Annihilator-class</t>
+			<t id="2">[XXL] Annihilator-class Star Dreadnaught</t>
+			<t id="3">The Annihilator-class Star Dreadnaught is a 7.2 kilometer XXL capital ship manufactured by Kuat Drive Yards. Designed to provide capital ship supremacy to a fleet, it features unique axial ultra heavy dual turbolasers in addition to Dreadnaught standard-issue 720-teraton quad heavy turbolaser main batteries. For its size the Annihilator is very fast thanks to it's array of 33 engines, giving it the ability to hunt down all but the fastest capital ships.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423010002" voice="yes">
+			<t id="1">\033U [XXL]\033X Titan-class</t>
+			<t id="2">[XXL] Titan-class Star Destroyer</t>
+			<t id="3">The Titan-class Star Destroyer is an XXL capital ship manufactured by Kuat Drive Yards, originally conceptualized as a merging of the Imperial and Allegiance classes onto a larger hull. The Titan is designed as an anti-capital battleship, and has minimal carrier capabilities. Its main axial batteries are 720-teraton Quad Heavy Turbolasers - most commonly seen on dreadnaughts, which are highly effective against other capital ships.\n\nLicensed Build Limit: 4</t>
+		</page>
+		<page id="1423010003" voice="yes">
+			<t id="1">\033U [XXL]\033X Eclipse-class</t>
+			<t id="2">[XXL] Eclipse-class Super Star Destroyer</t>
+			<t id="3">The Eclipse was the lead ship of the 17.5 kilometer Eclipse-class dreadnaught, the prototype of that class, and one of only two ships of the class to ever be built. Encased in a jet-black durasteel and quadranium alloyed hull, the immense ship was said to be the deadliest capital ship in the galaxy. By volume, the Eclipse was one of the largest warships ever built and the largest Star Destroyer ever, though in length it was somewhat shorter than the 19 kilometer Executor-class Star Dreadnaughts and Vengeance-class dreadnaughts.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<!--<page id="1423010004" voice="yes">
+			<t id="1">Viscount-class Star Defender</t>
+			<t id="2">The Viscount-class Star Defender was envisioned as the New Republic equivalent of an Executor-class Star Dreadnaught. Although slightly shorter in length than the Executor-class, the superior engineering skills of the Mon Calamari enabled the vessel to carry more starfighters. Furthermore, the vessel required a substantially smaller crew to operate. Its shape was also more compact than the Executor-class and it had heavier and more extensive armor.</t>
+		</page>-->
+		<page id="1423010005" voice="yes">
+			<t id="1">\033U [XXL]\033X Strident-class</t>
+			<t id="2">[XXL] Strident-class Star Defender</t>
+			<t id="3">The Strident-class Star Defender is an XXL warship used by the New Republic Defense Fleet, produced by the Corellian Engineering Corporation.\n\nLicensed Build Limit: 2</t>
+		</page>
+		<page id="1423010006" voice="yes">
+			<t id="1">Allegiance-class</t>
+			<t id="2">The Allegiance-class Star Destroyer was similar in appearance to both the Victory, Procursator and Imperial-class Star Destroyers, but was larger than all of them, reaching a length of 2,200 meters. Unlike the Victory and the Imperial, the Allegiance-class lacked ventral hangar bays. The terraced dorsal superstructure that surrounded the Allegiance's bridge tower was far smoother than those on the Imperial-class, allowing for better armor coverage and less exposure of the inter-plate surfaces.\n\nLicensed Build Limit: 6</t>
+		</page>
+		<!--<page id="1423010007" voice="yes">
+			<t id="1">Kandosii-type Dreadnaught</t>
+			<t id="2">The Kandosii-type dreadnaught, named after the Mando'a word for "indomitable", was the largest capital ship used by the Mandalorians. The Kandosii-type had a large cargo hold and could carry up to 128 starfighters for self-defense and offensive strikes.</t>
+		</page>-->
+		<page id="1423010008" voice="yes">
+			<t id="1">\033U [XXL]\033X Secutor-class</t>
+			<t id="2">[XXL] Secutor-class Star Destroyer</t>
+			<t id="3">The Secutor-class was 2.2 kilometers long and had two ventral hangar apertures, serving primarily as a carrier. Its length and volume would normally have put it in the battlecruiser-scale of the Anaxes War College System, specifically under Star Cruiser, and it was even given the alternate designation of Secutor-class battlecruiser because of this. However it was lightly armed for its size, and had extensive carrier-capability and was instead designated as a Star Destroyer. This carrier was one of the largest dedicated craft in the Navy.\n\nLicensed Build Limit: 6</t>
+		</page>
+		<page id="1423010009" voice="yes">
+			<t id="1">\033U [XXL]\033X Procurator II-class</t>
+			<t id="2">[XXL] Procurator II-class Star Battlecruiser</t>
+			<t id="3">The Procurator II-class Star Battlecruiser, was a 3.4 kilometer-long warship produced by Kuat Drive Yards in the final years before the Procurator-classes would be succeeded by the 4 kilometer-long Praetor-class Star Battlecruiser. The Procurator II-class featured refinements to armaments and hyperdrive systems made by KDY over the near 200 years that the Procurator-class was in production.\n\nLicensed Build Limit: 3</t>
+		</page>
+		<page id="1423010010" voice="yes">
+			<t id="1">Harrower II-class</t>
+			<t id="2">Harrower II-class Battlecruiser</t>
+			<t id="3">The Harrower II-class was a 2.3 kilometer-long Battlecruiser classed warship produced by Taerab Starship Manufacturing. The design was based on an early era model of the 800 meter-long Harrower class albeit upscaled for a much larger chassis.\n\nLicensed Build Limit: 6</t>
+		</page>
+		<page id="1423010011" voice="yes">
+			<t id="1">\033U [XXL]\033X Mandator II-class</t>
+			<t id="2">[XXL] Mandator II-class Star Dreadnaught</t>
+			<t id="3">The Mandator II-class Star Dreadnaught was a 8 kilometer-long XXL warship produced by Kuat Drive Yards that served in the centralized Republic Navy by 19 BBY. Having cut its ties to the Techno Union prior to the Clone Wars, Kuat Drive Yards began building starships for Republic use only. Among its new designs was the Mandator II-class, an upgrade of the prewar Mandator-class Star Dreadnaught, which had formed part of the Kuat sector's defenses in peace-time. These heavy vessels formed part of Supreme Chancellor Palpatine's newly centralized Republic Navy during the Clone Wars, along with KDY's other heavily armed, wedge-shaped warship designs.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423010012" voice="yes">
+			<t id="1">\033U [XXL]\033X Bellator-class Mark II</t>
+			<t id="2">[XXL] Bellator-class Dreadnaught Mark II</t>
+			<t id="3">The Bellator-class Mark II receives a drastic increase in size, firepower, and shielding nearly allowing it to rival other dreadnaughts.\nThe Bellator-class is a warship produced by Kuat Drive Yards, which was in service to the Galactic Empire during its reign. The Bellator was a divergent design of the Mandator II-class Star Dreadnaught which KDY had previously produced for the Galactic Republic.\n\nCompared to the Mandator II-class, the Bellator-class was built on an 800 meters shorter frame, was less armored and armed - but was much faster featuring a greatly improved hyperdrive and sublight speeds.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423010013" voice="yes">
+			<t id="1">\033U [XXL]\033X Imperial Secutor-class</t>
+			<t id="2">[XXL] Imperial Secutor-class Star Destroyer</t>
+			<t id="3">The Secutor-class was 2.2 kilometers long and had two ventral hangar apertures, serving primarily as a carrier. Its length and volume would normally have put it in the battlecruiser-scale of the Anaxes War College System, specifically under Star Cruiser, and it was even given the alternate designation of Secutor-class battlecruiser because of this. But it was lightly armed for its size, and had extensive carrier-capability and was instead designated as a Star Destroyer. This carrier was one of the largest dedicated craft in the Navy.\n\nLicensed Build Limit: 6</t>
+		</page>
+		<page id="1423010014" voice="yes">
+			<t id="1">\033U [XXL]\033X Lusankya Star Dreadnaught</t>
+			<t id="2">[XXL] Lusankya Star Dreadnaught</t>
+			<t id="3">The Lusankya, originally known as Executor II, was an Executor-class Star Dreadnaught built by Kuat Drive Yards, as the sister ship to the Executor, which was built at Fondor. As the ship had been surrendered to him, Wedge Antilles was the acting commander of the Lusankya and is now under the control of the New Republic.\n\nAs its primary purposed is planetary occupation, the Lusankya removes its long range turbolasers in order to allocate that power capacity towards expanded hangar capacity, increased point defence strength, and increased radar range.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423010015" voice="yes">
+			<t id="1">\033U [XXL]\033X Mandator III-class</t>
+			<t id="2">[XXL] Mandator III-class Star Dreadnaught</t>
+			<t id="3">The Mandator III-class was based on the Mandator-class and Mandator II-class Star Dreadnaughts. Utilizing heavily customized docking clamps this ship can carry a staggering eight Lancer Frigates simultaneously to aid it in defending against fighter craft.\n\nUnlike the Bellator-class dreadnaught, another Mandator successor design, the Mandator III-class dreadnaught was specifically designed to be a hulking weapons platform and was both longer and more heavily armed than its predecessors and its contemporary "cousin", featuring shields that rivaled that of the Executor-class. At 12,000 meters in length, it was essentially a scaled-up version of the Mandators.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423010016" voice="yes">
+			<t id="1">\033U [XXL]\033X Gravatus-class</t>
+			<t id="2">[XXL] Gravatus-class Dreadnaught</t>
+			<t id="3">Joking referred to by some as the Spicy Donut, the Gravatus-class is an aggressive modernization of the famous Lucrehulk class battleships from the Clone Wars.\n\nDeveloped by Hoersch-Kessel Drive to counter the ever increasing numbers of Republic Star Dreadnaughts, the Gravatus-class sees a massive shift is design philosophy. removing all fighter facilities minus docks,reinforcing bulkheads and other critical areas, and the complete removal of all PD systems. All to allow room for a gargantuan arsenal of anti capital heavy proton torpedoes and weaponry.\n\nLicensed Build Limit: 3</t>
+		</page>
+		<page id="1423010017" voice="yes">
+			<t id="1">Resurgent-class</t>
+			<t id="2">Resurgent-class Star Destroyer</t>
+			<t id="3">The Resurgent-class Star Destroyer, also known as the Resurgent-class Battlecruiser, was an iconic model of battlecruiser and Star Destroyer built by Kuat-Entralla Engineering. Based on the Imperial-class Star Destroyers of the Galactic Empire, it featured advanced weaponry and extreme size.\n\nLicensed Build Limit: 6</t>
+		</page>
+		<page id="1423010018" voice="yes">
+			<t id="1">Providence-class Dreadnaught</t>
+			<t id="2">Providence-class Dreadnaught</t>
+			<t id="3">A rare modification to the already formidable Providence class, the Providence Dreadnaught sees a massive uptick in armament, shielding, and hull plating, allowing to it challenge the ever increasing numbers of Republic Dreadnaughts.\n\nLicensed Build Limit: 6</t>
+		</page>
+		<page id="1423010019" voice="yes">
+			<t id="1">\033U [XXL]\033X Imperial Mandator II-class</t>
+			<t id="2">[XXL] Imperial Mandator II-class Star Dreadnaught</t>
+			<t id="3">The Mandator II-class Star Dreadnaught was a 8 kilometer-long XXL warship produced by Kuat Drive Yards that served in the centralized Republic Navy by 19 BBY. Having cut its ties to the Techno Union prior to the Clone Wars, Kuat Drive Yards began building starships for Republic use only. Among its new designs was the Mandator II-class, an upgrade of the prewar Mandator-class Star Dreadnaught, which had formed part of the Kuat sector's defenses in peace-time. These heavy vessels formed part of Supreme Chancellor Palpatine's newly centralized Republic Navy during the Clone Wars, along with KDY's other heavily armed, wedge-shaped warship designs.\n\nThis version has been overhauled by an Imperial Warlord in a traditional Imperial gray livery.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423010020" voice="yes">
+			<t id="1">\033U [XXL]\033X Mandator II-class \(MDW\)</t>
+			<t id="2">[XXL] Mandator II-class Star Dreadnaught \(Mandalorian\)</t>
+			<t id="3">The Mandator II-class Star Dreadnaught was a 8 kilometer-long XXL warship produced by Kuat Drive Yards that served in the centralized Republic Navy by 19 BBY. Having cut its ties to the Techno Union prior to the Clone Wars, Kuat Drive Yards began building starships for Republic use only. Among its new designs was the Mandator II-class, an upgrade of the prewar Mandator-class Star Dreadnaught, which had formed part of the Kuat sector's defenses in peace-time. These heavy vessels formed part of Supreme Chancellor Palpatine's newly centralized Republic Navy during the Clone Wars, along with KDY's other heavily armed, wedge-shaped warship designs.\n\nThis version has been captured by the Mandalorians, seeing the Republic livery stripped, replaced with Mandalorian colors.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423010021" voice="yes">
+			<t id="1">\033U [XXL]\033X Mandator II-class \(CE\)</t>
+			<t id="2">[XXL] Mandator II-class Star Dreadnaught \(Clone Era\)</t>
+			<t id="3">The Mandator II-class Star Dreadnaught was a 8 kilometer-long XXL warship produced by Kuat Drive Yards that served in the centralized Republic Navy by 19 BBY. Having cut its ties to the Techno Union prior to the Clone Wars, Kuat Drive Yards began building starships for Republic use only. Among its new designs was the Mandator II-class, an upgrade of the prewar Mandator-class Star Dreadnaught, which had formed part of the Kuat sector's defenses in peace-time. These heavy vessels formed part of Supreme Chancellor Palpatine's newly centralized Republic Navy during the Clone Wars, along with KDY's other heavily armed, wedge-shaped warship designs.\n\nThis version was commissioned for the fabled 501st Legion, but never saw battle before the Clone Wars ended. It has remained in dry dock on Kamino since the end of the war.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423010022" voice="yes">
+			<t id="1">\033U [XXL]\033X Bellator-class Mark IIA</t>
+			<t id="2">[XXL] Bellator-class Dreadnaught Mark IIA</t>
+			<t id="3">The Bellator-class Mark IIA receives a drastic increase in size, firepower, and shielding nearly allowing it to rival other dreadnaughts. Compared to the Mark II, the Mark IIA was designed for a warlord who desired an ancient Imperial gray aesthetic.\n\nThe Bellator-class Star Dreadnaught was a 7.2 kilometer-long XXL warship produced by Kuat Drive Yards, which was in service to the Galactic Empire during its reign. The Bellator was a divergent design of the Mandator II-class Star Dreadnaught which KDY had previously produced for the Galactic Republic. Compared to the Mandator II-class, the Bellator-class was built on an 800 meters shorter frame, was less armored and armed - but was much faster featuring a greatly improved hyperdrive and sublight speeds.\n\nThis version is has seen use by the Imperial Intelligence Agency, seeing the stark white hull and turrets replaced with a dark grey color.</t>
+		</page>
+		<page id="1423010023" voice="yes">
+			<t id="1">\033U [XXL]\033X Compellor-class</t>
+			<t id="2">[XXL] Compellor-class Star Battlecruiser</t>
+			<t id="3">The Compellor-class battlecruiser is an XXL warship produced by Kuat Drive Yards. Developed as part of the Pellor Project, the Compellor-class was designed as successor to the successful Titan-class Star Destroyer.\n\nThe Compellor-class sacrifices many of its hangar bays compared to its sister ship, the Impellor-class, in order to focus on raw firepower.</t>
+		</page>
+		<page id="1423010024" voice="yes">
+			<t id="1">\033U [XXL]\033X Impellor-class</t>
+			<t id="2">[XXL] Impellor-class Star Battlecruiser</t>
+			<t id="3">The Impellor-class battlecruiser is an XXL carrier produced by Kuat Drive Yards. Developed as part of the Pellor Project, the Impellor-class was designed to combine firepower of two ISD II with the fighter complement of two ISD I in just one ship.\n\nLicensed Build Limit: 2</t>
+		</page>
+		<page id="1423010025" voice="yes">
+			<t id="1">\033U [XXL]\033X Praetor Mark II-class</t>
+			<t id="2">[XXL] Praetor Mark II-class Battlecruiser</t>
+			<t id="3">The Praetor Mark II-class Battlecruiser is a 4.8 kilometer-long XXL warship produced by Kuat Drive Yards produced for the Imperial Navy in 19 BBY. The Praetor Mark II was designed as a follow-up to the smaller Republic-era Praetor-class Star Battlecruiser.\n\nOnly a few ships of this class were built, as Imperial doctrine favored both the larger dreadnaught classed designs and smaller Imperial Star Destroyers. In the end most of the Praetor Mark II-class ships produced would go on to spend their service life in drydock assigned to guarding Imperial Core Worlds.\n\nLicensed Build Limit: 3</t>
+		</page>
+		<page id="1423010026" voice="yes">
+			<t id="1">\033U [XXL]\033X Sundari-class</t>
+			<t id="2">[XXL] Sundari-class Dreadnaught</t>
+			<t id="3">The Sundari-class Dreadnaught is an ancient ship born in the Mandalorian Wars of 3976 BBY. Thought to have been lost to history until a recent Mandalorian exploration party found a mostly intact Sundari-class buried in the swamps of Taris for nearly 4000 years.\n\nThe most famous such example was the Akaan Galaar, meaning "War Hawk" in Mando'a, which decimated Old Republic forces in the Battle of Serroco in 3963 BBY.\n\nThis dagger-shaped dreadnaught is argued to be the first example of such a design that would continue to be popular for thousands of years, inspiring the Venator-class and Imperial-class Star Destroyers.\n\nSeveral millennia after the Mandalorian Wars, the Galactic Republic would go on to revive this design and bring it into production as the Veragitor-class Star Destroyer for deployment into the Clone Wars.\n\nThe Sundari-class would later lend its name to Sundari, the last capital city of Mandalore.\n\nLicensed Build Limit: 2</t>
+		</page>
+		<page id="1423010027" voice="yes">
+			<t id="1">\033U [XXL]\033X "Guardian" Executor-class Star Dreadnaught</t>
+			<t id="2">[XXL] "Guardian" Executor-class Star Dreadnaught</t>
+			<t id="3">Originally under the command of Admiral Gaen Drommel of the Galactic Empire, The Guardian is an Executor-class Star Dreadnaught that was stationed near Coruscant when news of the Battle of Endor arrived.\n\nAfter a series of attacks on New Republic worlds and bases, the tide turned for Drommel, and the Guardian was badly damaged at the Battle of Tantive V in 4 ABY. Drommel fled into hyperspace, but due to the damage sustained on the vessel's hyperdrive, the Guardian emerged in the Fardon system rather than its intended destination. Its hyperdrive inoperable, it went into orbit around the planet Soullex, where it would stay for over a decade as Drommel conducted repairs.\n\nAround 16 ABY the New Republic found and surrounded Admiral Drommel who refused to surrender, but his officer Colonel Niovi shot him and took command of the vessel, surrendering it to the New Republic. </t>
+		</page>
+		<page id="1423010028" voice="yes">
+			<t id="1">\033U [XXL]\033X Veragitor-class</t>
+			<t id="2">[XXL] Veragitor-class Battlecruiser</t>
+			<t id="3">The Veragitor-class Battlecruiser, also known as a Republic Battlecruiser, is a Clone Wars era re-imagining of the ancient Sundari-class Dreadnaught. When pressed for an answer to larger Separatist dreadnaughts' success against their Venator-class Star Destroyers, Grand Army of the Republic designers looked back through history and found records detailing the Sundari-class of the Mandalorian Wars.\n\nThe Veragitor-class did not manage to enter production until 20 BBY and only saw minimal combat in the year before the Clone Wars ended. Many examples have spent their entire life cycle in orbital mothball.\n\nWorried by signs of aggression from the Independent Commerce Guild, Kaminoan planetary defense forces looked to their vast boneyard; the Veragitor-class was once more found to be the answer to the Venator-class's shortcomings.\n\nLicensed Build Limit: 2</t>
+		</page>
+		<!--Engines-->
+		<!--Engines-->
+		<!--Engines-->
+		<!--Engines-->
+		<page id="1423020001" voice="no">
+			<t id="1">KDY Annihilator Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020002" voice="no">
+			<t id="1">KDY Titan Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020003" voice="no">
+			<t id="1">KDY Eclipse Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020004" voice="no">
+			<t id="1">MonCal Viscount Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020005" voice="no">
+			<t id="1">CEC Strident Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020006" voice="no">
+			<t id="1">KDY Allegiance Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020007" voice="no">
+			<t id="1">MandalMotors Kandosii Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020008" voice="no">
+			<t id="1">KDY Secutor Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020009" voice="no">
+			<t id="1">KDY Procurator II Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020010" voice="no">
+			<t id="1">TSM Harrower II Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020011" voice="no">
+			<t id="1">KDY Mandator II Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020012" voice="no">
+			<t id="1">KDY Bellator Mark II Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020015" voice="no">
+			<t id="1">KDY Mandator III Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020016" voice="no">
+			<t id="1">KDY Bellator Mark IIA Engine Array</t>
+			<t id="2">No Data</t>
+		</page>
+		<page id="1423020017" voice="no">
+			<t id="1">KDY Destroyer Ion Engine</t>
+			<t id="2">These engines required a subsidiary reactor, reactant silos and isotope containment wells at the stern. There, extra power would be derived while the coolant silo and pumps would help lower the temperature of the massive engines. Around the large, circular engines were the main engine thrust nozzles, while the smaller engines would utilize secondary thrust nozzles to help bring greater control over the ship. The main engines were attached to magnetic turbines, along with an acceleration compensator.</t>
+		</page>
+		<page id="1423020018" voice="no">
+			<t id="1">Pellor Engine Array</t>
+			<t id="2">Pellor Engine</t>
+			<t id="3">Engine designed specifically for installation on the Impellor-class and Compellor-class Star Battlecruisers.</t>
+			<t id="4">Pellor Engine Array Mark II</t>
+		</page>
+		<page id="1423020019" voice="no">
+			<t id="1">Sundari Engine Array</t>
+			<t id="2">Engine designed specifically for installation on the Mandalorian Sundari-class Dreadnaught.</t>
+		</page>
+		<page id="1423020020" voice="no">
+			<t id="1">Praetor Mark II Engine Array</t>
+			<t id="2">Engine designed specifically for installation on the Praetor Mark II-class Battlecruiser.</t>
+		</page>
+		<page id="1423020021" voice="no">
+			<t id="1">Veragitor Engine Array</t>
+			<t id="2">Engine designed specifically for installation on the Veragitor-class Battlecruiser.</t>
+		</page>
+		<!--Turrets-->
+		<!--Turrets-->
+		<!--Turrets-->
+		<!--Turrets-->
+		<page id="1423030001" voice="no">
+			<t id="1">\033#99FF0000#ANHL-240 Ultra Heavy Dual Turbolaser\033X</t>
+			<t id="2">\033#99FF0000#ANHL-240\033X</t>
+			<t id="3">The ANHL-240 is an ultra heavy dual turbolaser turret designed specifically for installation on the Annihilator-class Star Dreadnaught.</t>
+		</page>
+		<page id="1423030002" voice="no">
+			<t id="1">\033#95e03b29#XX-9 Heavy Dual Turbolaser\033X</t>
+			<t id="2">\033#95e03b29#XX-9 Heavy Dual\033X</t>
+			<t id="3">The XX-9 heavy turbolaser is a heavy shipboard emplacement weapon produced by the Taim and Bak Corporation. This is the dual-barrel configuration of the larger version commonly seen on various capital ships.</t>
+		</page>
+		<page id="1423030003" voice="no">
+			<t id="1">\033#95e03b29#XX-9-E Heavy Dual Turbolaser\033X</t>
+			<t id="2">\033#95e03b29#XX-9-E Heavy Dual\033X</t>
+			<t id="3">The XX-9-E heavy turbolaser is a heavy shipboard emplacement weapon produced by the Taim and Bak Corporation. This is a variant of the larger dual-barrel configuration specifically designed for installation on the Eclipse-class Super Star Destroyer.</t>
+		</page>
+		<page id="1423030004" voice="no">
+			<t id="1">Cluster Concussion Missile Launcher</t>
+			<t id="2">Cluster Missile Launcher</t>
+			<t id="3">The cluster concussion missile launcher is designed for use on large capital ships.</t>
+		</page>
+		<page id="1423030005" voice="no">
+			<t id="1">\033#99FF0000#PXL-4-72 Heavy Quad Turbolaser\033X</t>
+			<!--Green-->
+			<t id="2">\033#99FF0000#PXL-4-72 Heavy Quad\033X</t>
+			<t id="3">The PXL-4-72 is a 720-teraton quad-barreled heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on Dreadnaughts as their primary anti-capital batteries.</t>
+		</page>
+		<page id="1423030006" voice="no">
+			<t id="1">\033#99FF0000#KK-66 Heavy Quad Turbolaser\033X</t>
+			<!--Red-->
+			<t id="2">\033#99FF0000#KK-66 Heavy Quad\033X</t>
+			<t id="3">The KK-66 is a 720-teraton quad-barreled heavy turbolaser turret manufactured by BlasTech Industries. Designed for installation on Dreadnaughts as their primary anti-capital batteries.</t>
+		</page>
+		<page id="1423030007" voice="no">
+			<t id="1">\033#95e03b29#SX-4-17 Heavy Ball Quad Turbolaser\033X</t>
+			<t id="2">\033#95e03b29#SX-4-17 Heavy Ball Quad\033X</t>
+			<t id="3">The SX-4-17 is a 175-teraton spherical quad-barreled heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on various capital ships.</t>
+		</page>
+		<page id="1423030008" voice="no">
+			<t id="1">\033#95e03b29#SX-4-24 Heavy Ball Quad Turbolaser\033X</t>
+			<t id="2">\033#95e03b29#SX-4-24 Heavy Ball Quad\033X</t>
+			<t id="3">The SX-4-24 is a 240-teraton spherical quad-barreled heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on various capital ships.</t>
+		</page>
+		<page id="1423030009" voice="no">
+			<t id="1">\033#99FF0000#PXL-4-72-E Heavy Quad Turbolaser\033X</t>
+			<t id="2">\033#99FF0000#PXL-4-72-E Heavy Quad\033X</t>
+			<t id="3">The PXL-4-72-E is a 720-teraton quad-barreled heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on the Eclipse-class Super Star Destroyer.</t>
+		</page>
+		<page id="1423030010" voice="no">
+			<t id="1">\033#993d7bff#SI-3-17 Heavy Triple Ion Cannon\033X</t>
+			<t id="2">\033#993d7bff#SI-3-17 Heavy Ion\033X</t>
+			<t id="3">The SI-3-17 is a 175-teraton equivalent spherical triple heavy ion cannon turret manufactured by Kuat Drive Yards. Designed for installation on various capital ships.</t>
+		</page>
+		<page id="1423030011" voice="no">
+			<t id="1">\033#99FF0000#SX-1-72 Heavy Turbolaser\033X</t>
+			<t id="2">\033#99FF0000#SX-1-72 Heavy Turbolaser\033X</t>
+			<t id="3">The SX-1-72 is a 720-teraton spherical heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on the Allegiance-class Battlecruiser as its primary anti-capital batteries.</t>
+		</page>
+		<page id="1423030012" voice="no">
+			<t id="1">\033#95e03b29#PXL-4-17 Heavy Quad Turbolaser\033X</t>
+			<t id="2">\033#95e03b29#PXL-4-17 Heavy Quad\033X</t>
+			<t id="3">The PXL-4-17 is a 175-teraton quad heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on various capital ships.</t>
+		</page>
+		<page id="1423030013" voice="no">
+			<t id="1">\033#95e03b29#PXL-4-24 Heavy Quad Turbolaser\033X</t>
+			<t id="2">\033#95e03b29#PXL-4-24 Heavy Quad\033X</t>
+			<t id="3">The PXL-4-24 is a 240-teraton quad heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on various capital ships.</t>
+		</page>
+		<page id="1423030014" voice="no">
+			<t id="1">\033#99FF0000#W-114T Heavy Quad Turbolaser\033X</t>
+			<!--Orange-->
+			<t id="2">\033#99FF0000#W-114T Heavy Quad\033X</t>
+			<t id="3">The W-114T is a 720-teraton quad-barreled heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on Dreadnaughts as their primary anti-capital batteries. Has a lower damage output than other 720TT Heavy Quad Turbolasers but has the longest maximum range.</t>
+		</page>
+		<page id="1423030015" voice="no">
+			<t id="1">\033#95e03b29#Heavy Quad FLAK Turret\033X</t>
+			<t id="2">\033#95e03b29#Heavy FLAK\033X</t>
+			<t id="3">Heavy Quad FLAK turret designed for installation on various capital ships. Used as area anti-starfighter defense.</t>
+		</page>
+		<page id="1423030016" voice="no">
+			<t id="1">\033#99FF0000#PXL-2-72 Heavy Dual Turbolaser\033X</t>
+			<t id="2">\033#99FF0000#PXL-2-72 Heavy Dual\033X</t>
+			<t id="3">The PXL-2-72 is a 720-teraton dual-barreled heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on Dreadnaughts as their primary anti-capital batteries. Boasts superior range but less damage than 720TT Heavy Quad Turbolasers.</t>
+		</page>
+		<page id="1423030017" voice="no">
+			<t id="1">\033#99FF0000#DBY-927 Heavy Quad Turbolaser\033X</t>
+			<!--Blue-->
+			<t id="2">\033#99FF0000#DBY-927 Heavy Quad\033X</t>
+			<t id="3">The DBY-927 is a 720-teraton quad-barreled heavy turbolaser turret manufactured by Taim and Bak Corporation. Designed for installation on Dreadnaughts as their primary anti-capital batteries.</t>
+		</page>
+		<page id="1423030018" voice="no">
+			<t id="1">\033#95e03b29#SX-4-24 Heavy Grey Ball Quad Turbolaser\033X</t>
+			<t id="2">\033#95e03b29#SX-4-24 Heavy Grey Ball Quad\033X</t>
+			<t id="3">The SX-4-24 is a 240-teraton spherical quad-barreled heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on various capital ships.</t>
+		</page>
+		<page id="1423030019" voice="no">
+			<t id="1">\033#993d7bff#SI-3-17 Heavy Grey Triple Ion Cannon\033X</t>
+			<t id="2">\033#993d7bff#SI-3-17 Heavy Grey Ion\033X</t>
+			<t id="3">The SI-3-17 is a 175-teraton equivalent spherical triple heavy ion cannon turret manufactured by Kuat Drive Yards. Designed for installation on various capital ships.</t>
+		</page>
+		<page id="1423030020" voice="no">
+			<t id="1">\033#95e03b29#SX-4-17 Heavy Grey Ball Quad Turbolaser\033X</t>
+			<t id="2">\033#95e03b29#SX-4-17 Heavy Grey Ball Quad\033X</t>
+			<t id="3">The SX-4-17 is a 175-teraton spherical quad heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on various capital ships.</t>
+		</page>
+		<page id="1423030021" voice="no">
+			<t id="1">\033#99FF0000#PXL-2-72 Heavy Grey Dual Turbolaser\033X</t>
+			<t id="2">\033#99FF0000#PXL-2-72 Heavy Grey Dual\033X</t>
+			<t id="3">The PXL-2-72 is a 720-teraton dual-barreled heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on Dreadnaughts as their primary anti-capital batteries. Boasts superior range but less damage than 720TT Heavy Quad Turbolasers.</t>
+		</page>
+		<page id="1423030022" voice="no">
+			<t id="1">\033#993d7bff#V-200m Heavy Ion Cannon\033X</t>
+			<t id="2">\033#993d7bff#V-200m Heavy Ion\033X</t>
+			<t id="3">An upscaled variant of the V-200 manufactured exclusively for the Mandator III. Its damage output is higher but its maximum range is the same as the V-100. </t>
+		</page>
+		<page id="1423030023" voice="no">
+			<t id="1">\033#95e03b29#OP-1m Turbolaser\033X</t>
+			<t id="2">\033#95e03b29#OP-1m Turbolaser\033X</t>
+			<t id="3">A long range Heavy Turbolaser tuned for the needs of the Mandator III Star Dreadnaught</t>
+		</page>
+		<page id="1423030024" voice="no">
+			<t id="1">\033#99FF0000#MoH-94 Heavy Quad Turbolaser\033X</t>
+			<!--Orange, but Mandalorian exclusive-->
+			<t id="2">\033#99FF0000#MoH-94 Heavy Quad\033X</t>
+			<t id="3">The MoH-94 is a 720-teraton quad-barreled heavy turbolaser turret designed by a long forgotten Mandalorian shipwright and modernized by MandalMotors.\n\nDesigned for installation on Sundari-class Dreadnaughts.</t>
+		</page>
+		<page id="1423030025" voice="no">
+			<t id="1">\033#99FF0000#MoH-96 Heavy Ball Quad Turbolaser\033X</t>
+			<t id="2">\033#99FF0000#MoH-96 Heavy Ball Quad\033X</t>
+			<t id="3">The MoH-96 is a 720-teraton spherical quad-barreled heavy turbolaser turret designed by a long forgotten Mandalorian shipwright and modernized by MandalMotors.\n\nDesigned for installation on Sundari-class Dreadnaughts.</t>
+		</page>
+		<page id="1423030026" voice="no">
+			<t id="1">\033#99FF0000#SX-4-96 Heavy Ball Quad Turbolaser\033X</t>
+			<t id="2">\033#99FF0000#SX-4-96 Heavy Ball Quad\033X</t>
+			<t id="3">The SX-4-96 is a 720-teraton spherical quad-barreled heavy turbolaser turret designed by a long forgotten Mandalorian shipwright and modernized by Grand Army of the Republic engineers.\n\nDesigned for installation on Veragitor-class Battlecruiser.</t>
+		</page>
+		<page id="1423030027" voice="no">
+			<t id="1">\033#95e03b29#GA-RF-16 Burst Fire Single Turbolaser\033X</t>
+			<t id="2">The Golan Arms Rapid Fire Model #16 is a 3 round burst single-barrel turbolaser mounted in a ball turret for maximum firing angle coverage.</t>
+		</page>
+		<page id="1423030028" voice="no">
+			<t id="1">\033#99FF0000#GA-DS-128 Heavy Quad Turbolaser\033X</t>
+			<t id="2">The Golan Arms Defense Station Model #128 is a heavy quad-barrel turbolaser mounted in an heavily armored turret.</t>
+		</page>
+		<page id="1423030029" voice="no">
+			<t id="1">\033#99FF0000#GA-DS-200 Ultra Heavy Dual Turbolaser\033X</t>
+			<t id="2">The Golan Arms Defense Station Model #200 is an ultra-heavy dual-barrel turbolaser designed to combat even the largest of dreadnaughts.</t>
+		</page>
+		<page id="1423030030" voice="no">
+			<t id="1">\033#95e03b29#PXL-2-24 Heavy Quad Turbolaser\033X</t>
+			<t id="2">\033#95e03b29#PXL-2-24 Heavy Quad\033X</t>
+			<t id="3">The PXL-2-24 is a 240-teraton dual heavy turbolaser turret manufactured by Kuat Drive Yards. Designed for installation on various capital ships.</t>
+		</page>
+		<!--Shields-->
+		<!--Shields-->
+		<!--Shields-->
+		<!--Shields-->
+		<page id="1423040001" voice="no">
+			<t id="1">XXL Annihilator Shield Dome</t>
+			<t id="2">XXL Annihilator Shield</t>
+			<t id="3">Shield Dome designed specifically for installation on the Annihilator-class Star Dreadnaught.</t>
+		</page>
+		<page id="1423040002" voice="no">
+			<t id="1">XXL Titan Shield Dome</t>
+			<t id="2">XXL Titan Shield</t>
+			<t id="3">Shield Dome designed specifically for installation on the Titan-class Star Destroyer.</t>
+		</page>
+		<page id="1423040003" voice="no">
+			<t id="1">XXL Eclipse Shield Generator</t>
+			<t id="2">XXL Eclipse Shield</t>
+			<t id="3">Internal shield generator designed specifically for installation inside the Eclipse-class Super Star Destroyer.</t>
+		</page>
+		<!--<page id="1423040004" voice="no">
+			<t id="1">XXL Viscount Shield Generator</t>
+			<t id="2">XXL Viscount Shield</t>
+			<t id="3">Internal shield generator designed specifically for installation inside the Viscount-class Star Defender.</t>
+		</page>-->
+		<page id="1423040005" voice="no">
+			<t id="1">XXL Strident Shield Generator</t>
+			<t id="2">XXL Strident Shield</t>
+			<t id="3">Internal shield generator designed specifically for installation inside the Strident-class Star Defender.</t>
+		</page>
+		<page id="1423040006" voice="no">
+			<t id="1">XXL Allegiance Shield Dome</t>
+			<t id="2">XXL Allegiance Shield</t>
+			<t id="3">Shield Dome designed specifically for installation on the Allegiance-class Star Destroyer.</t>
+		</page>
+		<page id="1423040007" voice="no">
+			<t id="1">XXL Procurator II Shield Dome</t>
+			<t id="2">XXL Procurator II Shield</t>
+			<t id="3">Shield Dome designed specifically for installation on the Procurator II-class Star Battlecruiser.</t>
+		</page>
+		<page id="1423040008" voice="no">
+			<t id="1">XL Harrower II Shield Generator</t>
+			<t id="2">XL Harrower II Shield</t>
+			<t id="3">Internal shield generator designed specifically for installation inside the Harrower II-class Battlecruiser.</t>
+		</page>
+		<page id="1423040009" voice="no">
+			<t id="1">XXL Mandator II Shield Generator</t>
+			<t id="2">XXL Mandator II Shield</t>
+			<t id="3">Shield generator designed specifically for installation on the Mandator II-class Star Dreadnaught.</t>
+		</page>
+		<page id="1423040010" voice="no">
+			<t id="1">XXL Bellator Mark II Shield Generator</t>
+			<t id="2">XXL Bellator Mark II Shield</t>
+			<t id="3">Shield generator designed specifically for installation on the Bellator-class Star Dreadnaught Mark II.</t>
+		</page>
+		<page id="1423040011" voice="no">
+			<t id="1">XXL Secutor Shield Dome</t>
+			<t id="2">XXL Secutor Shield</t>
+			<t id="3">Shield Dome designed specifically for installation on the Secutor-class Star Destroyer.</t>
+		</page>
+		<page id="1423040012" voice="no">
+			<t id="1">XXL Mandator III Shield Generator</t>
+			<t id="2">XXL Mandator III Shield</t>
+			<t id="3">Shield generator designed specifically for installation on the Mandator II-class Star Dreadnaught.</t>
+		</page>
+		<page id="1423040013" voice="no">
+			<t id="1">XXL Bellator Mark IIA Shield Generator</t>
+			<t id="2">XXL Bellator Mark IIA Shield</t>
+			<t id="3">Shield generator designed specifically for installation on the Bellator-class Star Dreadnaught Mark IIA.</t>
+		</page>
+		<page id="1423040014" voice="no">
+			<t id="1">XXL Compellor Shield Generator</t>
+			<t id="2">XXL Compellor Shield</t>
+			<t id="3">Shield generator designed specifically for installation on the Compellor-class Star Battlecruiser.</t>
+		</page>
+		<page id="1423040015" voice="no">
+			<t id="1">XXL Impellor Shield Generator</t>
+			<t id="2">XXL Impellor Shield</t>
+			<t id="3">Shield generator designed specifically for installation on the Impellor-class Star Battlecruiser.</t>
+		</page>
+		<page id="1423040016" voice="no">
+			<t id="1">Golan IV XL Shield Generator</t>
+			<t id="2">Primary Golan IV Shield Generators - these generators protect the L turrets and Siege Turrets.</t>
+		</page>
+		<page id="1423040017" voice="no">
+			<t id="1">Golan IV L Shield Generator</t>
+			<t id="2">Secondary Golan IV Shield Generators - these generators protect the XL turrets.</t>
+		</page>
+		<!--Weapons-->
+		<!--Weapons-->
+		<!--Weapons-->
+		<!--Weapons-->
+		<page id="1423050001" voice="no">
+			<t id="1">\033#99FF0000#Eclipse Superlaser\033X</t>
+			<t id="2">\033#99FF0000#Eclipse Superlaser\033X</t>
+			<t id="3">The most important development in the design of the Eclipse was its main weapon, a concealed superlaser running along the spine of the ship. Based on the technology of the Death Star, the Eclipse's single superlaser could fire at two-thirds the power of one of the Death Star's superlaser components.</t>
+		</page>
+		<page id="1423050002" voice="no">
+			<t id="1">\033#99FF0000#Eclipse Superlaser - Edge Components\033X</t>
+			<t id="2">\033#99FF0000#Eclipse Superlaser Components\033X</t>
+			<t id="3">The component beams of the Eclipse's Superlaser located along the edges of the ship.</t>
+		</page>
+		<page id="1423050003" voice="no">
+			<t id="1">\033#99FF0000#Eclipse Superlaser - Top Components\033X</t>
+			<t id="2">\033#99FF0000#Eclipse Superlaser Components\033X</t>
+			<t id="3">The component beams of the Eclipse's Superlaser located along the top middle of the ship.</t>
+		</page>
+		<page id="1423050004" voice="no">
+			<t id="1">AC10c Concussion Missile</t>
+			<t id="2">AC10c Concussion Missile</t>
+			<t id="3">The AC10c is a concussion missile launched in clusters of 10. Best used against other capital ships. Inflicts high damage, but has low shield penetration.</t>
+		</page>
+		<page id="1423050005" voice="no">
+			<t id="1">Golan IV XL Heavy Proton Launcher</t>
+			<t id="2">An XL Long Range Anti-Dreadnaught Proton Launcher.</t>
+		</page>
+		<page id="1423050006" voice="no">
+			<t id="1">Golan IV XL Heavy Proton Torpedo</t>
+			<t id="2">An XL Long Range Anti-Dreadnaught Proton Torpedo.\n\nSupports production via Universal, Sith, or Closed Loop build methods.</t>
+		</page>
+		<!--Modules-->
+		<!--Modules-->
+		<!--Modules-->
+		<!--Modules-->
+		<page id="1423060001" voice="no">
+			<t id="1">XXL Ship Fabrication Bay</t>
+			<t id="2">XXL Ship Fab</t>
+		</page>
+		<page id="1423060002" voice="no">
+			<t id="1">Imp. XXL Harbor 2</t>
+		</page>
+		<page id="1423060003" voice="no">
+			<t id="1">Port Hangar Bay</t>
+			<t id="2">Starboard Hangar Bay</t>
+			<t id="3">Bow Hangar Bay</t>
+			<t id="4">Stern Hangar Bay</t>
+			<t id="5">Hangar Bay</t>
+		</page>
+		<page id="1423060004" voice="no">
+			<t id="1">S Landing Pad</t>
+			<t id="2">M Landing Pad</t>
+		</page>
+		<page id="1423060005" voice="no">
+			<t id="1">Golan IV 2-Dock XXL Pier</t>
+			<t id="2">Golan 2-Dock XXL Pier</t>
+			<t id="3">This is a dual L/XL/XXL hammerhead shaped pier.</t>
+		</page>
+		<page id="1423060006" voice="yes">
+			<t id="1">Golan IV-class Battle Station</t>
+			<t id="2">Golan IV \(8M 32S\)</t>
+			<t id="3">The Golan IV-class Battle Station is an anti-dreadnaught defence platform manufactured by Golan Arms with hangar space for 32 Small and 8 Medium craft.\n\nBuilt as a more powerful successor to the Golan III, the Golan IV was larger and better armed; nearly that double a Golan III in every metric.\n\nA Golan IV with all of its modules can act as every kind of Equipment Dock as well as and an Admin module for the purposes of the Maintenance system.</t>
+		</page>
+		<page id="1423060007" voice="no">
+			<t id="1">Golan IV Medium Hangar</t>
+			<t id="2">Golan IV docking location for 4 M class ships.</t>
+		</page>
+		<page id="1423060008" voice="no">
+			<t id="1">Golan IV Storage</t>
+			<t id="2">This facility provides a Golan IV Defence Platform with 3 million cubic meters of storage for the base operations, as well as a fleets resupply requirements.</t>
+		</page>
+		<page id="1423060009" voice="no">
+			<t id="1">Golan IV L Habitation Module</t>
+			<t id="2">Golan IV L Hab</t>
+			<t id="3">This facility provides a Golan IV Defence Platform with the required living space to hold 750 crew, for base operations, as well as ship crew resupply.</t>
+			<t id="4"> - Left</t>
+			<t id="5"> - Right</t>
+		</page>
+		<page id="1423060010" voice="no">
+			<t id="1">Golan IV Small Hangar</t>
+			<t id="2">Golan IV docking location for 16 S class ships.</t>
+		</page>
+		<page id="1423060011" voice="no">
+			<t id="1">Golan IV Equipment Dock</t>
+			<t id="2">This facility provides a Golan IV Defence Platform with upgrade and resupply services for any class ships it has available docking bays for; S, M, L, XL, or XXL depending on what installed on the station.\n\nThis module counts as all 3 types of equipment docks for the purposes of Maintenance when on a Golan IV with a Golan 2-Dock XXL Pier installed.\n\nThis module has no docking capabilities on its own.\n\nThis module can service five ships at a time.\n\nExtremely advanced miniaturization techniques make this module incredibly potent and incredibly expensive.</t>
+		</page>
+		<page id="1423060012" voice="no">
+			<t id="1">Golan III Defence Platform</t>
+			<t id="2">Golan III Platform</t>
+			<t id="3">The Golan III is a defence platform manufactured by Golan Arms.\n\nBuilt as a more powerful successor to the Golan II, the Golan III was larger and better armed.\n\nGolan III platforms were assigned to the most valuable locations in the galaxy. One notable use of Golan III platforms was their deployment as scanner stations in the Byss Security Zone, working in concert with Allegiance-class battlecruisers.\n\nMultiple Golan IIIs formed part of the Coruscant's Defense Fleet during the Imperial Period. Many of them would be destroyed when the New Republic took Coruscant from Director Ysanne Isard.\n\nThey were also stationed above many other valuable worlds, such as Zhar system, Coruscant and Muunilinst, remaining in use through the end of the Yuuzhan Vong War and beyond.</t>
+		</page>
+		<!--Stations-->
+		<!--Stations-->
+		<!--Stations-->
+		<!--Stations-->
+		<page id="1423070001" voice="yes">
+			<!--Generic/CSA style-->
+			<t id="1">Dreadnaught Shipyard</t>
+		</page>
+		<page id="1423070002" voice="yes">
+			<!--NRL style-->
+			<t id="1">Dreadnaught Shipyard</t>
+		</page>
+		<page id="1423070003" voice="yes">
+			<!--MDW style-->
+			<t id="1">Dreadnaught Shipyard</t>
+		</page>
+		<page id="1423070004" voice="yes">
+			<!--ICG style-->
+			<t id="1">Dreadnaught Shipyard</t>
+		</page>
+		<!--Job Names-->
+		<!--Job Names-->
+		<!--Job Names-->
+		<!--Job Names-->
+		<page id="1423080001" voice="no">
+			<!--Blank job name-->
+			<t id="1"/>
+		</page>
+		<page id="1423080002" voice="no">
+			<t id="1">Guardian</t>
+		</page>
+		<!--Gamestarts-->
+		<!--Gamestarts-->
+		<!--Gamestarts-->
+		<!--Gamestarts-->
+		<page id="1423090001" voice="yes">
+			<!--Title-->
+			<t id="1">*Advanced* Ascendancy Inquisitor [DABC]</t>
+			<!--Description-->
+			<t id="2">DIFFICULTY: Advanced\n*Everyone hates you.*\n*Maintenance is active immediately.*\n\nYou are a high ranking Inquisitor of the Imperial Ascendancy with a sizable fleet under your command, of which the flagship is the Extirpator - one of the few Procurator II-class Battlecruisers in the Ascendancy Navy.\n\nThe Ascendancy obtained intelligence that the blueprints for the Empire's Bellator-class Star Dreadnaught were currently on a shipyard in Rakata Prime - you were tasked with the secret mission of obtaining them by any means necessary.\n\nHowever, the Empire somehow knew you were coming - and as you were traveling through Jakku on the final approach to Rakata Prime an Empire fleet came out of hyperspace right on your fleet's position!\nIn the ensuing battle both fleets sustained heavy losses, but the Extirpator is barely hanging on with many primary shield generators and weapon systems destroyed. The Ascendancy has deemed the mission a failure and abandoned you to your fate.\n\nWho betrayed you? Was it all a setup? You've got to make it out alive to earn back your place, or get your revenge.</t>
+			<!--Player Name-->
+			<t id="3">Artora Sathel</t>
+			<!--Starting Sector-->
+			<t id="4">Jakku</t>
+			<!--Starting Ship(s)-->
+			<t id="5">Extirpator with fighter wing, Enforcer, Kontos</t>
+			<!--Player Ship Name-->
+			<t id="6">Extirpator</t>
+			<!--Voice-over Subtitles-->
+			<t id="7">You are a high ranking Inquisitor of the Imperial Ascendancy with a sizable fleet under your command, of which the flagship is the Extirpator - one of the few Procurator II-class Battlecruisers in the Ascendancy Navy. The Ascendancy obtained intelligence that the blueprints for the Empire's Bellator-class Star Dreadnaught were currently on a shipyard in Rakata Prime - you were tasked with the secret mission of obtaining them by any means necessary. However, the Empire somehow knew you were coming - and as you were traveling through Jakku on the final approach to Rakata Prime an Empire fleet came out of hyperspace right on your fleet's position! In the ensuing battle both fleets sustained heavy losses, but the Extirpator is barely hanging on with many primary shield generators and weapon systems destroyed. The Ascendancy has deemed the mission a failure and abandoned you to your fate. Who betrayed you? Was it all a setup? You've got to make it out alive to earn back your place, or get your revenge.</t>
+		</page>
+		<!-- Research Options -->
+		<!-- Research Options -->
+		<!-- Research Options -->
+		<!-- Research Options -->
+		<page id="1423090020" voice="no">
+			<t id="1">Mandator II-class Construction</t>
+			<t id="2">Allows construction of the Mandator II-class Dreadnaught as well as required systems.\n\nProvides blueprint for this ship's hull, engines, primary shield generator, and primary weapon.\n\nCompatible weapons and secondary shields are sold by most major factions.\n\nAlso includes schematics for the Clone Era, Imperial, and Mandalorian variants.\n\nLicensed Build Limit: 1 of each variant</t>
+		</page>
+		<page id="1423090021" voice="no">
+			<t id="1">Annihilator-class Construction</t>
+			<t id="2">Allows construction of the Annihilator-class Dreadnaught as well as all required systems.\n\nProvides blueprint for this ship's hull, engines, primary shield generator, and primary weapon.\n\nCompatible weapons and secondary shields are sold by the Imperial factions.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423090022" voice="no">
+			<t id="1">Strident-class Construction</t>
+			<t id="2">Allows construction of the Strident-class Star Defender as well as all required systems.\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold primarily by the New Republic.\n\nLicensed Build Limit: 2</t>
+		</page>
+		<page id="1423090023" voice="no">
+			<t id="1">Titan-class Construction</t>
+			<t id="2">Allows construction of the Titan-class Star Destroyer as well as all required systems.\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold primarily by the Ascendancy.\n\nLicensed Build Limit: 4</t>
+		</page>
+		<page id="1423090024" voice="no">
+			<t id="1">Galactic Republic Data Cube</t>
+			<t id="2">An old data cube dating back to the Clone Wars.\n\nDecrypting this will allow us to build the infrastructure required to construct XXL class ships and allow us to research Republic Navy ships.</t>
+		</page>
+		<page id="1423090025" voice="no">
+			<t id="1">Imperial Warlords Data Cube</t>
+			<t id="2">A data cube that was salvaged from an Ascendancy Star Destroyer.\n\nDecrypting this will allow us to build the infrastructure required to construct XXL class ships and allow us to research Ascendancy capital ships.</t>
+		</page>
+		<page id="1423090026" voice="no">
+			<t id="1">New Republic Data Cube</t>
+			<t id="2">A data cube that was salvaged from a New Republic research vessel.\n\nDecrypting this will allow us to build the infrastructure required to construct XXL class ships and allow us to research New Republic and Mon Calamari capital ships.</t>
+		</page>
+		<page id="1423090027" voice="no">
+			<t id="1">Durasteel Infused Superstructure</t>
+			<t id="2">A heavily encrypted data cube containing highly classified information pertaining to how to manufacturer durasteel and quadranium alloy infused superstructures.</t>
+		</page>
+		<page id="1423090028" voice="no">
+			<t id="1">Compact Death Star Reactor</t>
+			<t id="2">Further decryption of the data cube reveals plans for a miniaturized death star reactor core.</t>
+		</page>
+		<page id="1423090029" voice="no">
+			<t id="1">Kyber Crystal Laser Focusing</t>
+			<t id="2">Further decrypting revealed data on how to focus Kyber crystals for potential use in laser focusing.</t>
+		</page>
+		<page id="1423090030" voice="no">
+			<t id="1">Eclipse-class SSD Construction</t>
+			<t id="2">Fully decrypting the data cube has revealed blueprints for the Eclipse-class Super Star Destroyer.\n\nThis will allow us to construct and maintain this extremely powerful ship.\n\nProvides blueprint for this ship's hull, engines, primary shield generator, and primary weapon.\n\nCompatible weapons and secondary shields are sold by the Galactic Empire and Kuat.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423090031" voice="no">
+			<t id="1">Lusankya Construction</t>
+			<t id="2">Having been recently captured by Wedge Antilles, the Lusankya is in extremely rough shape, allocating funds to this project will allow us to construct and maintain her in our own shipyards.\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by most major factions.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423090032" voice="no">
+			<t id="1">Mandator III-class Construction</t>
+			<t id="2">Allows construction of the Mandator III-class Dreadnaught, as well as all required systems.\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by the Imperial factions.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423090033" voice="no">
+			<t id="1">Mandator Line Data Cube</t>
+			<t id="2">A data cube purchased from Kuat Drive Yards detailing the evolution and design philosophies of the Mandator line of Dreadnaughts.\n\nDecrypting this will allow us to build the infrastructure required to construct XXL class ships and begin researching branches of the Mandator line.</t>
+		</page>
+		<page id="1423090034" voice="no">
+			<t id="1">Bellator-class Mark IIA Construction</t>
+			<t id="2">Allows construction of the Bellator-class Star Dreadnaught Mark IIA variant, as well as required subsystems.\n\nThe Mark IIA has been constructed in a dark grey color, is 50% larger, and around 25% stronger than a standard Bellator-class.\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by the Imperial factions.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423090035" voice="no">
+			<t id="1">Bellator-class Mark II Construction</t>
+			<t id="2">Allows construction of the Bellator-class Star Dreadnaught Mark II, as well as required subsystems.\n\nThe Mark II is 50% larger and around 25% stronger than a standard Bellator-class.\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by the Imperial factions.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423090036" voice="no">
+			<t id="1">Dominion Drive Yards Data Cube </t>
+			<t id="2">A data cube purchased from Moff Hadfol himself.\n\nDecrypting this will allow us to build the infrastructure required to construct XXL class ships and to begin to research the Compellor-class and Impellor-class Battlecruisers.</t>
+		</page>
+		<page id="1423090037" voice="no">
+			<t id="1">Compellor-class Battlecruiser Construction</t>
+			<t id="2">Allows construction of the Compellor-class Star Battlecruiser.\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by the Imperial factions.\n\nLicensed Build Limit: 2</t>
+		</page>
+		<page id="1423090038" voice="no">
+			<t id="1">Impellor-class Battlecruiser Construction</t>
+			<t id="2">Allows construction of the Impellor-class Star Battlecruiser.\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by the Imperial factions.\n\nLicensed Build Limit: 2</t>
+		</page>
+		<page id="1423090039" voice="no">
+			<t id="1">Praetor Mark II-class Construction</t>
+			<t id="2">Allows construction of the Praetor Mark II-class Battlecruiser.\n\nThe Praetor Mark II-class is an Imperial modernization of the Clone Wars Era Praetor-class.\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by the Imperial factions.\n\nLicensed Build Limit: 3</t>
+		</page>
+		<page id="1423090040" voice="no">
+			<t id="1">Galactic Empire Data Cube</t>
+			<t id="2">A data cube stolen from an Imperial Research Facility.\n\nDecrypting this will allow us to build the infrastructure required to construct XXL class ships and allow us to research Galactic Empire capital ships.</t>
+		</page>
+		<page id="1423090041" voice="no">
+			<t id="1">Mandator Divergence Data Cube</t>
+			<t id="2">A data cube purchased from Kuat Drive Yards detailing proposed philosophical changes to the Mandator line of Dreadnaughts.\n\nDecrypting this will allow us to build the infrastructure required to construct XXL class ships and begin researching a divergent branch of the Mandator line.</t>
+		</page>
+		<page id="1423090042" voice="no">
+			<t id="1">Ancient Mandalorian Data Cube</t>
+			<t id="2">A data cube found aboard a recently discovered wreck from the Mandalorian Wars of 3976 BBY.\n\nDecrypting this will allow us to build the infrastructure required to construct XXL class ships and begin researching the ability to produce modernized ancient Mandalorian designs.</t>
+		</page>
+		<page id="1423090043" voice="no">
+			<t id="1">Sundari-class Dreadnaught Construction</t>
+			<t id="2">Allows construction of the Sundari-class Dreadnaught.\n\nProvides blueprint for this ship's hull, engines, and primary weapon.\n\nCompatible weapons and secondary shields are sold by Mandalorian Death Watch.\n\nLicensed Build Limit: 2</t>
+		</page>
+		<page id="1423090044" voice="no">
+			<t id="1">Veragitor-class Battlecruiser Construction</t>
+			<t id="2">Allows construction of the Veragitor-class Battlecruiser.\n\nProvides blueprint for this ship's hull, engines, and primary weapon.\n\nCompatible weapons and secondary shields are sold by Kamino.\n\nLicensed Build Limit: 2</t>
+		</page>
+		<!--Quests-->
+		<!--Quests-->
+		<!--Quests-->
+		<!--Quests-->
+		<page id="1423090080" voice="yes">
+			<t id="1">WARNING: A significant number of inbound hyperdrive signatures detected near that Harrower!</t>
+			<t id="2">WARNING: Gravity well projector detected!! Engines are malfunctioning!!</t>
+			<t id="3">WARNING: It was a trap!! They've abushed our marines attempting to board and the survivors are fleeing!</t>
+		</page>
+		<page id="1423090081" voice="yes">
+			<t id="1">Golan Arms</t>
+			<t id="2">Golan Arms is a weapons manufacturing company, producer of such weapons as the FC-1 flechette launcher and the DF-9.\n\nGolan Arms also produces heavily-armed space stations that are deployed throughout the galaxy. The Golan I, II, and III-class of defense platform allow customers a wide range of options based on their budget.\n\nGolan Arms was a top artillery manufacturer for the Empire, but fell out of favor with the Imperial Army's bureaucracy. On the brink of failure, they would soon join the Rebel Alliance. This led the company to become one of the biggest contributors to the New Republic's military forces</t>
+		</page>
+		<!--Edits to SWI T entries-->
+		<!--Edits to SWI T entries-->
+		<!--Edits to SWI T entries-->
+		<!--Edits to SWI T entries-->
+		<page id="999840" title="SW mod main page" descr="SW mod" voice="yes">
+			<!--Credit to @Leitheon for these-->
+			<t id="101">\033#95FF0000#R\033X</t>
+			<t id="102">\033#9500FF00#G\033X</t>
+			<t id="103">\033#950000FF#B\033X</t>
+			<t id="104">\033#95FFC000#O\033X</t>
+		</page>
+		<page id="1423100001" voice="yes">
+			<t id="1">\033U [XXL]\033X Executor-class</t>
+			<t id="2">[XXL] Executor-class Super Star Destroyer</t>
+			<t id="3">The Executor-class Star Dreadnought, colloquially known as the Executor-class Super Star Destroyer, Executor-class Star Destroyer or simply Super Star Destroyer, is a heavy warship class in the Star Dreadnaught league, often used as command ships and flagships in the Imperial Navy. At their prime, they were among the largest vessels in the galaxy, and were almost invincible in combat, although they were costly to operate.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423100002" voice="yes">
+			<t id="1">\033U [XXL]\033X Lucrehulk-class Battleship</t>
+			<t id="2">[XXL] Lucrehulk-class Battleship</t>
+		</page>
+		<page id="1423100003" voice="yes">
+			<t id="1">\033U [XXL]\033X Bellator-class</t>
+			<t id="2">[XXL] Bellator-class Dreadnaught</t>
+			<t id="3">The Bellator-class Dreadnaught is a divergent design in the Mandator-series of Star Dreadnaught that served as a warship in the Imperial Navy. It is a class of large-scale dreadnaught that was manufactured by Kuat Drive Yards and served as a flagship in numerous Imperial fleets across the galaxy during the reign of Emperor Palpatine. Thanks to recent conflicts, a shortage of materials and manpower, and the destruction or capture of key shipyards, few Bellators remain in service.\n\nLicensed Build Limit: 2</t>
+		</page>
+		<page id="1423100004" voice="yes">
+			<t id="1">\033U [XXL]\033X Prototype SSD</t>
+			<t id="2">[XXL] Prototype Super Star Destroyer</t>
+			<t id="3">The prototype of the class of Super Star Destroyer that eventually became the Executor-class Star Dreadnaught. This schematic was acquired by criminal lords after fall of the Empire and sold to interested parties. While it lacks many of the improvements implemented in the final version of the Executor, it is still a formidible warship.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423100005" voice="yes">
+			<t id="1">\033U [XXL]\033X Praetor-class</t>
+			<t id="2">[XXL] Praetor-class Battlecruiser</t>
+			<t id="3">The Praetor-class Battlecruiser is an XXL warship that was produced by Kuat Drive Yards in the final years of the Galactic Republic. Examples of the class seen today have been refurbished to serve in wealthy militias and corporate security forces.\n\nLicensed Build Limit: 3</t>
+		</page>
+		<page id="1423100006" voice="no">
+			<t id="1">Praetor-class Construction</t>
+			<t id="2">Allows construction of the Praetor-class Battlecruiser.\n\nProvides blueprint for this ship's hull and engines.\n\nCompatible weapons, primary shields, and secondary shields are sold by most major factions.\n\nLicensed Build Limit: 3</t>
+		</page>
+		<page id="1423100007" voice="no">
+			<t id="1">Super Capital Infrastructure</t>
+			<t id="2">Allows for the construction of XXL fabrication facilities, capable of building and docking the largest warships.</t>
+		</page>
+		<page id="1423100008" voice="no">
+			<t id="1">Executor-class Design Prototyping</t>
+			<t id="2">Allows construction of the Prototype Super Star Destroyer.\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by most major factions.</t>
+		</page>
+		<page id="1423100009" voice="no">
+			<t id="1">Executor-class Construction</t>
+			<t id="2">Allows construction of the Executor-class Super Star Destroyer.\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by most major factions.\n\nLicensed Build Limit: 1</t>
+		</page>
+		<page id="1423100010" voice="no">
+			<t id="1">Bellator-class Construction</t>
+			<t id="2">Allows construction of the Bellator-class Dreadnaught.\n\nThe Bellator-class dreadnaught was a design based on the Mandator II-class. It diverged from its predecessors by being shorter and faster.\n\nThis design was referred to in the Imperial Military as a "fast dreadnaught."\n\nProvides blueprint for this ship's hull, engines, and primary shield generator.\n\nCompatible weapons and secondary shields are sold by most major factions.\n\nLicensed Build Limit: 2</t>
+		</page>
+	</add>
+</diff>

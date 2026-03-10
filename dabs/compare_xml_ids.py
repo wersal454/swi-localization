@@ -1,24 +1,6 @@
 import xml.etree.ElementTree as ET
 import sys
 
-"""
-XML ID Comparison Tool
-======================
-
-This script compares the 'id' attributes of <t> tags between two XML files
-and lists IDs that are present in the first file but missing in the second.
-
-Usage:
-    python compare_xml_ids.py path/to/first.xml path/to/second.xml
-
-Example:
-    python compare_xml_ids.py old_0001.xml new_0001.xml
-
-Output:
-    - Number of missing IDs
-    - List of missing IDs (sorted numerically)
-"""
-
 def extract_ids(file_path):
     """Extract all id attribute values from <t> tags in XML file"""
     ids = set()
